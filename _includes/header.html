@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="showcases tools, demos and prototypes developed by the R&amp;D department of the Netherlands Institute for Sound and Vision">
+  <title>Labs &middot; Sound and Vision</title>
+  <link href="{{ '/assets/css/font-awesome.min.css' | relative_url }}" rel="stylesheet">
+  <link href="{{ '/assets/css/benglabs.css' | relative_url }}" rel="stylesheet">
+  <link href="{{ '/assets/favicon.ico' | relative_url }}" rel="icon">
+  <script src="//use.typekit.net/omb6npz.js"></script>
+  <script>
+    try {
+      Typekit.load();
+    } catch (e) {
+
+    }
+  </script>
+</head>
+<body>
+  <div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="{{ '/' | relative_url }}">LABS <i class="fa fa-circle"></i> SOUND AND VISION</a>
+      </div>
+      <div class="navbar-collapse collapse">
+        <ul class="nav navbar-nav navbar-right">
+          <li{% if page.menu == 'home' %} class="active"{% endif %}><a href="{{ '/' | relative_url }}">HOME</a></li>
+          <li{% if page.menu == 'examples' %} class="active"{% endif %}><a href="{{ '/examples' | relative_url }}">EXAMPLES</a></li>
+          <li{% if page.menu == 'about' %} class="active"{% endif %}><a href="{{ '/about' | relative_url }}">ABOUT</a></li>
+          <li{% if page.menu == 'contact' %} class="active"{% endif %}><a href="{{ '/contact' | relative_url }}">CONTACT</a></li>
+          <li{% if page.menu == 'links' %} class="active"{% endif %}><a href="{{ '/links' | relative_url }}">LINKS</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>

@@ -1,0 +1,141 @@
+#masthead {
+	background: #009fda url('../images/labs_bg.jpg') no-repeat center top;
+	background-attachment: relative;
+	background-position: center center;
+	padding-bottom: 75px;
+	padding-top: 75px;
+    margin-top: 0;
+    min-height: 0;
+	background-size: 100%;
+	background-size: cover;
+
+	h1 {
+		font-size: 24px;
+		margin-top: 0;
+		color: white;
+		font-weight: 300;
+		letter-spacing: 3px;
+		@media (min-width: 768px) {
+			font-size: 60px;
+		}
+	}
+	h2 {
+		color: white;
+		font-size: 16px;
+		font-weight: 700;
+		letter-spacing: 2px;
+		text-transform: uppercase;
+		@media (min-width: 768px) {
+			font-size: 34px;
+		}
+	}
+	h3 {
+		color: white;
+		font-size: 14px;
+		font-weight: 700;
+		letter-spacing: 2px;
+		text-transform: uppercase;
+		@media (min-width: 768px) {
+			font-size: 18px;
+		}
+
+	}
+}
+
+#selection-area {
+	padding-top: 70px;
+	padding-bottom: 70px;
+
+	.facets {
+		@include facets()
+	}
+
+	.facet {
+		&:hover {
+			color:$bgRed;
+		}
+	}
+	.fa {
+		&:hover {
+			color:$bgRed;
+		}
+	}
+
+	.sel.facet {
+		color:$bgRed;
+		font-weight:bold;
+		&:hover {
+			font-weight:normal;
+		}
+	}
+}
+
+#institute {
+	padding-top: 70px;
+	padding-bottom: 70px;
+	text-align: center;
+	h4 {
+		font-weight: 700;
+	}
+}
+
+#twitter {
+	background: #ebebeb;
+	padding:6 * $defaultMargin;
+	text-align:center;
+	h4 {
+
+	}
+}
+
+#rights_statement {
+	margin-top:30px;
+	a {
+		color:#333;
+		&:hover {
+			text-decoration:underline;
+		}
+	}
+}
+
+#footer {
+	background: #2d2d2d;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	h4 {
+		color: $bgGrey;
+	}
+	i {
+		color: $bgGrey;
+		font-size: 30px;
+		padding: 20px;
+		&:hover {
+			color: #e00034;
+		}
+	}
+}
+
+
+.main-facet {
+	margin-bottom: 20px;
+}
+
+.facets {
+	margin: 15px;
+	padding:0px;
+}
+
+.facet {
+	display: inline-block;
+	padding: 5px;
+	&:after {
+		color:#a3a3a3;
+		content:"|";
+	}
+}
+
+.anchor {
+	/*display: block; position:relative; visibility: hidden;*/
+	position:absolute;
+	margin:-70px;
+}

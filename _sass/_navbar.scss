@@ -1,0 +1,26 @@
+.navbar {
+	font-family:'akzidenz-grotesk-condensed', bebas_neueregular, Helvetica Neue, Arial, sans-serif;
+	font-weight: 900;
+	font-size: 18px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.navbar-inverse {
+	background: #2d2d2d;
+	border-color: #2d2d2d;
+	.navbar-nav > .active > a {
+		background: $bgRed;
+	}
+	.navbar-brand {
+		color: #999999;
+		font-weight: 900;
+		font-size: 22px;
+		letter-spacing: 1px;
+		i {
+			color: #009fda;
+			font-size: 22px;
+			letter-spacing: 1px;
+		}
+	}
+}

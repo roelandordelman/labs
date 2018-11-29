@@ -1,0 +1,81 @@
+{% include header.html %}
+<div class="container application">
+	<div class="row">
+		<div class="col-md-5">
+			<div class="cardimage">
+				<img src="{{ page.poster_image }}" alt="" class="img-responsive">
+			</div>
+			<table class="table">
+				<tbody>
+					<tr>
+						<td>Related project</td>
+						<td><a id="project" href="/project/project-title">[Project]</a></td>
+					</tr>
+					<tr>
+						<td>Status</td>
+						<td>{{ page.status }}</td>
+					</tr>
+					<tr>
+						<td>Access</td>
+						<td>{{ page.access }}</td>
+					</tr>
+					<tr>
+						<td>Request authentication</td>
+						<td>
+							{% for person in page.requestauthentication %}
+							<a href="mailto:{{ person.email }}">{{ person.name }}</a><br>
+							{% endfor %}
+						</td>
+					</tr>
+					<tr>
+						<td>Themes</td>
+						<td>
+							{% for theme in page.themes %}
+							<a class="btn btn-xs btn-default">{{ theme }}</a>
+							{% endfor %}
+						</td>
+					</tr>
+					<tr>
+						<td>Main topics</td>
+						<td>
+							{% for tag in page.tags %}
+							<a class="btn btn-xs btn-default">{{ tag }}</a>
+							{% endfor %}
+						</td>
+					</tr>
+					<tr>
+						<td>Media type</td>
+						<td>
+							{% for type in page.contenttypes %}
+							<a class="btn btn-xs btn-default">{{ type }}</a>
+							{% endfor %}
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			{% if page.blogposts[0].title != nil %}
+			<p class="links" style="padding:8px;">
+				<br><br>
+				<strong>Blogs</strong><br>
+				{% for post in page.blogposts %}
+				<a href="{{ post.url }}">{{ post.title }}</a><br>
+				{% endfor %}
+			</p>
+			{% endif %}
+		</div>
+		<div class="col-md-6 col-md-offset-1">
+			<h4 class="bengfont">{{ page.title | upcase }}</h4>
+			{{ content }}
+			<p class="links">
+				<i class="fa fa-link"></i> <a href="{{ page.url }}">{{ page.url }}</a><br/>
+				<i class="fa fa-github"></i> <a href="{{ page.github }}">{{ page.github }}</a><br/>
+				<i class="fa fa-cogs"></i><a id="project" href="/project/dbd21ad2-edb3-11e4-8099-005056a71e3a">QuaMeRDES</a>
+			</p>
+		</div>
+	</div>
+	<br><br>
+	<br><br>
+	<br><br>
+</div>
+
+{% include footer.html %}
