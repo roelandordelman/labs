@@ -1,11 +1,11 @@
 ---
 layout: example
-id: 3a0a9b4c-1b4f-11e5-bf8d-005056a71e3a
+project_id: 3a0a9b4c-1b4f-11e5-bf8d-005056a71e3a
 title: AXES
 menu: examples
-url: http://www.axes-project.eu/
-thumb_image: uploads/avresearcherxl_poster.png
-description: Develop tools for various types of users to interact with audiovisual libraries
+website_url: http://www.axes-project.eu/
+thumb_image: /uploads/avresearcherxl_poster.png
+description: "Develop tools for various types of users to interact with audiovisual libraries"
 themes: [Metadata & Context, Users, Access]
 tags: [Multimodal search, Visual search, Speech recognition, Video hyperlinking, Access models]
 partners: [Netherlands Institute for Sound and Vision, ERCIM, KU Leuven, University of Oxford, Inria, DCU, University of Twente, Fraunhofer IAIS, BBC, Deutsche Welle, Technicolor, Cassidian, Erasmus University Rotterdam]
@@ -22,8 +22,8 @@ The purpose of AXES is to develop tools for different user groups to provide new
 
 During the project, three different versions are being developed, each for a different user:
 
-* media professionals
-* education & research
-* the general public.
+*   media professionals
+*   education & research
+*   the general public.
 
 The project started in 2011, takes 4 years and is funded by the FP7 Framework Programme of the European Union.

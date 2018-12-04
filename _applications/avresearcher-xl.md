@@ -1,12 +1,13 @@
 ---
 layout: application
-id: dbd09298-edb3-11e4-8099-005056a71e3a
+application_id: dbd09298-edb3-11e4-8099-005056a71e3a
 title: AVResearcher XL
 menu: home
-url: http://avresearcher.clariah.beeldengeluid.nl
+website_url: http://avresearcher.clariah.beeldengeluid.nl
 thumb_image: /uploads/avresearcherxl_wide.png
 poster_image: /uploads/avresearcherxl_poster.png
-description: Exploring radio and television in context
+description: "Exploring radio and television in context"
+project_id: dbd21ad2-edb3-11e4-8099-005056a71e3a
 access: Authentication needed
 github: https://github.com/beeldengeluid/audiovisual-researcher
 status: [Completed]

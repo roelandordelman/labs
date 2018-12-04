@@ -1,11 +1,11 @@
 ---
 layout: example
-id: 11c3e7ec-acfc-11e7-a9c0-0050569ef392
+project_id: 11c3e7ec-acfc-11e7-a9c0-0050569ef392
 title: Music in Movement
 menu: examples
-url: http://musicinmovement.eu/
-thumb_image: _uploads/MiMgraph.png
-description: Online project showcasing four prominent European composers
+website_url: http://musicinmovement.eu/
+thumb_image: /uploads/MiMgraph.png
+description: "Online project showcasing four prominent European composers"
 themes: [Metadata & Context, Access, Humanities]
 tags: [Classical Music]
 partners: [Sound and Vision, INA, FINA, Arvo Pärt Centre]
@@ -17,4 +17,5 @@ contactpersons:
 publications: 
 blogposts: 
 ---
-<p>The online project Music in Movement highlights the richness of European contemporary music by tracing the stories of four eminent composers: Louis Andriessen, Pierre Boulez, Arvo P&auml;rt and Kazimierz Serocki. Through accessible themes, quizzes and, most importantly, a wealth of music, MiM reaches out to a broad audience in a new and engaging way. At the same time users with a background in music will be able to discover interesting storylines as well as delightful footage.</p>
+
+The online project Music in Movement highlights the richness of European contemporary music by tracing the stories of four eminent composers: Louis Andriessen, Pierre Boulez, Arvo Pärt and Kazimierz Serocki. Through accessible themes, quizzes and, most importantly, a wealth of music, MiM reaches out to a broad audience in a new and engaging way. At the same time users with a background in music will be able to discover interesting storylines as well as delightful footage.

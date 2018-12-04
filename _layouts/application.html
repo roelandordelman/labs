@@ -7,18 +7,28 @@
 			</div>
 			<table class="table">
 				<tbody>
+					{% if page.project_id != nil %}
 					<tr>
-						<td>Related project</td>
-						<td><a id="project" href="/project/project-title">[Project]</a></td>
+						<td style="white-space:nowrap">Related project</td>
+						<td>
+							{% assign projects = site.projects | where:"project_id", page.project_id %}
+							<a id="project" href="{{ projects[0].url }}">{{ projects[0].title }}</a>
+						</td>
 					</tr>
+					{% endif %}
+					{% if page.status != nil %}
 					<tr>
 						<td>Status</td>
 						<td>{{ page.status }}</td>
 					</tr>
+					{% endif %}
+					{% if page.access != nil %}
 					<tr>
 						<td>Access</td>
 						<td>{{ page.access }}</td>
 					</tr>
+					{% endif %}
+					{% if page.requestauthentication[0].name != nil %}
 					<tr>
 						<td>Request authentication</td>
 						<td>
@@ -27,6 +37,8 @@
 							{% endfor %}
 						</td>
 					</tr>
+					{% endif %}
+					{% if page.themes[0] != nil %}
 					<tr>
 						<td>Themes</td>
 						<td>
@@ -35,6 +47,8 @@
 							{% endfor %}
 						</td>
 					</tr>
+					{% endif %}
+					{% if page.tags[0] != nil %}
 					<tr>
 						<td>Main topics</td>
 						<td>
@@ -43,6 +57,8 @@
 							{% endfor %}
 						</td>
 					</tr>
+					{% endif %}
+					{% if page.contenttypes[0] != nil %}
 					<tr>
 						<td>Media type</td>
 						<td>
@@ -51,6 +67,7 @@
 							{% endfor %}
 						</td>
 					</tr>
+					{% endif %}
 				</tbody>
 			</table>
 			{% if page.blogposts[0].title != nil %}
@@ -67,15 +84,11 @@
 			<h4 class="bengfont">{{ page.title | upcase }}</h4>
 			{{ content }}
 			<p class="links">
-				<i class="fa fa-link"></i> <a href="{{ page.url }}">{{ page.url }}</a><br/>
+				<i class="fa fa-link"></i> <a href="{{ page.url }}">{{ page.website_url }}</a><br/>
 				<i class="fa fa-github"></i> <a href="{{ page.github }}">{{ page.github }}</a><br/>
-				<i class="fa fa-cogs"></i><a id="project" href="/project/dbd21ad2-edb3-11e4-8099-005056a71e3a">QuaMeRDES</a>
+				<i class="fa fa-cogs"></i><a id="project" href="{{ projects[0].url }}">{{ projects[0].title }}</a>
 			</p>
 		</div>
 	</div>
-	<br><br>
-	<br><br>
-	<br><br>
 </div>
-
 {% include footer.html %}
