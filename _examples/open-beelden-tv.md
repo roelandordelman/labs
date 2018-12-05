@@ -2,7 +2,7 @@
 layout: example
 example_id: 4762af58-a319-11e5-9e6c-005056a71e3a
 title: Open Beelden TV
-menu: home
+menu: examples
 website_url: http://openbeelden.nl/tv/
 info_url: 
 media_url: 
@@ -23,4 +23,5 @@ used_sources:
 - name: Open Images API
   url: http://labs.beeldengeluid.nl/apis#dbd1c7ee-edb3-11e4-8099-005056a71e3a
 ---
-<p>Interface to browse through the Open Images collection on a tablet, smartphone or computer.</p>
+
+Interface to browse through the Open Images collection on a tablet, smartphone or computer.

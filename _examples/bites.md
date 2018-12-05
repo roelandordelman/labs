@@ -2,7 +2,7 @@
 layout: example
 example_id: b3406a8e-a27f-11e5-93ae-005056a71e3a
 title: Bites
-menu: home
+menu: examples
 website_url: http://bites.designpunt.nl/
 info_url: 
 media_url: https://vimeo.com/57485590
@@ -21,4 +21,5 @@ used_sources:
 - name: Sound and Vision on Open Images
   url: http://labs.beeldengeluid.nl/datasets#dbd157b4-edb3-11e4-8099-005056a71e3a
 ---
-<p>The Bites app is a native application for iOS that lets users create their own soundbite based on preselected video fragments from the Polygoon collection of Sound and Vision.</p>
+
+The Bites app is a native application for iOS that lets users create their own soundbite based on preselected video fragments from the Polygoon collection of Sound and Vision.

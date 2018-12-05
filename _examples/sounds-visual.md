@@ -2,7 +2,7 @@
 layout: example
 example_id: 6fde58be-a310-11e5-9e6c-005056a71e3a
 title: Sounds Visual
-menu: home
+menu: examples
 website_url: http://sndrv.nl/soundsvisual/
 info_url: 
 media_url: 
@@ -21,4 +21,5 @@ used_sources:
 - name: Sound of The Netherlands dataset
   url: http://labs.beeldengeluid.nl/datasets#dbd17834-edb3-11e4-8099-005056a71e3a
 ---
-<p>Sounds Visual lets users browse through sounds by selecting visual icons that represent the sound. The system asks the user to judge the representation of the sound by the visual icon&nbsp;to improve&nbsp;the database.</p>
+
+Sounds Visual lets users browse through sounds by selecting visual icons that represent the sound. The system asks the user to judge the representation of the sound by the visual icon to improve the database.

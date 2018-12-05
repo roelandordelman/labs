@@ -1,0 +1,23 @@
+{% include header.html %}
+<section id="selection-area" class="container">
+	<section class="container main-topic">
+		<br>
+		<h4 class="text-center">{{page.subtitle | upcase}}</h4>
+		<div class="row">
+			{% for item in site.examples %}
+			<div id="{{item.id}}" class="col-sm-6 col-md-4 app">
+				<div class="card">
+					<a href="{{item.url}}">
+						<img src="{{item.thumb_image}}">
+					</a>
+					<div class="caption">
+						<h4 class="bengfont"><i class="fa fa-diamond"></i>&nbsp;{{item.title}}</h4>
+						<p>{{item.description}}</p>
+					</div>
+				</div>
+			</div>
+			{% endfor %}
+		</div>
+	</section>
+</section>
+{% include footer.html %}

@@ -2,7 +2,7 @@
 layout: example
 example_id: 78ddb3d2-186d-11e7-acb1-0050569ef392
 title: Beeld en Geluid Labs Giphy channel
-menu: home
+menu: examples
 website_url: https://giphy.com/benglabs
 info_url: 
 media_url: 
@@ -19,4 +19,5 @@ used_sources:
 - name: Sound and Vision on Open Images
   url: http://labs.beeldengeluid.nl/datasets#dbd157b4-edb3-11e4-8099-005056a71e3a
 ---
-<p>At the Beeld en Geluid Labs Giphy channel we showcase GIFs made with our openly licensed archive material from Open Images. The channel also shows results of the gif-a-thon workshop that was organised at Sound and Vision in March 2017.</p>
+
+At the Beeld en Geluid Labs Giphy channel we showcase GIFs made with our openly licensed archive material from Open Images. The channel also shows results of the gif-a-thon workshop that was organised at Sound and Vision in March 2017.

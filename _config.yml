@@ -12,6 +12,10 @@ collections:
     title: Applications
     output: true
     permalink: "/application/:title"
+  examples:
+    title: Examples
+    output: true
+    permalink: "/example/:title"
 
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"

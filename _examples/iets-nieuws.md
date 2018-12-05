@@ -2,7 +2,7 @@
 layout: example
 example_id: 62e6a992-57f4-11e6-87b0-005056a71e3a
 title: Iets Nieuws
-menu: home
+menu: examples
 website_url: http://tinyurl.com/ietsnieuwsgame
 info_url: http://biktorrr.github.io/ietsnieuws/
 media_url: https://youtu.be/64xi63d9iCc
@@ -21,4 +21,5 @@ used_sources:
 - name: Sound and Vision on Open Images
   url: http://labs.beeldengeluid.nl/datasets#dbd157b4-edb3-11e4-8099-005056a71e3a
 ---
-<p>IetsNieuws is an interactive game/web toy, where participants are asked to do voiceovers for&nbsp;Open Images videos. One player takes on the role of a newscaster, while the other player remixes news footage.</p>
+
+IetsNieuws is an interactive game/web toy, where participants are asked to do voiceovers for Open Images videos. One player takes on the role of a newscaster, while the other player remixes news footage.

@@ -2,7 +2,7 @@
 layout: example
 example_id: 0e5e589a-9e57-11e5-a8cf-005056a71e3a
 title: Tom's tijdmachine
-menu: home
+menu: examples
 website_url: 
 info_url: 
 media_url: https://www.youtube.com/watch?v=i5eiN_b0e4E
@@ -21,9 +21,9 @@ used_sources:
 - name: Sound and Vision on Open Images
   url: http://labs.beeldengeluid.nl/datasets#dbd157b4-edb3-11e4-8099-005056a71e3a
 ---
-<p>Tom's tijdmachine (Tom's time machine) is a game divided in three parts:&nbsp;</p>
-<ol>
-<li>The player watches a film about a subject (for instance the landing on the moon)</li>
-<li>The player plays the game andt tries to gather as much points and hints as possible</li>
-<li>The player has to answer questions about the film and can answer these with the collected hints.</li>
-</ol>
+
+Tom's tijdmachine (Tom's time machine) is a game divided in three parts: 
+
+1.  The player watches a film about a subject (for instance the landing on the moon)
+2.  The player plays the game andt tries to gather as much points and hints as possible
+3.  The player has to answer questions about the film and can answer these with the collected hints.
