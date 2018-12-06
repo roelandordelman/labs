@@ -1,31 +1,37 @@
 title: LABS - Sound and Vision
 timezone: Europe/Amsterdam
 collections:
-  uploads:
-    title: Uploads
+  apis:
+    title: APIs
     output: true
-  projects:
-    title: Projects
-    output: true
-    permalink: "/project/:title"
+    permalink: "/api/:title"
   applications:
     title: Applications
     output: true
     permalink: "/application/:title"
+  datasets:
+    title: Datasets
+    output: true
+    permalink: "/dataset/:title"
   examples:
     title: Examples
     output: true
     permalink: "/example/:title"
+  projects:
+    title: Projects
+    output: true
+    permalink: "/project/:title"
+  uploads:
+    title: Uploads
+    output: true
 
-email: your-email@example.com
+email: rd@beeldengeluid.nl
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  showcases tools, demos and prototypes developed by the R&D department of the Netherlands Institute for Sound and Vision
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: benglabs
+github_username:  beeldengeluid
 
 # Build settings
 markdown: kramdown

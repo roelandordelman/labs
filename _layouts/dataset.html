@@ -1,0 +1,64 @@
+{% include header.html %}
+<br><br><br>
+<div class="container">
+	<div class="row">
+		<div class="col-md-5">
+			<div class="cardimage">
+				<img src="{{ page.thumb_image }}" alt="" class="img-responsive">
+			</div>
+			<table class="table">
+				<tbody>
+					{% if page.project_id != nil %}
+					<tr>
+						<td style="white-space:nowrap">Related project</td>
+						<td>
+							{% assign projects = site.projects | where:"project_id", page.project_id %}
+							<a id="project" href="{{ projects[0].url }}">{{ projects[0].title }}</a>
+						</td>
+					</tr>
+					{% endif %}
+					{% if page.contactpersons[0].name != nil %}
+					<tr>
+						<td>Contact persons</td>
+						<td>
+							{% for person in page.contactpersons %}
+							<a href="mailto:{{ person.email }}">{{ person.name }}</a><br>
+							{% endfor %}
+						</td>
+					</tr>
+					{% endif %}
+					{% if page.contenttypes[0] != nil %}
+					<tr>
+						<td>Content type</td>
+						<td>
+							{% for type in page.contenttypes %}
+							<a class="btn btn-xs btn-default">{{ type }}</a>
+							{% endfor %}
+						</td>
+					</tr>
+					{% endif %}
+					{% if page.mediatypes[0] != nil %}
+					<tr>
+						<td>Media type</td>
+						<td>
+							{% for type in page.mediatypes %}
+							<a class="btn btn-xs btn-default">{{ type }}</a>
+							{% endfor %}
+						</td>
+					</tr>
+					{% endif %}
+				</tbody>
+			</table>
+		</div>
+		<div class="col-md-6 col-md-offset-1">
+			<h4 class="bengfont">{{ page.title | upcase }}</h4>
+			{{ page.content }}
+			<p class="links">
+				{% if page.website_url %}
+				<i class="fa fa-link"></i> <a href="{{ page.website_url }}">{{ page.website_url }}</a>
+				{% endif %}
+			</p>
+		</div>
+	</div>
+</div>
+{% include footer.html %}

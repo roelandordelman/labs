@@ -1,0 +1,36 @@
+{% include header.html %}
+{% include masthead.html %}
+<section id="selection-area" class="container">
+	<div class="text-center row">
+		<div class="col-md-4 main-facet">
+			<a href="{{ '/applications' | relative_url }}"><i class="fa fa-diamond fa-5x"></i></a>
+			<h4 class="bengfont">APPLICATIONS</h4>
+		</div>
+		<div class="col-md-4 main-facet">
+			<a href="{{ '/datasets' | relative_url }}"><i class="fa fa-cube fa-5x"></i></a>
+			<h4 class="bengfont">DATASETS</h4>
+		</div>
+		<div class="col-md-4 main-facet">
+			<a href="{{ '/apis' | relative_url }}"><i class="fa fa-rocket fa-5x"></i></a>
+			<h4 class="bengfont">APIS</h4>
+		</div>
+	</div>
+	<section class="container main-topic">
+		<br>
+		<h4 class="text-center">GO AHEAD AND TRY OUT OUR APPLICATIONS</h4>
+		<div class="row">
+			{% for item in site.applications %}
+			<div id="{{ item.id }}" class="col-sm-6 col-md-4 app">
+				<div class="card">
+					<a href="{{ item.url }}"><img src="{{ item.thumb_image }}"></a>
+					<div class="caption">
+						<h4 class="bengfont"><i class="fa fa-diamond"></i>&nbsp;{{ item.title }}</h4>
+						<p>{{ item.description }}</p>
+					</div>
+				</div>
+			</div>
+			{% endfor %}
+		</div>
+	</section>
+</section>
+{% include footer.html %}
