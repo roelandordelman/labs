@@ -9,7 +9,6 @@ description: "Sounds of daily life from the Netherlands"
 project_id: dbd2f7b8-edb3-11e4-8099-005056a71e3a
 contenttypes: [Sounds, Soundscapes, Sound Recording]
 mediatypes: [Audio, Metadata]
-access_text: ''
 contactpersons: 
 - organization: Netherlands Institute for Sound and Vision
   name: Maarten Brinkerink
