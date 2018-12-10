@@ -1,6 +1,6 @@
 ---
 layout: application
-application_id: cb51d770-acfa-11e7-bf7f-0050569ef392
+slug: cb51d770-acfa-11e7-bf7f-0050569ef392
 title: Musical Crossroads
 menu: home
 website_url: http://musicinmovement.eu/graph

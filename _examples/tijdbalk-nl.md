@@ -1,6 +1,6 @@
 ---
 layout: example
-example_id: ba24bf26-99a1-11e5-a8cf-005056a71e3a
+slug: ba24bf26-99a1-11e5-a8cf-005056a71e3a
 title: Tijdbalk.nl
 menu: examples
 website_url: http://tijdbalk.nl/

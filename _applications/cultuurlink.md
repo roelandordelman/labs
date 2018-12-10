@@ -1,6 +1,6 @@
 ---
 layout: application
-application_id: d5fd3274-1a70-11e5-b980-005056a71e3a
+slug: d5fd3274-1a70-11e5-b980-005056a71e3a
 title: CultuurLINK
 menu: home
 website_url: http://cultuurlink.beeldengeluid.nl/

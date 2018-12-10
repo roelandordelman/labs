@@ -1,6 +1,6 @@
 ---
 layout: project
-project_id: dbd33368-edb3-11e4-8099-005056a71e3a
+slug: dbd33368-edb3-11e4-8099-005056a71e3a
 title: Digitale Collectie
 menu: projects
 website_url: http://www.digitalecollectie.nl/

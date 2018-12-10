@@ -1,6 +1,6 @@
 ---
 layout: example
-example_id: cf49f162-a312-11e5-9e6c-005056a71e3a
+slug: cf49f162-a312-11e5-9e6c-005056a71e3a
 title: ConnectedCollection
 menu: examples
 website_url: http://www.connectedcollection.com

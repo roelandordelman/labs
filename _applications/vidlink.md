@@ -1,6 +1,6 @@
 ---
 layout: application
-application_id: dbd12d5c-edb3-11e4-8099-005056a71e3a
+slug: dbd12d5c-edb3-11e4-8099-005056a71e3a
 title: VidLink
 menu: home
 website_url: http://www.nadebevrijding.nl/

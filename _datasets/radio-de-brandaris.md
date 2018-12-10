@@ -1,6 +1,6 @@
 ---
 layout: dataset
-dataset_id: e4fde4ac-2be6-11e6-a743-005056a71e3a
+slug: e4fde4ac-2be6-11e6-a743-005056a71e3a
 title: Radio De Brandaris
 menu: home
 website_url: https://soundcloud.com/beeldengeluid/sets/radio-de-brandaris

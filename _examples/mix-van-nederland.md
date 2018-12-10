@@ -1,6 +1,6 @@
 ---
 layout: example
-example_id: 2f944204-9e61-11e5-a8cf-005056a71e3a
+slug: 2f944204-9e61-11e5-a8cf-005056a71e3a
 title: Mix van Nederland
 menu: examples
 website_url: 

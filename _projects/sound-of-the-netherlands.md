@@ -1,6 +1,6 @@
 ---
 layout: project
-project_id: dbd2f7b8-edb3-11e4-8099-005056a71e3a
+slug: dbd2f7b8-edb3-11e4-8099-005056a71e3a
 title: Sound of the Netherlands
 menu: projects
 website_url: http://www.geluidvannederland.nl/

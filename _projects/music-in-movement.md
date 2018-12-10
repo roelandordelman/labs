@@ -1,6 +1,6 @@
 ---
 layout: project
-project_id: 11c3e7ec-acfc-11e7-a9c0-0050569ef392
+slug: 11c3e7ec-acfc-11e7-a9c0-0050569ef392
 title: Music in Movement
 menu: projects
 website_url: http://musicinmovement.eu/

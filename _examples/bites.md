@@ -1,6 +1,6 @@
 ---
 layout: example
-example_id: b3406a8e-a27f-11e5-93ae-005056a71e3a
+slug: b3406a8e-a27f-11e5-93ae-005056a71e3a
 title: Bites
 menu: examples
 website_url: http://bites.designpunt.nl/

@@ -1,6 +1,6 @@
 ---
 layout: project
-project_id: deb93ff6-fcfb-11e6-bc09-0050569ef392
+slug: deb93ff6-fcfb-11e6-bc09-0050569ef392
 title: Transnational Radio Encounters
 menu: projects
 website_url: http://www.transnationalradio.org/

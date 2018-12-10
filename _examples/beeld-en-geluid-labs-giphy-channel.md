@@ -1,6 +1,6 @@
 ---
 layout: example
-example_id: 78ddb3d2-186d-11e7-acb1-0050569ef392
+slug: 78ddb3d2-186d-11e7-acb1-0050569ef392
 title: Beeld en Geluid Labs Giphy channel
 menu: examples
 website_url: https://giphy.com/benglabs

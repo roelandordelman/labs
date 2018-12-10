@@ -1,6 +1,6 @@
 ---
 layout: application
-application_id: 6ade370a-1b50-11e5-b980-005056a71e3a
+slug: 6ade370a-1b50-11e5-b980-005056a71e3a
 title: AXES Visual Search
 menu: home
 website_url: http://lepelaar.beeldengeluid.nl/axes/home/academia/#/

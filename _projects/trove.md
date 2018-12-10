@@ -1,6 +1,6 @@
 ---
 layout: project
-project_id: dbd240e8-edb3-11e4-8099-005056a71e3a
+slug: dbd240e8-edb3-11e4-8099-005056a71e3a
 title: TROVe
 menu: projects
 website_url: http://trove.beeldengeluid.nl

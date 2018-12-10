@@ -1,6 +1,6 @@
 ---
 layout: project
-project_id: dbd21ad2-edb3-11e4-8099-005056a71e3a
+slug: dbd21ad2-edb3-11e4-8099-005056a71e3a
 title: QuaMeRDES
 menu: projects
 website_url: http://www.clarin.nl/node/1404

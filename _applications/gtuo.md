@@ -1,6 +1,6 @@
 ---
 layout: application
-application_id: a4fd0e34-57ef-11e6-87b0-005056a71e3a
+slug: a4fd0e34-57ef-11e6-87b0-005056a71e3a
 title: GTUO
 menu: home
 website_url: http://link.spinque.com/VIAA-1.0/

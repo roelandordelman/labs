@@ -1,6 +1,6 @@
 ---
 layout: example
-example_id: 28abfb4c-9e63-11e5-a8cf-005056a71e3a
+slug: 28abfb4c-9e63-11e5-a8cf-005056a71e3a
 title: Vistory
 menu: examples
 website_url: http://www.vistory.nl/

@@ -1,6 +1,6 @@
 ---
 layout: application
-application_id: 19b1b2ae-306c-11e5-8f19-005056a71e3a
+slug: 19b1b2ae-306c-11e5-8f19-005056a71e3a
 title: Beeld en Geluid Webarchief
 menu: home
 website_url: http://www.beeldengeluidwebarchief.nl/

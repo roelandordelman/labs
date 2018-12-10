@@ -1,6 +1,6 @@
 ---
 layout: example
-example_id: 3fc68fca-9e5b-11e5-a8cf-005056a71e3a
+slug: 3fc68fca-9e5b-11e5-a8cf-005056a71e3a
 title: Enriched Open Images videos
 menu: examples
 website_url: http://mash.openbeelden.nl/apps/openbeelden/51207/

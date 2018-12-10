@@ -1,6 +1,6 @@
 ---
 layout: example
-example_id: 62e6a992-57f4-11e6-87b0-005056a71e3a
+slug: 62e6a992-57f4-11e6-87b0-005056a71e3a
 title: Iets Nieuws
 menu: examples
 website_url: http://tinyurl.com/ietsnieuwsgame

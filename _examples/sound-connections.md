@@ -1,6 +1,6 @@
 ---
 layout: example
-example_id: d897ee3e-a323-11e5-9e6c-005056a71e3a
+slug: d897ee3e-a323-11e5-9e6c-005056a71e3a
 title: Sound Connections
 menu: examples
 website_url: https://www.historypin.org/en/explore/sound-connections

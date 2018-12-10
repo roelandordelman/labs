@@ -1,6 +1,6 @@
 ---
 layout: example
-example_id: 0e5e589a-9e57-11e5-a8cf-005056a71e3a
+slug: 0e5e589a-9e57-11e5-a8cf-005056a71e3a
 title: Tom's tijdmachine
 menu: examples
 website_url: 

@@ -1,6 +1,6 @@
 ---
 layout: example
-example_id: 7bda91a0-a315-11e5-93ae-005056a71e3a
+slug: 7bda91a0-a315-11e5-93ae-005056a71e3a
 title: Culture Derby
 menu: examples
 website_url: http://demo.deanbirkett.name/LDOIGA/home.html

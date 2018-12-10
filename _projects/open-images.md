@@ -1,6 +1,6 @@
 ---
 layout: project
-project_id: dbd2dbf2-edb3-11e4-8099-005056a71e3a
+slug: dbd2dbf2-edb3-11e4-8099-005056a71e3a
 title: Open Images
 menu: projects
 website_url: http://www.openbeelden.nl

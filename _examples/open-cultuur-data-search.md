@@ -1,6 +1,6 @@
 ---
 layout: example
-example_id: fb661666-a3d7-11e5-8084-005056a71e3a
+slug: fb661666-a3d7-11e5-8084-005056a71e3a
 title: Open Cultuur Data Search
 menu: examples
 website_url: http://search.opencultuurdata.nl/

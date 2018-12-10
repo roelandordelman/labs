@@ -1,6 +1,6 @@
 ---
 layout: dataset
-dataset_id: 18a27a2e-312a-11e5-8f19-005056a71e3a
+slug: 18a27a2e-312a-11e5-8f19-005056a71e3a
 title: Radio Herrijzend Nederland
 menu: home
 website_url: https://soundcloud.com/beeldengeluid/sets/radio-herrijzend-nederland

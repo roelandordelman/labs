@@ -1,6 +1,6 @@
 ---
 layout: application
-application_id: 90e196ba-217f-11e5-b980-005056a71e3a
+slug: 90e196ba-217f-11e5-b980-005056a71e3a
 title: BengDB
 menu: home
 website_url: 

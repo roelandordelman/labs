@@ -1,6 +1,6 @@
 ---
 layout: application
-application_id: dbd09298-edb3-11e4-8099-005056a71e3a
+slug: dbd09298-edb3-11e4-8099-005056a71e3a
 title: AVResearcher XL
 menu: home
 website_url: http://avresearcher.clariah.beeldengeluid.nl

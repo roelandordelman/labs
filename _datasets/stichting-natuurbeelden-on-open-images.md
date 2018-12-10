@@ -1,6 +1,6 @@
 ---
 layout: dataset
-dataset_id: 94e93bec-3060-11e5-a417-005056a71e3a
+slug: 94e93bec-3060-11e5-a417-005056a71e3a
 title: Stichting Natuurbeelden on Open Images
 menu: home
 website_url: http://natuurbeelden.openbeelden.nl/

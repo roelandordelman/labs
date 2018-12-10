@@ -1,6 +1,6 @@
 ---
 layout: project
-project_id: dbd28102-edb3-11e4-8099-005056a71e3a
+slug: dbd28102-edb3-11e4-8099-005056a71e3a
 title: PoliMedia
 menu: projects
 website_url: http://www.polimedia.nl

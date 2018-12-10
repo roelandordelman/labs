@@ -1,6 +1,6 @@
 ---
 layout: dataset
-dataset_id: dbd157b4-edb3-11e4-8099-005056a71e3a
+slug: dbd157b4-edb3-11e4-8099-005056a71e3a
 title: Sound and Vision on Open Images 
 menu: home
 website_url: http://www.openimages.eu/users/beeldengeluid

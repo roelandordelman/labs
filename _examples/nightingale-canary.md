@@ -1,6 +1,6 @@
 ---
 layout: example
-example_id: 372811a0-9e8c-11e5-a2a1-005056a71e3a
+slug: 372811a0-9e8c-11e5-a2a1-005056a71e3a
 title: Nightingale & Canary
 menu: examples
 website_url: https://vimeo.com/103364847

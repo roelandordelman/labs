@@ -1,6 +1,6 @@
 ---
 layout: example
-example_id: e2056084-905b-11e6-a3f3-0050569ef392
+slug: e2056084-905b-11e6-a3f3-0050569ef392
 title: V.A. - Damrak
 menu: examples
 website_url: http://revivethis.org/Sessions/damrak/

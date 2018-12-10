@@ -1,6 +1,6 @@
 ---
 layout: project
-project_id: 06e627fc-1a70-11e5-811b-005056a71e3a
+slug: 06e627fc-1a70-11e5-811b-005056a71e3a
 title: Linked Open Data Demonstrator 2
 menu: projects
 website_url: 

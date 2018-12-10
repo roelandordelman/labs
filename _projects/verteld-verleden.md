@@ -1,6 +1,6 @@
 ---
 layout: project
-project_id: a728c296-2a1b-11e5-b980-005056a71e3a
+slug: a728c296-2a1b-11e5-b980-005056a71e3a
 title: Verteld Verleden
 menu: projects
 website_url: http://www.verteldverleden.org

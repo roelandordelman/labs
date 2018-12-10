@@ -1,6 +1,6 @@
 ---
 layout: application
-application_id: 234168c6-fcfa-11e6-a3f3-0050569ef392
+slug: 234168c6-fcfa-11e6-a3f3-0050569ef392
 title: Radio.Garden
 menu: home
 website_url: http://radio.garden/

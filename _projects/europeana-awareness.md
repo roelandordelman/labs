@@ -1,6 +1,6 @@
 ---
 layout: project
-project_id: dbd2bce4-edb3-11e4-8099-005056a71e3a
+slug: dbd2bce4-edb3-11e4-8099-005056a71e3a
 title: Europeana Awareness
 menu: projects
 website_url: http://pro.europeana.eu/web/europeana-awareness

@@ -1,6 +1,6 @@
 ---
 layout: project
-project_id: 8018e712-3065-11e5-8f19-005056a71e3a
+slug: 8018e712-3065-11e5-8f19-005056a71e3a
 title: Beeld en Geluid Webarchief
 menu: projects
 website_url: http://www.beeldengeluidwebarchief.nl/

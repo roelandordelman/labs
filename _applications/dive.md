@@ -1,6 +1,6 @@
 ---
 layout: application
-application_id: dbd0184a-edb3-11e4-8099-005056a71e3a
+slug: dbd0184a-edb3-11e4-8099-005056a71e3a
 title: DIVE
 menu: home
 website_url: http://dive.beeldengeluid.nl

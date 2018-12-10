@@ -1,6 +1,6 @@
 ---
 layout: dataset
-dataset_id: 1a565f54-3128-11e5-8f19-005056a71e3a
+slug: 1a565f54-3128-11e5-8f19-005056a71e3a
 title: Radio Oranje
 menu: home
 website_url: https://soundcloud.com/beeldengeluid/sets/radio-oranje

@@ -1,6 +1,6 @@
 ---
 layout: example
-example_id: 6fde58be-a310-11e5-9e6c-005056a71e3a
+slug: 6fde58be-a310-11e5-9e6c-005056a71e3a
 title: Sounds Visual
 menu: examples
 website_url: http://sndrv.nl/soundsvisual/

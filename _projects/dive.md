@@ -1,6 +1,6 @@
 ---
 layout: project
-project_id: dbd1f6e2-edb3-11e4-8099-005056a71e3a
+slug: dbd1f6e2-edb3-11e4-8099-005056a71e3a
 title: DIVE
 menu: projects
 website_url: http://dive.beeldengeluid.nl

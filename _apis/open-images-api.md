@@ -1,6 +1,6 @@
 ---
 layout: api
-api_id: dbd1c7ee-edb3-11e4-8099-005056a71e3a
+slug: dbd1c7ee-edb3-11e4-8099-005056a71e3a
 title: Open Images API
 menu: home
 website_url: http://www.openimages.eu/api

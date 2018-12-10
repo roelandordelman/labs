@@ -1,6 +1,6 @@
 ---
 layout: project
-project_id: dbd2a100-edb3-11e4-8099-005056a71e3a
+slug: dbd2a100-edb3-11e4-8099-005056a71e3a
 title: Infiniti
 menu: projects
 website_url: http://project-infiniti.nl/

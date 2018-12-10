@@ -1,6 +1,6 @@
 ---
 layout: application
-application_id: dbd10fca-edb3-11e4-8099-005056a71e3a
+slug: dbd10fca-edb3-11e4-8099-005056a71e3a
 title: RadioPlus Context Browser
 menu: home
 website_url: http://woordnl.rdlabs.beeldengeluid.nl/woordnl-fc

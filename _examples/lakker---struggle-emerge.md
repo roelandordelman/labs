@@ -1,6 +1,6 @@
 ---
 layout: example
-example_id: 994bb708-5a50-11e6-87b0-005056a71e3a
+slug: 994bb708-5a50-11e6-87b0-005056a71e3a
 title: Lakker - Struggle & Emerge
 menu: examples
 website_url: http://revivethis.org/Sessions/lakker-sound-and-vision/

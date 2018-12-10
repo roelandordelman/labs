@@ -1,6 +1,6 @@
 ---
 layout: example
-example_id: 4762af58-a319-11e5-9e6c-005056a71e3a
+slug: 4762af58-a319-11e5-9e6c-005056a71e3a
 title: Open Beelden TV
 menu: examples
 website_url: http://openbeelden.nl/tv/

@@ -1,6 +1,6 @@
 ---
 layout: application
-application_id: 1ed43c9e-1b44-11e5-b980-005056a71e3a
+slug: 1ed43c9e-1b44-11e5-b980-005056a71e3a
 title: Spotvogel
 menu: home
 website_url: http://spotvogel.vroegevogels.vara.nl/

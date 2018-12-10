@@ -1,6 +1,6 @@
 ---
 layout: application
-application_id: 37cad89a-ae04-11e5-8084-005056a71e3a
+slug: 37cad89a-ae04-11e5-8084-005056a71e3a
 title: Open Images Platform
 menu: home
 website_url: http://www.openimages.eu

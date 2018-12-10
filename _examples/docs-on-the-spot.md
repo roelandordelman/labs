@@ -1,6 +1,6 @@
 ---
 layout: example
-example_id: b379ead2-a321-11e5-9e6c-005056a71e3a
+slug: b379ead2-a321-11e5-9e6c-005056a71e3a
 title: Docs on the Spot
 menu: examples
 website_url: 

@@ -1,6 +1,6 @@
 ---
 layout: project
-project_id: dbd312fc-edb3-11e4-8099-005056a71e3a
+slug: dbd312fc-edb3-11e4-8099-005056a71e3a
 title: VidLink
 menu: projects
 website_url: http://www.nadebevrijding.nl/
