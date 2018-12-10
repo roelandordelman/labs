@@ -1,5 +1,6 @@
 {% include header.html %}
-<div class="container application">
+<br><br><br>
+<div class="container">
 	<div class="row">
 		<div class="col-md-5">
 			<div class="cardimage">
@@ -91,7 +92,7 @@
 			<h4 class="bengfont">{{ page.title | upcase }}</h4>
 			{{ content }}
 			<p class="links">
-				<i class="fa fa-link"></i> <a href="{{ page.url }}">{{ page.website_url }}</a><br/>
+				<i class="fa fa-link"></i> <a href="{{ page.website_url }}">{{ page.website_url }}</a><br/>
 				<i class="fa fa-github"></i> <a href="{{ page.github }}">{{ page.github }}</a><br/>
 				<i class="fa fa-cogs"></i><a id="project" href="{{ projects[0].url }}">{{ projects[0].title }}</a>
 			</p>
