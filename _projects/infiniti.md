@@ -1,8 +1,8 @@
 ---
-layout: example
+layout: project
 project_id: dbd2a100-edb3-11e4-8099-005056a71e3a
 title: Infiniti
-menu: examples
+menu: projects
 website_url: http://project-infiniti.nl/
 thumb_image: /uploads/RadioPlus_Context_Browser_Poster.png
 description: "Develops and enables the exploitation of open source and open standards tools to support semantic search"

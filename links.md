@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Links
 menu: links
+title: Links
 subtitle: Links we like
 ---
 

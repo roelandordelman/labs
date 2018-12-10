@@ -1,8 +1,8 @@
 ---
-layout: example
+layout: project
 project_id: dbd2dbf2-edb3-11e4-8099-005056a71e3a
 title: Open Images
-menu: examples
+menu: projects
 website_url: http://www.openbeelden.nl
 thumb_image: /uploads/openimages_wide.png
 description: "An open media platform offering online access to audiovisual archive material"

@@ -1,23 +1,23 @@
 ---
 layout: page
-title: Contact
 menu: contact
+title: Contact
 subtitle: Get in touch
 ---
 
-**Visiting Address**  
+#### Visiting Address 
 Netherland Institute for Sound and Vision  
 Media Parkboulevard 1  
 1217 WE Hilversum  
 
 If your navigation system can't find our (new) address, you can find us at Sumatralaan 45, 1217 GP.  
 
-**Postal Address**  
+#### Postal Addres  
 Nederlands Instituut voor Beeld en Geluid  
 Postbus 1060  
 1200 BB Hilversum  
 
-**Telephone**  
+#### Telephone
 +31 (0)35 677 5555
 
 <!-- colsplit -->

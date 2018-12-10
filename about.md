@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About
 menu: about
+title: About
 subtitle: About us
 ---
 
-### What about LABS?
+#### What about LABS?
 
-**Sound and Vision LABS** showcases tools, demos and prototypes developed by the Research & Development department of the Netherlands Institute for Sound and Vision, alone or in coproduction. You will also find Sound and Vision's open data sets on LABS and links to the code on GitHub.
+Sound and Vision LABS showcases tools, demos and prototypes developed by the Research & Development department of the Netherlands Institute for Sound and Vision, alone or in coproduction. You will also find Sound and Vision's open data sets on LABS and links to the code on GitHub.
 
 The projects that are on display are either under development or in a final stage before they are taken into production.
 
@@ -17,7 +17,7 @@ In some cases the applications require authentication for access. Please request
 
 <!-- colsplit -->
 
-### What about Sound and Vision?
+#### What about Sound and Vision?
 
 [The Netherlands Institute for Sound and Vision](https://www.beeldengeluid.nl) is an advanced and trendsetting audiovisual archive that has successfully made its way into the digital realm. It maintains and provides access to over 1 million hours of television, radio, music, film and web video, making it one of the largest audiovisual archives in Europe. Sound and Vision makes their collection available online for various end-user services, including dedicated services for the creative industries, education and research. The institute operates as a visitor attraction aimed at the general public and is visited by over 250.000 people annually.
 

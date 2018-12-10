@@ -1,8 +1,8 @@
 ---
-layout: example
+layout: project
 project_id: dbd240e8-edb3-11e4-8099-005056a71e3a
 title: TROVe
-menu: examples
+menu: projects
 website_url: http://trove.beeldengeluid.nl
 thumb_image: /uploads/trove_wide.png
 description: "Transmedia Observatory"

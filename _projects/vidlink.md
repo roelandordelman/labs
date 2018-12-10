@@ -1,8 +1,8 @@
 ---
-layout: example
+layout: project
 project_id: dbd312fc-edb3-11e4-8099-005056a71e3a
 title: VidLink
-menu: examples
+menu: projects
 website_url: http://www.nadebevrijding.nl/
 thumb_image: /uploads/vidlink_poster.png
 description: "Interactive documentary explorer"

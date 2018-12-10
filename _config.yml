@@ -24,28 +24,136 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+    menu:
+    submenu:
+    title:
+    subtitle:
+    icon:
+defaults:
+- scope:
+    path: ''
+    type: apis
+  values:
+    layout: api
+    api_id:
+    menu:
+    title:
+    website_url:
+    thumb_image:
+    description:
+    project_id:
+    tags: []
+    mediatypes: []
+    contactpersons:
+    - organization:
+      name:
+      email:
+- scope:
+    path: ''
+    type: applications
+  values:
+    layout: application
+    application_id:
+    menu:
+    title:
+    website_url:
+    thumb_image:
+    poster_image:
+    description:
+    project_id:
+    access:
+    github:
+    status:
+    themes: []
+    tags: []
+    contenttypes: []
+    requestauthentication:
+    - organization:
+      name:
+      email:
+    publications:
+    - title:
+      url:
+    blogposts:
+    - title:
+      url:
+- scope:
+    path: ''
+    type: datasets
+  values:
+    layout: dataset
+    dataset_id:
+    menu:
+    title:
+    website_url:
+    poster_image:
+    description:
+    project_id:
+    contenttypes: []
+    mediatypes: []
+    contactpersons:
+    - organization:
+      name:
+      email:
+- scope:
+    path: ''
+    type: examples
+  values:
+    layout: example
+    example_id:
+    menu:
+    title:
+    website_url:
+    info_url:
+    media_url:
+    thumb_image:
+    poster_image:
+    description:
+    related_project:
+    related_event:
+    github:
+    creators: []
+    tags: []
+    organizations:
+    - name:
+      url:
+    used_sources:
+    - name:
+      url:
+- scope:
+    path: ''
+    type: projects
+  values:
+    layout: project
+    project_id:
+    menu:
+    title:
+    website_url:
+    thumb_image:
+    description:
+    themes: []
+    tags: []
+    partners: []
+    contactpersons:
+    - organization:
+      name:
+      email:
+    publications:
+    - title:
+      url:
+    blogposts:
+    - title:
+      url:
 
 email: rd@beeldengeluid.nl
-description: >- # this means to ignore newlines until "baseurl:"
-  showcases tools, demos and prototypes developed by the R&D department of the Netherlands Institute for Sound and Vision
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+description: showcases tools, demos and prototypes developed by the R&D department of the Netherlands Institute for Sound and Vision
+baseurl: "" 
+url: "" 
 twitter_username: benglabs
 github_username:  beeldengeluid
-
-# Build settings
-markdown: kramdown
-plugins:
-  - jekyll-feed
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/

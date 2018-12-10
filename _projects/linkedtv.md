@@ -1,8 +1,8 @@
 ---
-layout: example
+layout: project
 project_id: dbd261d6-edb3-11e4-8099-005056a71e3a
 title: LinkedTV
-menu: examples
+menu: projects
 website_url: http://www.linkedtv.eu
 thumb_image: /uploads/linkedtv_poster.png
 description: "Information retrieval on AV content for the production of interactive television"

@@ -1,8 +1,8 @@
 ---
-layout: example
+layout: project
 project_id: dbd1f6e2-edb3-11e4-8099-005056a71e3a
 title: DIVE
-menu: examples
+menu: projects
 website_url: http://dive.beeldengeluid.nl
 thumb_image: /uploads/dive_poster.png
 description: "Dynamically linking collections on the basis of events"

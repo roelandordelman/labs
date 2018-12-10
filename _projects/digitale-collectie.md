@@ -1,8 +1,8 @@
 ---
-layout: example
+layout: project
 project_id: dbd33368-edb3-11e4-8099-005056a71e3a
 title: Digitale Collectie
-menu: examples
+menu: projects
 website_url: http://www.digitalecollectie.nl/
 thumb_image: /uploads/digitalecollectie_poster.png
 description: "Data aggregator for Dutch cultural heritage"

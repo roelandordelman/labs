@@ -1,8 +1,8 @@
 ---
-layout: example
+layout: project
 project_id: f0adb896-217d-11e5-b980-005056a71e3a
 title: Open Cultuur Data
-menu: examples
+menu: projects
 website_url: http://www.opencultuurdata.nl/
 thumb_image: /uploads/AXES_poster.png
 description: "Open Culture Data is committed to open up data from the cultural sector and the development of new valuable applications."

@@ -1,8 +1,8 @@
 ---
-layout: example
+layout: project
 project_id: a728c296-2a1b-11e5-b980-005056a71e3a
 title: Verteld Verleden
-menu: examples
+menu: projects
 website_url: http://www.verteldverleden.org
 thumb_image: /uploads/AXES_poster.png
 description: "Search Dutch Oral History collections, new collections will be added in due time"

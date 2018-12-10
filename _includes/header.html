@@ -4,8 +4,8 @@
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="description" content="{{ site.description }}">
-	<title>Labs &middot; Sound and Vision</title>
+	<meta name="description" content="{{ page.description | default: site.description }}">
+	<title>Labs &middot; Sound and Vision - {{ page.title }}</title>
 	<link href="{{ '/assets/css/font-awesome.min.css' | relative_url }}" rel="stylesheet">
 	<link href="{{ '/assets/css/benglabs.css' | relative_url }}" rel="stylesheet">
 	<link href="{{ '/assets/favicon.ico' | relative_url }}" rel="icon">

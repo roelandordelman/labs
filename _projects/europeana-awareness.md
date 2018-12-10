@@ -1,8 +1,8 @@
 ---
-layout: example
+layout: project
 project_id: dbd2bce4-edb3-11e4-8099-005056a71e3a
 title: Europeana Awareness
-menu: examples
+menu: projects
 website_url: http://pro.europeana.eu/web/europeana-awareness
 thumb_image: /uploads/EuropeanaAwareness_Poster
 description: " Best practice network to raise awareness about Europeana"

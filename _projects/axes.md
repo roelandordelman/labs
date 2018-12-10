@@ -1,8 +1,8 @@
 ---
-layout: example
+layout: project
 project_id: 3a0a9b4c-1b4f-11e5-bf8d-005056a71e3a
 title: AXES
-menu: examples
+menu: projects
 website_url: http://www.axes-project.eu/
 thumb_image: /uploads/avresearcherxl_poster.png
 description: "Develop tools for various types of users to interact with audiovisual libraries"

@@ -1,39 +1,19 @@
 {% include header.html %}
-<div class="container application">
+<br><br><br>
+<div class="container">
 	<div class="row">
 		<div class="col-md-5">
 			<div class="cardimage">
-				<img src="{{ page.poster_image }}" alt="" class="img-responsive">
+				<img src="{{ page.thumb_image }}" alt="" class="img-responsive">
 			</div>
 			<table class="table">
 				<tbody>
-					{% if page.project_id != nil %}
+					{% if page.partners[0] != nil %}
 					<tr>
-						<td style="white-space:nowrap">Related project</td>
+						<td nowrap="nowrap">Project partners</td>
 						<td>
-							{% assign projects = site.projects | where:"project_id", page.project_id %}
-							<a id="project" href="{{ projects[0].url }}">{{ projects[0].title }}</a>
-						</td>
-					</tr>
-					{% endif %}
-					{% if page.status != nil %}
-					<tr>
-						<td>Status</td>
-						<td>{{ page.status }}</td>
-					</tr>
-					{% endif %}
-					{% if page.access != nil %}
-					<tr>
-						<td>Access</td>
-						<td>{{ page.access }}</td>
-					</tr>
-					{% endif %}
-					{% if page.requestauthentication[0].name != nil %}
-					<tr>
-						<td>Request authentication</td>
-						<td>
-							{% for person in page.requestauthentication %}
-							<a href="mailto:{{ person.email }}">{{ person.name }}</a><br>
+							{% for partner in page.partners %}
+							<a class="btn btn-xs btn-default">{{ partner }}</a>
 							{% endfor %}
 						</td>
 					</tr>
@@ -58,19 +38,18 @@
 						</td>
 					</tr>
 					{% endif %}
-					{% if page.contenttypes[0] != nil %}
+					{% if page.contactpersons[0].name != nil %}
 					<tr>
-						<td>Media type</td>
+						<td nowrap="nowrap">Contact persons</td>
 						<td>
-							{% for type in page.contenttypes %}
-							<a class="btn btn-xs btn-default">{{ type }}</a>
+							{% for person in page.contactpersons %}
+							<a href="mailto:{{ person.email }}">{{ person.name }}</a><br>
 							{% endfor %}
 						</td>
 					</tr>
 					{% endif %}
 				</tbody>
 			</table>
-			
 			<p class="links" style="padding:8px;">
 				{% if page.publications[0].title != nil %}
 				<strong>Publications</strong><br>
@@ -89,11 +68,20 @@
 		</div>
 		<div class="col-md-6 col-md-offset-1">
 			<h4 class="bengfont">{{ page.title | upcase }}</h4>
-			{{ content }}
+			{{ page.content }}
 			<p class="links">
-				<i class="fa fa-link"></i> <a href="{{ page.url }}">{{ page.website_url }}</a><br/>
+				{% if page.website_url %}
+				<i class="fa fa-link"></i> <a href="{{ page.website_url }}">{{ page.website_url }}</a><br/>
+				{% endif %}
+				{% if page.github %}
 				<i class="fa fa-github"></i> <a href="{{ page.github }}">{{ page.github }}</a><br/>
-				<i class="fa fa-cogs"></i><a id="project" href="{{ projects[0].url }}">{{ projects[0].title }}</a>
+				{% endif %}
+				{% if page.info_url %}
+				<i class="fa fa-info"></i> <a href="{{ page.info_url }}">{{ page.info_url }}</a><br/>
+				{% endif %}
+				{% if page.media_url %}
+				<i class="fa fa-video-camera"></i> <a href="{{ page.media_url }}">{{ page.media_url }}</a><br/>
+			{% endif %}
 			</p>
 		</div>
 	</div>

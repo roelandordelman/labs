@@ -1,8 +1,8 @@
 ---
-layout: example
+layout: project
 project_id: 06e627fc-1a70-11e5-811b-005056a71e3a
 title: Linked Open Data Demonstrator 2
-menu: examples
+menu: projects
 website_url: 
 thumb_image: /uploads/avresearcherxl_poster.png
 description: "Developing an openly available Thesaurus alignment service for Dutch heritage institutions"

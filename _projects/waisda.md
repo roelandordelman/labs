@@ -1,8 +1,8 @@
 ---
-layout: example
+layout: project
 project_id: ed1929a0-1b3c-11e5-9234-005056a71e3a
 title: Waisda?
-menu: examples
+menu: projects
 website_url: 
 thumb_image: /uploads/avresearcherxl_poster.png
 description: "A video labeling game"
