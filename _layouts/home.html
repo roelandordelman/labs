@@ -40,7 +40,7 @@
 			{% for item in items %}
 			<div id="{{ item.id }}" class="col-sm-6 col-md-4 app">
 				<div class="card">
-					<a href="{{ item.url }}"><img src="{{ item.thumb_image }}"></a>
+					<a href="{{ item.url }}"><img src="{{ item.thumb_image | relative_url }}"></a>
 					<div class="caption">
 						<h4 class="bengfont"><i class="fa fa-{{ page.icon }}"></i>&nbsp;{{ item.title }}</h4>
 						<p>{{ item.description }}</p>
