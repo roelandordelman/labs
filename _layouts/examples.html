@@ -7,7 +7,7 @@
 			{% for item in site.examples %}
 			<div id="{{ item.id }}" class="col-sm-6 col-md-4 app">
 				<div class="card">
-					<a href="{{ item.url }}">
+					<a href="{{ item.url | relative_url }}">
 						<img src="{{ item.thumb_image | relative_url }}">
 					</a>
 					<div class="caption">
