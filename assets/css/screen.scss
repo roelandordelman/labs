@@ -1,0 +1,80 @@
+---
+---
+
+$white: #f2f2f2;
+
+// $font-family-sans-serif: Verdana, Tahoma, "DejaVu Sans", sans-serif;
+// $font-size-base: 0.9rem;
+
+// $primary: #fd7e14;
+
+@import "bootstrap/scss/bootstrap.scss";
+
+.navbar {
+  font-family:'akzidenz-grotesk-condensed', bebas_neueregular, Helvetica Neue, Arial, sans-serif;
+  font-weight: 900;
+  font-size: 18px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.navbar-inverse {
+  background: #2d2d2d;
+  border-color: #2d2d2d;
+  .navbar-nav > .active > a {
+    background: #e00034;
+  }
+  .navbar-brand {
+    color: #999999;
+    font-weight: 900;
+    font-size: 22px;
+    letter-spacing: 1px;
+    i {
+      color: #009fda;
+      font-size: 22px;
+      letter-spacing: 1px;
+    }
+  }
+}
+
+#masthead {
+  background: #009fda url('../images/labs_bg.jpg') no-repeat center top;
+  background-attachment: relative;
+  background-position: center center;
+  padding-bottom: 75px;
+  padding-top: 75px;
+  margin-top: 0;
+  min-height: 0;
+  background-size: 100%;
+  background-size: cover;
+  h1 {
+    font-size: 24px;
+    margin-top: 0;
+    color: white;
+    font-weight: 300;
+    letter-spacing: 3px;
+    @media (min-width: 768px) {
+      font-size: 60px;
+    }
+  }
+  h2 {
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    @media (min-width: 768px) {
+      font-size: 34px;
+    }
+  }
+  h3 {
+    color: white;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    @media (min-width: 768px) {
+      font-size: 18px;
+    }
+  }
+}

@@ -7,7 +7,7 @@
 	<title>Labs &middot; Sound and Vision - {{ page.title }}</title>
 	<meta name="description" content="{{ page.description | default: site.description }}">
 	<link href="{{ '/assets/css/font-awesome.min.css' | relative_url }}" rel="stylesheet">
-	<link href="{{ '/assets/css/benglabs.css' | relative_url }}" rel="stylesheet">
+	<link href="{{ '/assets/css/screen.css' | relative_url }}" rel="stylesheet">
 	<link href="{{ '/favicon.ico' | relative_url }}" rel="icon">
 	<script src="//use.typekit.net/omb6npz.js"></script>
 	<script>
@@ -19,8 +19,25 @@
 	</script>
 </head>
 <body>
-	<div class="navbar navbar-inverse navbar-fixed-top">
+	<nav class="navbar fixed-top navbar-expand-md navbar-dark bg-dark">
 		<div class="container">
+			<a class="navbar-brand" href="{{ '/' | relative_url }}">LABS <i class="fa fa-circle"></i> SOUND AND VISION</a>
+		  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+		    <span class="navbar-toggler-icon"></span>
+		  </button>
+
+		  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+		    <ul class="navbar-nav ml-auto">
+		    	<li class="nav-item{% if page.menu == 'home' %} active{% endif %}"><a class="nav-link" href="{{ '/' | relative_url }}">HOME</a></li>
+					<li class="nav-item{% if page.menu == 'examples' %} active{% endif %}"><a class="nav-link" href="{{ '/examples' | relative_url }}">EXAMPLES</a></li>
+					<li class="nav-item{% if page.menu == 'about' %} active{% endif %}"><a class="nav-link" href="{{ '/about' | relative_url }}">ABOUT</a></li>
+					<li class="nav-item{% if page.menu == 'contact' %} active{% endif %}"><a class="nav-link" href="{{ '/contact' | relative_url }}">CONTACT</a></li>
+					<li class="nav-item{% if page.menu == 'links' %} active{% endif %}"><a class="nav-link" href="{{ '/links' | relative_url }}">LINKS</a></li>
+		    </ul>
+		  </div>
+		</div>
+	</nav>
+		<!-- <
 			<div class="navbar-header">
 				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
 					<span class="icon-bar"></span>
@@ -38,5 +55,5 @@
 					<li{% if page.menu == 'links' %} class="active"{% endif %}><a href="{{ '/links' | relative_url }}">LINKS</a></li>
 				</ul>
 			</div>
-		</div>
-	</div>
+		-->
+	
