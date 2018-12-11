@@ -1,5 +1,6 @@
 title: LABS - Sound and Vision
 timezone: Europe/Amsterdam
+collections_dir: collections
 collections:
   apis:
     title: APIs
