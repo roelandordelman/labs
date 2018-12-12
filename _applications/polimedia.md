@@ -6,15 +6,13 @@ tags:
 - Digital Humanities
 - Government
 - Political Debates
-layout: application
-menu: 
+slug: dbd0f116-edb3-11e4-8099-005056a71e3a
 website_url: http://polimedia.nl
 thumb_image: "/uploads/polimedia_wide.png"
 poster_image: "/uploads/polimedia_poster.png"
 description: How do media cover political debates?
 project_id: dbd28102-edb3-11e4-8099-005056a71e3a
 access: Open
-github: 
 status:
 - Completed
 themes:
@@ -22,13 +20,13 @@ themes:
 - Humanities
 contenttypes:
 - Text
-requestauthentication: 
 publications:
 - title: Bringing parliamentary debates to the Semantic Web
   url: http://ceur-ws.org/Vol-902/paper_6.pdf
 blogposts:
 - title: Polemici wint internationale wedstrijd Linkedup Challenge
   url: http://www.beeldengeluid.nl/nieuws/201309/polimedia-wint-internationale-wedstrijd-linkedup-challenge
+layout: application
 ---
 
 How do media cover political debates? Answering this question requires a cross-media analysis of the minutes of the political debates, newspaper articles & photos and radio bulletins. The PoliMedia project linked the minutes of the debates in the Dutch Parliament (Dutch Hansard) to the databases of historical newspapers and ANP radio bulletins to allow cross-media analysis of coverage in a uniform search interface. 
