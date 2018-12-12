@@ -1,10 +1,10 @@
 ---
 title: Open Images
+permalink: "/project/dbd2dbf2-edb3-11e4-8099-005056a71e3a"
 tags:
 - Reuse
 - Open Video
 project_id: dbd2dbf2-edb3-11e4-8099-005056a71e3a
-permalink: "/project/dbd2dbf2-edb3-11e4-8099-005056a71e3a"
 menu: projects
 website_url: http://www.openbeelden.nl
 thumb_image: "/uploads/openimages_wide.png"

@@ -1,5 +1,6 @@
 ---
 title: TROVe
+permalink: "/project/dbd240e8-edb3-11e4-8099-005056a71e3a"
 tags:
 - Academic Research
 - Digital Humanities
@@ -10,7 +11,6 @@ tags:
 - Content Enrichments
 - Public Debates
 project_id: dbd240e8-edb3-11e4-8099-005056a71e3a
-permalink: "/project/dbd240e8-edb3-11e4-8099-005056a71e3a"
 menu: projects
 website_url: http://trove.beeldengeluid.nl
 thumb_image: "/uploads/trove_wide.png"

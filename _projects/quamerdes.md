@@ -1,5 +1,6 @@
 ---
 title: QuaMeRDES
+permalink: "/project/dbd21ad2-edb3-11e4-8099-005056a71e3a"
 tags:
 - Academic Research
 - Digital Humanities
@@ -9,7 +10,6 @@ tags:
 - CLARIAH
 - Context Collections
 project_id: dbd21ad2-edb3-11e4-8099-005056a71e3a
-permalink: "/project/dbd21ad2-edb3-11e4-8099-005056a71e3a"
 menu: projects
 website_url: http://www.clarin.nl/node/1404
 thumb_image: "/uploads/nasamerdes_Poster.png"

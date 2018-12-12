@@ -1,12 +1,12 @@
 ---
 title: Sound of the Netherlands
+permalink: "/project/dbd2f7b8-edb3-11e4-8099-005056a71e3a"
 tags:
 - Radio stories
 - ASR
 - Content Enrichments
 - COMMIT
 project_id: dbd2f7b8-edb3-11e4-8099-005056a71e3a
-permalink: "/project/dbd2f7b8-edb3-11e4-8099-005056a71e3a"
 menu: projects
 website_url: http://www.geluidvannederland.nl/
 thumb_image: "/uploads/gvnl_poster.png"

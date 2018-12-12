@@ -1,9 +1,9 @@
 ---
 title: Transnational Radio Encounters
+permalink: "/project/deb93ff6-fcfb-11e6-bc09-0050569ef392"
 tags:
 - radio
 project_id: deb93ff6-fcfb-11e6-bc09-0050569ef392
-permalink: "/project/deb93ff6-fcfb-11e6-bc09-0050569ef392"
 menu: projects
 website_url: http://www.transnationalradio.org/
 thumb_image: "/uploads/radio_garden.png"

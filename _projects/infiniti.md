@@ -1,12 +1,12 @@
 ---
 title: Infiniti
+permalink: "/project/dbd2a100-edb3-11e4-8099-005056a71e3a"
 tags:
 - Radio stories
 - ASR
 - Content Enrichments
 - COMMIT
 project_id: dbd2a100-edb3-11e4-8099-005056a71e3a
-permalink: "/project/dbd2a100-edb3-11e4-8099-005056a71e3a"
 menu: projects
 website_url: http://project-infiniti.nl/
 thumb_image: "/uploads/RadioPlus_Context_Browser_Poster.png"

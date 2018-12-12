@@ -1,12 +1,12 @@
 ---
 title: Europeana Awareness
+permalink: "/project/dbd2bce4-edb3-11e4-8099-005056a71e3a"
 tags:
 - Digital content
 - Aggregator
 - Network
 - LOD
 project_id: dbd2bce4-edb3-11e4-8099-005056a71e3a
-permalink: "/project/dbd2bce4-edb3-11e4-8099-005056a71e3a"
 menu: projects
 website_url: http://pro.europeana.eu/web/europeana-awareness
 thumb_image: "/uploads/EuropeanaAwareness_Poster"

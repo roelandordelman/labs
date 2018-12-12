@@ -1,5 +1,6 @@
 ---
 title: LinkedTV
+permalink: "/project/dbd261d6-edb3-11e4-8099-005056a71e3a"
 tags:
 - Video annotation
 - Television
@@ -7,7 +8,6 @@ tags:
 - Content Enrichments
 - Interactive Television
 project_id: dbd261d6-edb3-11e4-8099-005056a71e3a
-permalink: "/project/dbd261d6-edb3-11e4-8099-005056a71e3a"
 menu: projects
 website_url: http://www.linkedtv.eu
 thumb_image: "/uploads/linkedtv_poster.png"
