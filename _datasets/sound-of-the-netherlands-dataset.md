@@ -1,9 +1,7 @@
 ---
 title: Sound of The Netherlands dataset
-layout: dataset
-menu: 
+slug: dbd17834-edb3-11e4-8099-005056a71e3a
 website_url: http://labs.europeana.eu/data/sounds-of-daily-life-and-birds-from-netherlands-institute-of-sound-and-vision/
-thumb_image: "/uploads/gvnl_poster.png"
 description: Sounds of daily life from the Netherlands
 project_id: dbd2f7b8-edb3-11e4-8099-005056a71e3a
 contenttypes:
@@ -17,6 +15,8 @@ contactpersons:
 - organization: Netherlands Institute for Sound and Vision
   name: Maarten Brinkerink
   email: mbrinkerink@beeldengeluid.nl
+thumb_image: "/uploads/gvnl_poster.png"
+layout: dataset
 ---
 
 _Het Geluid van Nederland_ or _The Sound of the Netherlands_ is [a unique sound archive](http://www.beeldengeluid.nl/collecties/geluiden) available from the Netherlands Institute for Sound and Vision. This collection contains over 10.000 sound recordings from the 1950s to the 1990s. A selection of 2.300 recording of this archive is now available under an open license. It shows the evolving soundscape of the Netherlands and includes sounds of horse driven trams, venders and recordings from the Elfstedentocht in 1986.   
