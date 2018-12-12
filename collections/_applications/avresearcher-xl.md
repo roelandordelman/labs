@@ -2,7 +2,7 @@
 layout: application
 slug: dbd09298-edb3-11e4-8099-005056a71e3a
 title: AVResearcher XL
-menu: home
+menu: 
 website_url: http://avresearcher.clariah.beeldengeluid.nl
 thumb_image: /uploads/avresearcherxl_wide.png
 poster_image: /uploads/avresearcherxl_poster.png

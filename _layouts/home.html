@@ -10,18 +10,25 @@
 		</div>
 	</div>
 </div>
+<div id="index" name="index" class="anchor"></div>
 <section id="selection-area" class="container">
 	<div class="text-center row">
 		<div class="col-md-4 main-facet">
-			<a href="{{ '/applications' | relative_url }}" style="color: rgb(0, 159, 218);"{% if page.submenu == 'applications' %} class="active"{% endif %}><i class="fa fa-diamond fa-5x"></i></a>
+			<a href="{{ '/applications#index' | relative_url }}"{% if page.submenu == 'applications' %} class="active"{% endif %}>
+				<i class="fa fa-diamond fa-5x"></i>
+			</a>
 			<h4 class="bengfont">APPLICATIONS</h4>
 		</div>
 		<div class="col-md-4 main-facet">
-			<a href="{{ '/datasets' | relative_url }}" style="color: rgb(0, 159, 218);"{% if page.submenu == 'datasets' %} class="active"{% endif %}><i class="fa fa-cube fa-5x"></i></a>
+			<a href="{{ '/datasets#index' | relative_url }}"{% if page.submenu == 'datasets' %} class="active"{% endif %}>
+				<i class="fa fa-cube fa-5x"></i>
+			</a>
 			<h4 class="bengfont">DATASETS</h4>
 		</div>
 		<div class="col-md-4 main-facet">
-			<a href="{{ '/apis' | relative_url }}" style="color: rgb(0, 159, 218);"{% if page.submenu == 'apis' %} class="active"{% endif %}><i class="fa fa-rocket fa-5x"></i></a>
+			<a href="{{ '/apis#index' | relative_url }}"{% if page.submenu == 'apis' %} class="active"{% endif %}>
+				<i class="fa fa-rocket fa-5x"></i>
+			</a>
 			<h4 class="bengfont">APIS</h4>
 		</div>
 	</div>
@@ -50,5 +57,30 @@
 			{% endfor %}
 		</div>
 	</section>
+</section>
+<section id="institute">
+	<div class="container">
+		<div class="row text-center">
+			<img src="{{ '/assets/images/beng-logo-en-small.png' | relative_url }}" alt="">
+		</div>
+		<div id="rights_statement">
+			<a href="http://creativecommons.org/licenses/by/4.0/" target="_cc-by-sa">
+				Some rights reserved&nbsp;
+				<span class="ccbysa">cb</span>
+			</a>
+		</div>
+	</div>
+</section>
+<section id="footer">
+	<div class="container">
+		<div class="row text-center">
+			<a href="https://twitter.com/{{ site.twitter_username }}" title="Beeld en Geluid Labs" target="_twitter">
+				<i class="fa fa-twitter"></i>
+			</a>
+			<a href="http://www.beeldengeluid.nl/en/blogs/Research-%26-Development-EN" title="Visit our blog" target="_blog">
+				<i class="fa fa-globe"></i>
+			</a>
+		</div>
+	</div>
 </section>
 {% include footer.html %}

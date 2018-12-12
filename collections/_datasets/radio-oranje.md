@@ -2,7 +2,7 @@
 layout: dataset
 slug: 1a565f54-3128-11e5-8f19-005056a71e3a
 title: Radio Oranje
-menu: home
+menu: 
 website_url: https://soundcloud.com/beeldengeluid/sets/radio-oranje
 thumb_image: /uploads/Radio_Oranje_poster.png
 description: "The majority of broadcasts by Radio Oranje"

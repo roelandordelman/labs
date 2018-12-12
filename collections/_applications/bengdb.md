@@ -2,7 +2,7 @@
 layout: application
 slug: 90e196ba-217f-11e5-b980-005056a71e3a
 title: BengDB
-menu: home
+menu: 
 website_url: 
 thumb_image: /uploads/Schermafbeelding_2015-07-03_om_14.22.47.png
 poster_image: /uploads/Schermafbeelding_2015-07-03_om_14.22.47.png

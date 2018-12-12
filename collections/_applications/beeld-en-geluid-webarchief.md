@@ -2,7 +2,7 @@
 layout: application
 slug: 19b1b2ae-306c-11e5-8f19-005056a71e3a
 title: Beeld en Geluid Webarchief
-menu: home
+menu: 
 website_url: http://www.beeldengeluidwebarchief.nl/
 thumb_image: /uploads/Beeldengeluidwebarchief_screenshot.jpg
 poster_image: /uploads/Beeldengeluidwebarchief_screenshot.jpg

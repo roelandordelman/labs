@@ -2,7 +2,7 @@
 layout: application
 slug: 693621d8-2a1e-11e5-b980-005056a71e3a
 title: Oral History Today
-menu: home
+menu: 
 website_url: http://zoeken.verteldverleden.org
 thumb_image: /uploads/VerteldVerleden-screenshot.png
 poster_image: /uploads/VerteldVerleden-screenshot.png

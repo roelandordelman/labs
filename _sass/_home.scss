@@ -4,8 +4,8 @@
 	background-position: center center;
 	padding-bottom: 75px;
 	padding-top: 75px;
-    margin-top: 0;
-    min-height: 0;
+	margin-top: 0;
+	min-height: 0;
 	background-size: 100%;
 	background-size: cover;
 
@@ -45,29 +45,6 @@
 #selection-area {
 	padding-top: 70px;
 	padding-bottom: 70px;
-
-	.facets {
-		@include facets()
-	}
-
-	.facet {
-		&:hover {
-			color:$bgRed;
-		}
-	}
-	.fa {
-		&:hover {
-			color:$bgRed;
-		}
-	}
-
-	.sel.facet {
-		color:$bgRed;
-		font-weight:bold;
-		&:hover {
-			font-weight:normal;
-		}
-	}
 }
 
 #institute {
@@ -81,11 +58,8 @@
 
 #twitter {
 	background: #ebebeb;
-	padding:6 * $defaultMargin;
-	text-align:center;
-	h4 {
-
-	}
+	padding: 6 * $defaultMargin;
+	text-align: center;
 }
 
 #rights_statement {
@@ -93,7 +67,7 @@
 	a {
 		color:#333;
 		&:hover {
-			text-decoration:underline;
+			text-decoration: underline;
 		}
 	}
 }
@@ -115,27 +89,23 @@
 	}
 }
 
-
 .main-facet {
 	margin-bottom: 20px;
 }
 
-.facets {
-	margin: 15px;
-	padding:0px;
+.main-facet a {
+	color: #009FDA;
 }
 
-.facet {
-	display: inline-block;
-	padding: 5px;
-	&:after {
-		color:#a3a3a3;
-		content:"|";
-	}
+.main-facet a:hover {
+	color: $bgRed;
+}
+
+.main-facet a.active {
+	color: $bgRed;
 }
 
 .anchor {
-	/*display: block; position:relative; visibility: hidden;*/
-	position:absolute;
-	margin:-70px;
+    position: absolute;
+    margin: -70px;
 }

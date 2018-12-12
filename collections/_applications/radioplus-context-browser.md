@@ -2,7 +2,7 @@
 layout: application
 slug: dbd10fca-edb3-11e4-8099-005056a71e3a
 title: RadioPlus Context Browser
-menu: home
+menu: 
 website_url: http://woordnl.rdlabs.beeldengeluid.nl/woordnl-fc
 thumb_image: /uploads/woordnlfc_poster.png
 poster_image: /uploads/woordnlfc_poster.png

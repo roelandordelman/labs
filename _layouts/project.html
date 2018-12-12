@@ -3,11 +3,19 @@
 <div class="container">
 	<div class="row">
 		<div class="col-md-5">
-			<div class="cardimage">
-				<img src="{{ page.thumb_image | relative_url }}" alt="" class="img-responsive">
+			<div class="view project-icon">
+				<i class="fa fa-institution fa-5x"></i>
 			</div>
 			<table class="table">
 				<tbody>
+					{% if page.website_url %}
+					<tr>
+						<td>URL</td>
+						<td>
+							<a href="{{ page.website_url }}">{{ page.website_url }}</a>
+						</td>
+					</tr>
+					{% endif %}
 					{% if page.partners[0] != nil %}
 					<tr>
 						<td nowrap="nowrap">Project partners</td>

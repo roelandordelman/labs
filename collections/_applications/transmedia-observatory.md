@@ -2,7 +2,7 @@
 layout: application
 slug: dbd0b3e0-edb3-11e4-8099-005056a71e3a
 title: Transmedia Observatory
-menu: home
+menu: 
 website_url: http://trove.beeldengeluid.nl
 thumb_image: /uploads/trove_wide.png
 poster_image: /uploads/trove_poster.png

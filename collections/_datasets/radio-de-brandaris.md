@@ -2,7 +2,7 @@
 layout: dataset
 slug: e4fde4ac-2be6-11e6-a743-005056a71e3a
 title: Radio De Brandaris
-menu: home
+menu: 
 website_url: https://soundcloud.com/beeldengeluid/sets/radio-de-brandaris
 thumb_image: /uploads/Radio_De_Brandaris.png
 description: "Collection of radio broadcasts by Radio De Brandaris"

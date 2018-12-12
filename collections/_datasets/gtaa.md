@@ -2,7 +2,7 @@
 layout: dataset
 slug: 5520ccca-2c8e-11e6-a743-005056a71e3a
 title: GTAA
-menu: home
+menu: 
 website_url: http://gtaa.beeldengeluid.nl/
 thumb_image: /uploads/GTAA.png
 description: "Common Thesaurus for Audiovisual Archives"

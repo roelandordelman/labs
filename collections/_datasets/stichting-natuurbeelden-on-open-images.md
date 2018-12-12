@@ -2,7 +2,7 @@
 layout: dataset
 slug: 94e93bec-3060-11e5-a417-005056a71e3a
 title: Stichting Natuurbeelden on Open Images
-menu: home
+menu: 
 website_url: http://natuurbeelden.openbeelden.nl/
 thumb_image: /uploads/Natuurbeelden_poster.png
 description: "A set of Dutch nature videos"

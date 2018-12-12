@@ -151,10 +151,20 @@ defaults:
     blogposts:
     - title:
       url:
-
 email: rd@beeldengeluid.nl
 description: showcases tools, demos and prototypes developed by the R&D department of the Netherlands Institute for Sound and Vision
 baseurl: /labs
 url: https://beeldengeluid.github.io
 twitter_username: benglabs
 github_username:  beeldengeluid
+exclude:
+- README.md
+- LICENSE.md
+- Gemfile
+- Gemfile.lock
+- node_modules
+- script
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/

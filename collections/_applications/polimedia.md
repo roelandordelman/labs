@@ -2,7 +2,7 @@
 layout: application
 slug: dbd0f116-edb3-11e4-8099-005056a71e3a
 title: PoliMedia
-menu: home
+menu: 
 website_url: http://polimedia.nl
 thumb_image: /uploads/polimedia_wide.png
 poster_image: /uploads/polimedia_poster.png

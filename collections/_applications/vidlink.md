@@ -2,7 +2,7 @@
 layout: application
 slug: dbd12d5c-edb3-11e4-8099-005056a71e3a
 title: VidLink
-menu: home
+menu: 
 website_url: http://www.nadebevrijding.nl/
 thumb_image: /uploads/vidlink_wide.png
 poster_image: /uploads/vidlink_poster.png

@@ -2,7 +2,7 @@
 layout: application
 slug: dbd0d12c-edb3-11e4-8099-005056a71e3a
 title: LinkedTV Editor Tool
-menu: home
+menu: 
 website_url: http://editortoolv2.linkedtv.eu/
 thumb_image: /uploads/linkedtv_wide.png
 poster_image: /uploads/linkedtv_poster.png

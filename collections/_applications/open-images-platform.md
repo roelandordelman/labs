@@ -2,7 +2,7 @@
 layout: application
 slug: 37cad89a-ae04-11e5-8084-005056a71e3a
 title: Open Images Platform
-menu: home
+menu: 
 website_url: http://www.openimages.eu
 thumb_image: /uploads/openimages_poster.png
 poster_image: /uploads/openimages_poster.png

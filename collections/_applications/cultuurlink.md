@@ -2,7 +2,7 @@
 layout: application
 slug: d5fd3274-1a70-11e5-b980-005056a71e3a
 title: CultuurLINK
-menu: home
+menu: 
 website_url: http://cultuurlink.beeldengeluid.nl/
 thumb_image: /uploads/cultuurlink_screenshot.jpg
 poster_image: /uploads/cultuurlink_screenshot.jpg

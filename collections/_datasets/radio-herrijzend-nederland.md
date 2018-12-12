@@ -2,7 +2,7 @@
 layout: dataset
 slug: 18a27a2e-312a-11e5-8f19-005056a71e3a
 title: Radio Herrijzend Nederland
-menu: home
+menu: 
 website_url: https://soundcloud.com/beeldengeluid/sets/radio-herrijzend-nederland
 thumb_image: /uploads/Radio_Herrijzend_Nederland_poster.png
 description: "A selection of radio broadcasts by Radio Herrijzend Nederland"

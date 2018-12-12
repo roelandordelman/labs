@@ -2,7 +2,7 @@
 layout: application
 slug: cb51d770-acfa-11e7-bf7f-0050569ef392
 title: Musical Crossroads
-menu: home
+menu: 
 website_url: http://musicinmovement.eu/graph
 thumb_image: /uploads/MiMgraph.png
 poster_image: /uploads/MiMgraph.png

@@ -2,7 +2,7 @@
 layout: application
 slug: a4fd0e34-57ef-11e6-87b0-005056a71e3a
 title: GTUO
-menu: home
+menu: 
 website_url: http://link.spinque.com/VIAA-1.0/
 thumb_image: /uploads/GTUO.png
 poster_image: /uploads/GTUO.png

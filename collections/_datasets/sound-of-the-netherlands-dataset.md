@@ -2,7 +2,7 @@
 layout: dataset
 slug: dbd17834-edb3-11e4-8099-005056a71e3a
 title: Sound of The Netherlands dataset
-menu: home
+menu: 
 website_url: http://labs.europeana.eu/data/sounds-of-daily-life-and-birds-from-netherlands-institute-of-sound-and-vision/
 thumb_image: /uploads/gvnl_poster.png
 description: "Sounds of daily life from the Netherlands"
