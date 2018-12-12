@@ -1,7 +1,6 @@
 ---
 title: Sound and Vision on Open Images
 layout: dataset
-slug: dbd157b4-edb3-11e4-8099-005056a71e3a
 menu: 
 website_url: http://www.openimages.eu/users/beeldengeluid
 thumb_image: "/uploads/openimages_poster.png"
