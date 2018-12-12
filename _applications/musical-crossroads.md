@@ -5,8 +5,7 @@ tags:
 - Visualization
 - Classical Music
 - Composers
-layout: application
-menu: 
+slug: cb51d770-acfa-11e7-bf7f-0050569ef392
 website_url: http://musicinmovement.eu/graph
 thumb_image: "/uploads/MiMgraph.png"
 poster_image: "/uploads/MiMgraph.png"
@@ -21,9 +20,7 @@ themes:
 - Humanities
 contenttypes:
 - Metadata
-requestauthentication: 
-publications: 
-blogposts: 
+layout: application
 ---
 
 The Musical Crossroads visualization is a graph representation of the life and work of the composers that are featured in the Music in Movement project. It shows the composers and their compositions, the techniques they used and what inspired them. There are also links to their friends and colleagues, the places they visited and the events they participated in. All the entities are illustrated with videos, images or audio. The interactive visual network enables you to discover the composers and the way they are connected with each other.
