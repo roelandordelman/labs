@@ -1,9 +1,7 @@
 ---
 title: Sound and Vision on Open Images
-layout: dataset
-menu: 
+slug: dbd157b4-edb3-11e4-8099-005056a71e3a
 website_url: http://www.openimages.eu/users/beeldengeluid
-thumb_image: "/uploads/openimages_poster.png"
 description: Set of historic Dutch newsreels and films
 project_id: dbd2dbf2-edb3-11e4-8099-005056a71e3a
 contenttypes:
@@ -16,6 +14,8 @@ contactpersons:
 - organization: Netherlands Institute for Sound and Vision
   name: Harry van Biessum
   email: hvbiessum@beeldengeluid.nl
+thumb_image: "/uploads/openimages_poster.png"
+layout: dataset
 ---
 
 The Sound and Vision dataset on Open Images contains more than 3000 videos. It consists of Polygoon newsreels and some other films from the 20th century. The videos cover a broad range of Dutch (news) topics, such as art, culture, transportation, health, education, nature, politics, sports, pets, fashion and curiosa. The metadata is provided in Dutch and English.
