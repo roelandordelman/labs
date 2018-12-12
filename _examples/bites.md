@@ -1,7 +1,7 @@
 ---
 title: Bites
-example_id: b3406a8e-a27f-11e5-93ae-005056a71e3a
 permalink: "/example/b3406a8e-a27f-11e5-93ae-005056a71e3a"
+example_id: b3406a8e-a27f-11e5-93ae-005056a71e3a
 menu: examples
 website_url: http://bites.designpunt.nl/
 media_url: https://vimeo.com/57485590

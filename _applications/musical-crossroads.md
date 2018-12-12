@@ -1,12 +1,12 @@
 ---
 title: Musical Crossroads
+permalink: "/application/cb51d770-acfa-11e7-bf7f-0050569ef392"
 tags:
 - Linked Data
 - Visualization
 - Classical Music
 - Composers
 application_id: cb51d770-acfa-11e7-bf7f-0050569ef392
-permalink: "/application/cb51d770-acfa-11e7-bf7f-0050569ef392"
 website_url: http://musicinmovement.eu/graph
 thumb_image: "/uploads/MiMgraph.png"
 poster_image: "/uploads/MiMgraph.png"

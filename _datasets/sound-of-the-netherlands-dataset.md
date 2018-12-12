@@ -1,7 +1,7 @@
 ---
 title: Sound of The Netherlands dataset
-dataset_id: dbd17834-edb3-11e4-8099-005056a71e3a
 permalink: "/dataset/dbd17834-edb3-11e4-8099-005056a71e3a"
+dataset_id: dbd17834-edb3-11e4-8099-005056a71e3a
 website_url: http://labs.europeana.eu/data/sounds-of-daily-life-and-birds-from-netherlands-institute-of-sound-and-vision/
 description: Sounds of daily life from the Netherlands
 project_id: dbd2f7b8-edb3-11e4-8099-005056a71e3a

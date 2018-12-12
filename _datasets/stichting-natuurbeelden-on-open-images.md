@@ -1,7 +1,7 @@
 ---
 title: Stichting Natuurbeelden on Open Images
-dataset_id: 94e93bec-3060-11e5-a417-005056a71e3a
 permalink: "/dataset/94e93bec-3060-11e5-a417-005056a71e3a"
+dataset_id: 94e93bec-3060-11e5-a417-005056a71e3a
 website_url: http://natuurbeelden.openbeelden.nl/
 description: A set of Dutch nature videos
 project_id: dbd2dbf2-edb3-11e4-8099-005056a71e3a

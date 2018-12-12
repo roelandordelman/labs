@@ -1,10 +1,10 @@
 ---
 title: Open Images Platform
+permalink: "/application/37cad89a-ae04-11e5-8084-005056a71e3a"
 tags:
 - Open Media
 - Open Source
 application_id: 37cad89a-ae04-11e5-8084-005056a71e3a
-permalink: "/application/37cad89a-ae04-11e5-8084-005056a71e3a"
 website_url: http://www.openimages.eu
 thumb_image: "/uploads/openimages_poster.png"
 poster_image: "/uploads/openimages_poster.png"

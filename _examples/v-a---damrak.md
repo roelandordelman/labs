@@ -1,7 +1,7 @@
 ---
 title: V.A. - Damrak
-example_id: e2056084-905b-11e6-a3f3-0050569ef392
 permalink: "/example/e2056084-905b-11e6-a3f3-0050569ef392"
+example_id: e2056084-905b-11e6-a3f3-0050569ef392
 menu: examples
 website_url: http://revivethis.org/Sessions/damrak/
 media_url: http://www.fogmountainrecords.com/release/14/VA/Damrak/

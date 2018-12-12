@@ -1,5 +1,6 @@
 ---
 title: DIVE
+permalink: "/application/dbd0184a-edb3-11e4-8099-005056a71e3a"
 tags:
 - LOD
 - Digital History
@@ -9,7 +10,6 @@ tags:
 - Maritime data
 - Crowdsourcing
 application_id: dbd0184a-edb3-11e4-8099-005056a71e3a
-permalink: "/application/dbd0184a-edb3-11e4-8099-005056a71e3a"
 website_url: http://dive.beeldengeluid.nl
 thumb_image: "/uploads/dive_wide.png"
 poster_image: "/uploads/dive_poster.png"

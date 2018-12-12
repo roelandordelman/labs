@@ -1,7 +1,7 @@
 ---
 title: Docs on the Spot
-example_id: b379ead2-a321-11e5-9e6c-005056a71e3a
 permalink: "/example/b379ead2-a321-11e5-9e6c-005056a71e3a"
+example_id: b379ead2-a321-11e5-9e6c-005056a71e3a
 menu: examples
 media_url: https://vimeo.com/32867262
 thumb_image: "/uploads/Docsonthespot_poster.png"

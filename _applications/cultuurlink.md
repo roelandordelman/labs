@@ -1,11 +1,11 @@
 ---
 title: CultuurLINK
+permalink: "/application/d5fd3274-1a70-11e5-b980-005056a71e3a"
 tags:
 - Alignment
 - SKOS
 - Vocabularies
 application_id: d5fd3274-1a70-11e5-b980-005056a71e3a
-permalink: "/application/d5fd3274-1a70-11e5-b980-005056a71e3a"
 website_url: http://cultuurlink.beeldengeluid.nl/
 thumb_image: "/uploads/cultuurlink_screenshot.jpg"
 poster_image: "/uploads/cultuurlink_screenshot.jpg"

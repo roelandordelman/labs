@@ -1,10 +1,10 @@
 ---
 title: GTUO
+permalink: "/application/a4fd0e34-57ef-11e6-87b0-005056a71e3a"
 tags:
 - Thesauri Alignment
 - Cross-Collection Search
 application_id: a4fd0e34-57ef-11e6-87b0-005056a71e3a
-permalink: "/application/a4fd0e34-57ef-11e6-87b0-005056a71e3a"
 website_url: http://link.spinque.com/VIAA-1.0/
 thumb_image: "/uploads/GTUO.png"
 poster_image: "/uploads/GTUO.png"

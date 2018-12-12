@@ -1,10 +1,10 @@
 ---
 title: Enriched Open Images videos
+permalink: "/example/3fc68fca-9e5b-11e5-a8cf-005056a71e3a"
 tags:
 - term extraction
 - speech recognition
 example_id: 3fc68fca-9e5b-11e5-a8cf-005056a71e3a
-permalink: "/example/3fc68fca-9e5b-11e5-a8cf-005056a71e3a"
 menu: examples
 website_url: http://mash.openbeelden.nl/apps/openbeelden/51207/
 info_url: http://www.openimages.eu/blog/2012/01/open-images-videos-enriched-with-open-data/
