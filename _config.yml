@@ -143,7 +143,6 @@ defaults:
     blogposts:
     - title: 
       url: 
-collections_dir: collections
 email: rd@beeldengeluid.nl
 description: showcases tools, demos and prototypes developed by the R&D department
   of the Netherlands Institute for Sound and Vision
