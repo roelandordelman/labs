@@ -5,7 +5,7 @@ tags:
 - ASR
 - Content Enrichments
 - Radio stories
-layout: project
+slug: dbd312fc-edb3-11e4-8099-005056a71e3a
 menu: projects
 website_url: http://www.nadebevrijding.nl/
 thumb_image: "/uploads/vidlink_poster.png"
@@ -18,9 +18,6 @@ partners:
 - Videodock
 - NTR
 - Europeana
-predecessors:
-- name: Na de Bevrijding XL
-  url: http://www.nadebevrijding.nl
 contactpersons:
 - organization: The Netherlands Institue of Sound and Vision
   name: Erwin Verbruggen
@@ -34,6 +31,10 @@ blogposts:
   url: http://www.beeldengeluid.nl/en/vidlinks-second-layer-your-archives-showcase
 - title: Adding the second layer to Polish Academy of Movement Documentary
   url: http://www.beeldengeluid.nl/en/blogs/research-amp-development-en/201503/adding-second-layer-polish-academy-movement-documentary
+predecessors:
+- name: Na de Bevrijding XL
+  url: http://www.nadebevrijding.nl
+layout: project
 ---
 
 The award-winning Vidlink platform was originally developed for the Dutch NTR series [Na de Bevrijding](http://www.nadebevrijding.nl/) (After the Liberation). The platform has also been used as part of Europeana Awareness for [Tegenlicht in de Klas](http://www.tegenlichtindeklas.nl/), an educational series from Dutch television broadcaster, VPRO.
