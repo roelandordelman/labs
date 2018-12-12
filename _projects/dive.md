@@ -5,7 +5,7 @@ tags:
 - Digital History
 - Heterogeneous Data Cloud
 - Historical Events
-slug: dbd1f6e2-edb3-11e4-8099-005056a71e3a
+project_id: dbd1f6e2-edb3-11e4-8099-005056a71e3a
 menu: projects
 website_url: http://dive.beeldengeluid.nl
 thumb_image: "/uploads/dive_poster.png"

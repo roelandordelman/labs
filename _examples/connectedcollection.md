@@ -1,6 +1,7 @@
 ---
 title: ConnectedCollection
-slug: cf49f162-a312-11e5-9e6c-005056a71e3a
+example_id: cf49f162-a312-11e5-9e6c-005056a71e3a
+permalink: "/example/cf49f162-a312-11e5-9e6c-005056a71e3a"
 menu: examples
 website_url: http://www.connectedcollection.com
 thumb_image: "/uploads/ConnectedCollection_poster.png"

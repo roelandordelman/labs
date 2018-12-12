@@ -4,7 +4,8 @@ tags:
 - multiscreen
 - exhibition
 - museum
-slug: 9c01038c-1877-11e7-bc09-0050569ef392
+example_id: 9c01038c-1877-11e7-bc09-0050569ef392
+permalink: "/example/9c01038c-1877-11e7-bc09-0050569ef392"
 menu: examples
 website_url: https://www.mupop.net/
 info_url: http://www.europeana-space.eu/pop-up-museum/

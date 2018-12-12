@@ -1,6 +1,6 @@
 ---
 title: Gemeenschappelijke Thesaurus voor Uniforme Ontsluiting
-slug: 3f0b59a8-57f1-11e6-87b0-005056a71e3a
+project_id: 3f0b59a8-57f1-11e6-87b0-005056a71e3a
 menu: projects
 thumb_image: "/uploads/GTUO.png"
 description: Establish connections between different collections and allow for cross-collection

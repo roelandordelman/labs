@@ -6,7 +6,7 @@ tags:
 - Digital Humanities
 - Government
 - Political Debates
-slug: dbd28102-edb3-11e4-8099-005056a71e3a
+project_id: dbd28102-edb3-11e4-8099-005056a71e3a
 menu: projects
 website_url: http://www.polimedia.nl
 thumb_image: "/uploads/polimedia_wide.png"

@@ -1,6 +1,7 @@
 ---
 title: Open Cultuur Data Search
-slug: fb661666-a3d7-11e5-8084-005056a71e3a
+example_id: fb661666-a3d7-11e5-8084-005056a71e3a
+permalink: "/example/fb661666-a3d7-11e5-8084-005056a71e3a"
 menu: examples
 website_url: http://search.opencultuurdata.nl/
 info_url: http://search.opencultuurdata.nl/#/about

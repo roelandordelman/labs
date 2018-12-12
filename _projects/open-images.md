@@ -3,7 +3,7 @@ title: Open Images
 tags:
 - Reuse
 - Open Video
-slug: dbd2dbf2-edb3-11e4-8099-005056a71e3a
+project_id: dbd2dbf2-edb3-11e4-8099-005056a71e3a
 menu: projects
 website_url: http://www.openbeelden.nl
 thumb_image: "/uploads/openimages_wide.png"

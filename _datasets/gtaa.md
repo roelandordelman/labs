@@ -1,6 +1,7 @@
 ---
 title: GTAA
-slug: 5520ccca-2c8e-11e6-a743-005056a71e3a
+dataset_id: 5520ccca-2c8e-11e6-a743-005056a71e3a
+permalink: "/dataset/5520ccca-2c8e-11e6-a743-005056a71e3a"
 website_url: http://gtaa.beeldengeluid.nl/
 description: Common Thesaurus for Audiovisual Archives
 project_id: dbd33368-edb3-11e4-8099-005056a71e3a

@@ -5,7 +5,7 @@ tags:
 - Open cultural data
 - Apps
 - Reuse
-slug: f0adb896-217d-11e5-b980-005056a71e3a
+project_id: f0adb896-217d-11e5-b980-005056a71e3a
 menu: projects
 website_url: http://www.opencultuurdata.nl/
 thumb_image: "/uploads/AXES_poster.png"

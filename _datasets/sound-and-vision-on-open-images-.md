@@ -1,6 +1,7 @@
 ---
 title: Sound and Vision on Open Images
-slug: dbd157b4-edb3-11e4-8099-005056a71e3a
+dataset_id: dbd157b4-edb3-11e4-8099-005056a71e3a
+permalink: "/dataset/dbd157b4-edb3-11e4-8099-005056a71e3a"
 website_url: http://www.openimages.eu/users/beeldengeluid
 description: Set of historic Dutch newsreels and films
 project_id: dbd2dbf2-edb3-11e4-8099-005056a71e3a

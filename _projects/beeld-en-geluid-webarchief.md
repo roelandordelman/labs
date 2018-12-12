@@ -3,7 +3,7 @@ title: Beeld en Geluid Webarchief
 tags:
 - Preservation of Online Content
 - Contextualize the AV-collection
-slug: 8018e712-3065-11e5-8f19-005056a71e3a
+project_id: 8018e712-3065-11e5-8f19-005056a71e3a
 menu: projects
 website_url: http://www.beeldengeluidwebarchief.nl/
 thumb_image: "/uploads/Beeldengeluidwebarchief_screenshot.jpg"

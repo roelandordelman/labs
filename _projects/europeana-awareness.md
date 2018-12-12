@@ -5,7 +5,7 @@ tags:
 - Aggregator
 - Network
 - LOD
-slug: dbd2bce4-edb3-11e4-8099-005056a71e3a
+project_id: dbd2bce4-edb3-11e4-8099-005056a71e3a
 menu: projects
 website_url: http://pro.europeana.eu/web/europeana-awareness
 thumb_image: "/uploads/EuropeanaAwareness_Poster"

@@ -5,26 +5,21 @@ collections:
   apis:
     title: APIs
     output: true
-    permalink: "/api/:title"
   applications:
     title: Applications
     output: true
-    permalink: "/application/:title"
   datasets:
     title: Datasets
     output: true
-    permalink: "/dataset/:title"
   examples:
     title: Examples
     output: true
-    permalink: "/example/:title"
   posts:
     title: Posts
     output: true
   projects:
     title: Projects
     output: true
-    permalink: "/project/:title"
   uploads:
     title: Uploads
     output: true
@@ -34,7 +29,7 @@ defaults:
     type: apis
   values:
     layout: api
-    slug: 
+    api_id: 
     menu: 
     title: 
     website_url: 
@@ -52,7 +47,7 @@ defaults:
     type: applications
   values:
     layout: application
-    slug: 
+    application_id: 
     menu: 
     title: 
     website_url: 
@@ -81,7 +76,7 @@ defaults:
     type: datasets
   values:
     layout: dataset
-    slug: 
+    dataset_id: 
     menu: 
     title: 
     website_url: 
@@ -99,7 +94,7 @@ defaults:
     type: examples
   values:
     layout: example
-    slug: 
+    example_id: 
     menu: 
     title: 
     website_url: 
@@ -124,7 +119,7 @@ defaults:
     type: projects
   values:
     layout: project
-    slug: 
+    project_id: 
     menu: 
     title: 
     website_url: 

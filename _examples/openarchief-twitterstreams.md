@@ -1,6 +1,7 @@
 ---
 title: Openarchief Twitterstreams
-slug: 0ca8041a-a27b-11e5-9e6c-005056a71e3a
+example_id: 0ca8041a-a27b-11e5-9e6c-005056a71e3a
+permalink: "/example/0ca8041a-a27b-11e5-9e6c-005056a71e3a"
 menu: examples
 website_url: https://twitter.com/BGpolygoon
 thumb_image: "/uploads/Openarchieftwitterstreams_poster.png"

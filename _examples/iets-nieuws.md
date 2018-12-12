@@ -1,6 +1,7 @@
 ---
 title: Iets Nieuws
-slug: 62e6a992-57f4-11e6-87b0-005056a71e3a
+example_id: 62e6a992-57f4-11e6-87b0-005056a71e3a
+permalink: "/example/62e6a992-57f4-11e6-87b0-005056a71e3a"
 menu: examples
 website_url: http://tinyurl.com/ietsnieuwsgame
 info_url: http://biktorrr.github.io/ietsnieuws/

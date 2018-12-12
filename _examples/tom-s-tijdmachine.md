@@ -2,7 +2,8 @@
 title: Tom's tijdmachine
 tags:
 - game
-slug: 0e5e589a-9e57-11e5-a8cf-005056a71e3a
+example_id: 0e5e589a-9e57-11e5-a8cf-005056a71e3a
+permalink: "/example/0e5e589a-9e57-11e5-a8cf-005056a71e3a"
 menu: examples
 media_url: https://www.youtube.com/watch?v=i5eiN_b0e4E
 thumb_image: "/uploads/Tomstijdmachine_poster.png"

@@ -2,7 +2,8 @@
 title: Mix van Nederland
 tags:
 - remixing
-slug: 2f944204-9e61-11e5-a8cf-005056a71e3a
+example_id: 2f944204-9e61-11e5-a8cf-005056a71e3a
+permalink: "/example/2f944204-9e61-11e5-a8cf-005056a71e3a"
 menu: examples
 thumb_image: "/uploads/MixvanNederland_poster.png"
 poster_image: "/uploads/MixvanNederland_poster.png"

@@ -4,7 +4,8 @@ tags:
 - Crowdsourcing
 - Nature
 - Social tagging
-slug: 1ed43c9e-1b44-11e5-b980-005056a71e3a
+application_id: 1ed43c9e-1b44-11e5-b980-005056a71e3a
+permalink: "/application/1ed43c9e-1b44-11e5-b980-005056a71e3a"
 website_url: http://spotvogel.vroegevogels.vara.nl/
 thumb_image: "/uploads/spotvogel_poster.png"
 poster_image: "/uploads/spotvogel_poster.png"

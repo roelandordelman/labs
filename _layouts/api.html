@@ -12,7 +12,7 @@
 					<tr>
 						<td style="white-space:nowrap">Related project</td>
 						<td>
-							{% assign projects = site.projects | where:"slug", page.project_id %}
+							{% assign projects = site.projects | where:"project_id", page.project_id %}
 							<a id="project" href="{{ projects[0].url | relative_url }}">{{ projects[0].title }}</a>
 						</td>
 					</tr>

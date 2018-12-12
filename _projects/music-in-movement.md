@@ -2,7 +2,7 @@
 title: Music in Movement
 tags:
 - Classical Music
-slug: 11c3e7ec-acfc-11e7-a9c0-0050569ef392
+project_id: 11c3e7ec-acfc-11e7-a9c0-0050569ef392
 menu: projects
 website_url: http://musicinmovement.eu/
 thumb_image: "/uploads/MiMgraph.png"

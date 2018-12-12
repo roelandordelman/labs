@@ -4,7 +4,8 @@ tags:
 - Radio stories
 - ASR
 - Content Enrichments
-slug: dbd10fca-edb3-11e4-8099-005056a71e3a
+application_id: dbd10fca-edb3-11e4-8099-005056a71e3a
+permalink: "/application/dbd10fca-edb3-11e4-8099-005056a71e3a"
 website_url: http://woordnl.rdlabs.beeldengeluid.nl/woordnl-fc
 thumb_image: "/uploads/woordnlfc_poster.png"
 poster_image: "/uploads/woordnlfc_poster.png"

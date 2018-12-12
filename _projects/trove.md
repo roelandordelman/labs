@@ -9,7 +9,7 @@ tags:
 - CLARIAH
 - Content Enrichments
 - Public Debates
-slug: dbd240e8-edb3-11e4-8099-005056a71e3a
+project_id: dbd240e8-edb3-11e4-8099-005056a71e3a
 menu: projects
 website_url: http://trove.beeldengeluid.nl
 thumb_image: "/uploads/trove_wide.png"

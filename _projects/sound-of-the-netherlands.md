@@ -5,7 +5,7 @@ tags:
 - ASR
 - Content Enrichments
 - COMMIT
-slug: dbd2f7b8-edb3-11e4-8099-005056a71e3a
+project_id: dbd2f7b8-edb3-11e4-8099-005056a71e3a
 menu: projects
 website_url: http://www.geluidvannederland.nl/
 thumb_image: "/uploads/gvnl_poster.png"

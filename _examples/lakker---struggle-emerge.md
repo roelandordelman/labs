@@ -1,6 +1,7 @@
 ---
 title: Lakker - Struggle & Emerge
-slug: 994bb708-5a50-11e6-87b0-005056a71e3a
+example_id: 994bb708-5a50-11e6-87b0-005056a71e3a
+permalink: "/example/994bb708-5a50-11e6-87b0-005056a71e3a"
 menu: examples
 website_url: http://revivethis.org/Sessions/lakker-sound-and-vision/
 info_url: https://beeldengeluid.atavist.com/lakker

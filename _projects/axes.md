@@ -6,7 +6,7 @@ tags:
 - Speech recognition
 - Video hyperlinking
 - Access models
-slug: 3a0a9b4c-1b4f-11e5-bf8d-005056a71e3a
+project_id: 3a0a9b4c-1b4f-11e5-bf8d-005056a71e3a
 menu: projects
 website_url: http://www.axes-project.eu/
 thumb_image: "/uploads/avresearcherxl_poster.png"

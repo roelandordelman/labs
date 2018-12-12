@@ -8,7 +8,8 @@ tags:
 - CLARIAH
 - Content Enrichments
 - Public Debates
-slug: dbd0b3e0-edb3-11e4-8099-005056a71e3a
+application_id: dbd0b3e0-edb3-11e4-8099-005056a71e3a
+permalink: "/application/dbd0b3e0-edb3-11e4-8099-005056a71e3a"
 website_url: http://trove.beeldengeluid.nl
 thumb_image: "/uploads/trove_wide.png"
 poster_image: "/uploads/trove_poster.png"

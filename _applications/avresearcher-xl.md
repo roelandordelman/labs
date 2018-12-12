@@ -8,7 +8,8 @@ tags:
 - Analysis
 - CLARIAH
 - Context Collections
-slug: dbd09298-edb3-11e4-8099-005056a71e3a
+application_id: dbd09298-edb3-11e4-8099-005056a71e3a
+permalink: "/application/dbd1c7ee-edb3-11e4-8099-005056a71e3a"
 website_url: http://avresearcher.clariah.beeldengeluid.nl
 thumb_image: "/uploads/avresearcherxl_wide.png"
 poster_image: "/uploads/avresearcherxl_poster.png"

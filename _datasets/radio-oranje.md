@@ -1,6 +1,7 @@
 ---
 title: Radio Oranje
-slug: 1a565f54-3128-11e5-8f19-005056a71e3a
+dataset_id: 1a565f54-3128-11e5-8f19-005056a71e3a
+permalink: "/dataset/1a565f54-3128-11e5-8f19-005056a71e3a"
 website_url: https://soundcloud.com/beeldengeluid/sets/radio-oranje
 description: The majority of broadcasts by Radio Oranje
 project_id: dbd2f7b8-edb3-11e4-8099-005056a71e3a

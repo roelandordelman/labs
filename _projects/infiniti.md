@@ -5,7 +5,7 @@ tags:
 - ASR
 - Content Enrichments
 - COMMIT
-slug: dbd2a100-edb3-11e4-8099-005056a71e3a
+project_id: dbd2a100-edb3-11e4-8099-005056a71e3a
 menu: projects
 website_url: http://project-infiniti.nl/
 thumb_image: "/uploads/RadioPlus_Context_Browser_Poster.png"

@@ -1,6 +1,7 @@
 ---
 title: Tijdbalk.nl
-slug: ba24bf26-99a1-11e5-a8cf-005056a71e3a
+example_id: ba24bf26-99a1-11e5-a8cf-005056a71e3a
+permalink: "/example/ba24bf26-99a1-11e5-a8cf-005056a71e3a"
 menu: examples
 website_url: http://tijdbalk.nl/
 thumb_image: "/uploads/Tijdbalk_nl.png"
