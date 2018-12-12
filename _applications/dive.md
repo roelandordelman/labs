@@ -8,15 +8,13 @@ tags:
 - Historical Events
 - Maritime data
 - Crowdsourcing
-layout: application
-menu: 
+slug: dbd0184a-edb3-11e4-8099-005056a71e3a
 website_url: http://dive.beeldengeluid.nl
 thumb_image: "/uploads/dive_wide.png"
 poster_image: "/uploads/dive_poster.png"
 description: Dynamically linking collections on the basis of events
 project_id: dbd1f6e2-edb3-11e4-8099-005056a71e3a
 access: Open
-github: 
 status:
 - In Development
 themes:
@@ -25,13 +23,12 @@ themes:
 contenttypes:
 - Text
 - Metadata
-requestauthentication: 
 publications:
 - title: Dutch Ships and Sailors Linked Data
   url: http://publications.beeldengeluid.nl/pub/35
 - title: DIVE into the Event-Based Browsing of Linked Historical Media
   url: http://publications.beeldengeluid.nl/pub/21
-blogposts: 
+layout: application
 ---
 
 DIVE is a linked-data digital cultural heritage collection browser. It was developed to provide innovative access to heritage objects from heterogeneous collections, using historical events and narratives as the context for searching, browsing and presenting of individual and groups of objects.
