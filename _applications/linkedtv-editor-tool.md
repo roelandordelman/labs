@@ -6,8 +6,7 @@ tags:
 - LOD
 - Content Enrichments
 - Interactive Television
-layout: application
-menu: 
+slug: dbd0d12c-edb3-11e4-8099-005056a71e3a
 website_url: http://editortoolv2.linkedtv.eu/
 thumb_image: "/uploads/linkedtv_wide.png"
 poster_image: "/uploads/linkedtv_poster.png"
@@ -26,7 +25,6 @@ requestauthentication:
 - organization: The Netherlands Institute for Sound and Vision
   name: Jaap Blom
   email: jblom@beeldengeluid.nl
-publications: 
 blogposts:
 - title: Smart TV apps at Europeana's Space workshop
   url: http://www.beeldengeluid.nl/en/blogs/research-amp-development-en/201503/smart-tv-apps-europeana-space-workshop
@@ -34,6 +32,7 @@ blogposts:
   url: http://www.beeldengeluid.nl/en/blogs/research-and-development/201302/linkedtvs-first-year-concluded
 - title: Archive content and smart TV's
   url: http://www.beeldengeluid.nl/en/blogs/research-amp-development/201310/archive-content-and-smart-tvs
+layout: application
 ---
 
 The LinkedTV Editor Tool (ET) offers a dashboard for broadcaster programme teams to utilize LinkedTV's automatically generated annotations to quickly produce high quality contextual information queues for their viewers. In the course of the project, the ET architecture has been improved to enable plugging into different publication systems, enrichment APIs, video streaming systems etc, increasing its flexibility to support various use-cases.
