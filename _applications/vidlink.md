@@ -5,15 +5,13 @@ tags:
 - ASR
 - Content Enrichments
 - Radio stories
-layout: application
-menu: 
+slug: dbd12d5c-edb3-11e4-8099-005056a71e3a
 website_url: http://www.nadebevrijding.nl/
 thumb_image: "/uploads/vidlink_wide.png"
 poster_image: "/uploads/vidlink_poster.png"
 description: Interactive documentary explorer
 project_id: dbd312fc-edb3-11e4-8099-005056a71e3a
 access: Open
-github: 
 status:
 - In Development
 themes:
@@ -23,8 +21,6 @@ contenttypes:
 - Video
 - Text
 - Images
-requestauthentication: 
-publications: 
 blogposts:
 - title: 'Vidlink''s second layer: your archive''s showcase'
   url: http://www.beeldengeluid.nl/en/vidlinks-second-layer-your-archives-showcase
@@ -33,6 +29,7 @@ blogposts:
 - title: 'Linked media in the audiovisual domain: Na de bevrijding XL at the Lime
     workshop'
   url: http://www.beeldengeluid.nl/en/blogs/research-amp-development-en/201408/linked-media-audiovisual-domain-na-de-bevrijding-xl-lime
+layout: application
 ---
 
 The source materials of a documentary consist of endless hours of original footage. Careful editing choices leave only minutes for the general public to see. 
