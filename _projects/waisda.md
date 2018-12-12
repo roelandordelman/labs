@@ -4,6 +4,7 @@ tags:
 - Gaming
 - Video annotation
 - Crowdsourcing
+slug: ed1929a0-1b3c-11e5-9234-005056a71e3a
 menu: projects
 thumb_image: "/uploads/avresearcherxl_poster.png"
 description: A video labeling game
