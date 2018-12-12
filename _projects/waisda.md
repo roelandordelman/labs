@@ -1,5 +1,6 @@
 ---
 title: Waisda?
+permalink: "/project/ed1929a0-1b3c-11e5-9234-005056a71e3a"
 tags:
 - Gaming
 - Video annotation
@@ -21,7 +22,6 @@ contactpersons:
   email: mbrinkerink@beeldengeluid.nl
 predecessors: 
 layout: project
-permalink: /project/ed1929a0-1b3c-11e5-9234-005056a71e3a
 ---
 
 Waisda? is a video labeling game where players watch videos and add tags about what they see and hear. They play against other players and when they give the same tag they're given points. With this form of crowdsourcing detailed metadata is obtained which is linked to a specific time code within a video.
