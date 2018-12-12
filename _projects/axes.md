@@ -6,7 +6,7 @@ tags:
 - Speech recognition
 - Video hyperlinking
 - Access models
-layout: project
+slug: 3a0a9b4c-1b4f-11e5-bf8d-005056a71e3a
 menu: projects
 website_url: http://www.axes-project.eu/
 thumb_image: "/uploads/avresearcherxl_poster.png"
@@ -30,13 +30,12 @@ partners:
 - Technicolor
 - Cassidian
 - Erasmus University Rotterdam
-predecessors: 
 contactpersons:
 - organization: Nederlands Instituut voor Beeld en Geluid
   name: Roeland Ordelman
   email: rordelman@beeldengeluid.nl
-publications: 
-blogposts: 
+predecessors: 
+layout: project
 ---
 
 The purpose of AXES is to develop tools for different user groups to provide new ways of access to audiovisual archive material, particularly in the area of searching, browsing, navigating and enriching archive material. Three axes are central in the project: users, audiovisual archive material and technology. In the search system various sources, such as wiki's, are automatically linked to descriptions of audiovisual material. In this way the existing metadata is enriched and the material is accessible via a new level.
