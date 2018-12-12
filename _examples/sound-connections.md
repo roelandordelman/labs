@@ -1,15 +1,13 @@
 ---
 title: Sound Connections
-layout: example
+slug: d897ee3e-a323-11e5-9e6c-005056a71e3a
 menu: examples
 website_url: https://www.historypin.org/en/explore/sound-connections
 info_url: https://www.historypin.org/en/explore/sound-connections/geo/51.916308,5.291266,5/bounds/39.502965,-6.354242,61.647501,16.936774/project/about
-media_url: 
 thumb_image: "/uploads/soundconnections_poster.png"
 poster_image: "/uploads/soundconnections_poster.png"
 description: Explore sounds and help add contextual information
 related_project: Europeana Creative
-related_event: 
 github: https://github.com/Historypin
 creators:
 - Historypin
@@ -28,6 +26,7 @@ organizations:
 used_sources:
 - name: Sound of The Netherlands dataset
   url: http://labs.beeldengeluid.nl/datasets#dbd17834-edb3-11e4-8099-005056a71e3a
+layout: example
 ---
 
 Sound Connections allows you to explore sounds from across the UK and the Netherlands around different themes:
