@@ -3,7 +3,7 @@ title: Digitale Collectie
 tags:
 - Aggregator
 - Digitisation
-layout: project
+slug: dbd33368-edb3-11e4-8099-005056a71e3a
 menu: projects
 website_url: http://www.digitalecollectie.nl/
 thumb_image: "/uploads/digitalecollectie_poster.png"
@@ -18,12 +18,10 @@ partners:
 - National Library of the Netherlands
 - National Archives of the Netherlands
 - Digital Heritage Netherlands
-predecessors: 
 contactpersons:
 - organization: Netherlands Institute for Sound and Vision
   name: Pieter Vijn
   email: pvijn@beeldengeluid.nl
-publications: 
 blogposts:
 - title: Nederlands erfgoed gaat digitaal (only available in Dutch)
   url: http://www.beeldengeluid.nl/node/6526/
@@ -35,6 +33,8 @@ blogposts:
   url: http://www.beeldengeluid.nl/node/7953/
 - title: 'Studiedag: baas over eigen metadata? (only availabe in Dutch)'
   url: http://www.beeldengeluid.nl/node/5536/
+predecessors: 
+layout: project
 ---
 
 Digitale Collectie (Digital Collection) brings the digital heritage collections Netherlands together in one place. These collections can then be used in various applications. Digitale Collectie also increases the international visibility of Dutch cultural heritage by also transferring collections to Europeana.
