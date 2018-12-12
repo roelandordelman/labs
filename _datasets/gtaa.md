@@ -1,6 +1,7 @@
 ---
 title: GTAA
 layout: dataset
+slug: 5520ccca-2c8e-11e6-a743-005056a71e3a
 menu: 
 website_url: http://gtaa.beeldengeluid.nl/
 thumb_image: "/uploads/GTAA.png"
