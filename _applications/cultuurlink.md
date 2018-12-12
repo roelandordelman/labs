@@ -4,15 +4,13 @@ tags:
 - Alignment
 - SKOS
 - Vocabularies
-layout: application
-menu: 
+slug: d5fd3274-1a70-11e5-b980-005056a71e3a
 website_url: http://cultuurlink.beeldengeluid.nl/
 thumb_image: "/uploads/cultuurlink_screenshot.jpg"
 poster_image: "/uploads/cultuurlink_screenshot.jpg"
 description: Align your vocabulary with the Dutch cultural heritage hub
 project_id: 06e627fc-1a70-11e5-811b-005056a71e3a
 access: Open
-github: 
 status:
 - Beta
 themes:
@@ -21,9 +19,7 @@ themes:
 - Humanities
 contenttypes:
 - Metadata
-requestauthentication: 
-publications: 
-blogposts: 
+layout: application
 ---
 
 CultuurLINK is developed for cultural heritage institutions to help them link their vocabularies, such as thesauri and term lists, with the Dutch cultural heritage Hub. The Hub contains thesauri from the Netherlands Institute for Sound & Vision, Naturalis, RCE and Getty.
