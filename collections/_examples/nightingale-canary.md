@@ -1,23 +1,28 @@
 ---
+title: Nightingale & Canary
 layout: example
 slug: 372811a0-9e8c-11e5-a2a1-005056a71e3a
-title: Nightingale & Canary
 menu: examples
 website_url: https://vimeo.com/103364847
 info_url: http://www.beeldengeluid.nl/en/blogs/research-amp-development-en/201409/creating-inspirational-video-archival-bird-songs
 media_url: 
-thumb_image: /uploads/BIRD-1-MAIN-FINAL-0-01-32-19.jpg
-poster_image: /uploads/BIRD-1-MAIN-FINAL-0-01-32-19.jpg
-description: "Digital sound sculpture re-using two bird sounds from Sound and Vision archive"
+thumb_image: "/uploads/BIRD-1-MAIN-FINAL-0-01-32-19.jpg"
+poster_image: "/uploads/BIRD-1-MAIN-FINAL-0-01-32-19.jpg"
+description: Digital sound sculpture re-using two bird sounds from Sound and Vision
+  archive
 related_project: Europeana Creative
 related_event: 
 github: 
-creators: [Andy Thomas]
-tags: [bird songs, Europeana, sound sculpture]
-organizations: 
+creators:
+- Andy Thomas
+tags:
+- bird songs
+- Europeana
+- sound sculpture
+organizations:
 - name: http://www.andythomas.com.au/
   url: http://www.andythomas.com.au/
-used_sources: 
+used_sources:
 - name: Sound of The Netherlands dataset
   url: http://labs.beeldengeluid.nl/datasets#dbd17834-edb3-11e4-8099-005056a71e3a
 ---

@@ -1,23 +1,24 @@
 ---
+title: Filmtagging
 layout: example
 slug: 35cb11d0-2d7b-11e6-87b0-005056a71e3a
-title: Filmtagging
 menu: examples
 website_url: http://astacia.eculture.labs.vu.nl/
 info_url: 
 media_url: 
-thumb_image: /uploads/filmtagging.png
-poster_image: /uploads/filmtagging.png
-description: "A crowdsourced tag collection platform for old films"
+thumb_image: "/uploads/filmtagging.png"
+poster_image: "/uploads/filmtagging.png"
+description: A crowdsourced tag collection platform for old films
 related_project: 
 related_event: 
 github: 
-creators: [A.J. Stacia]
+creators:
+- A.J. Stacia
 tags: []
-organizations: 
+organizations:
 - name: VU University
   url: http://www.vu.nl
-used_sources: 
+used_sources:
 - name: Sound and Vision on Open Images
   url: http://labs.beeldengeluid.nl/datasets#dbd157b4-edb3-11e4-8099-005056a71e3a
 ---

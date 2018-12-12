@@ -1,21 +1,31 @@
 ---
+title: V.A. - Damrak
 layout: example
 slug: e2056084-905b-11e6-a3f3-0050569ef392
-title: V.A. - Damrak
 menu: examples
 website_url: http://revivethis.org/Sessions/damrak/
 info_url: 
 media_url: http://www.fogmountainrecords.com/release/14/VA/Damrak/
-thumb_image: /uploads/Damrak.png
-poster_image: /uploads/Damrak.png
-description: "Music created from reused archive materials"
+thumb_image: "/uploads/Damrak.png"
+poster_image: "/uploads/Damrak.png"
+description: Music created from reused archive materials
 related_project: RE:VIVE
 related_event: 
 github: 
-creators: [Swarm Intelligence, ZES, PYUR, Avondlicht, Arad, Cocktail Party Effect, Mill Burray, Born in Flamez, Lemontrip, Know V.A.]
+creators:
+- Swarm Intelligence
+- ZES
+- PYUR
+- Avondlicht
+- Arad
+- Cocktail Party Effect
+- Mill Burray
+- Born in Flamez
+- Lemontrip
+- Know V.A.
 tags: []
 organizations: 
-used_sources: 
+used_sources:
 - name: Sound of The Netherlands dataset
   url: http://labs.beeldengeluid.nl/datasets#dbd17834-edb3-11e4-8099-005056a71e3a
 - name: Sound and Vision on Open Images

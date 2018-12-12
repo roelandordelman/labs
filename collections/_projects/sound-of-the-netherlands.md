@@ -1,16 +1,26 @@
 ---
+title: Sound of the Netherlands
 layout: project
 slug: dbd2f7b8-edb3-11e4-8099-005056a71e3a
-title: Sound of the Netherlands
 menu: projects
 website_url: http://www.geluidvannederland.nl/
-thumb_image: /uploads/gvnl_poster.png
-description: "Sounds of daily life from the Netherlands"
-themes: [Digitization and Preservation, Access, Use and Context]
-tags: [Radio stories, ASR, Content Enrichments, COMMIT]
-partners: [The Netherlands Institute for Sound and Vision, Kennisland, De Auditieve Dienst]
+thumb_image: "/uploads/gvnl_poster.png"
+description: Sounds of daily life from the Netherlands
+themes:
+- Digitization and Preservation
+- Access
+- Use and Context
+tags:
+- Radio stories
+- ASR
+- Content Enrichments
+- COMMIT
+partners:
+- The Netherlands Institute for Sound and Vision
+- Kennisland
+- De Auditieve Dienst
 predecessors: 
-contactpersons: 
+contactpersons:
 - organization: Netherlands Institute for Sound and Vision
   name: Maarten Brinkerink
   email: mbrinkerink@beeldengeluid.nl

@@ -1,19 +1,27 @@
 ---
+title: CultuurLINK
 layout: application
 slug: d5fd3274-1a70-11e5-b980-005056a71e3a
-title: CultuurLINK
 menu: 
 website_url: http://cultuurlink.beeldengeluid.nl/
-thumb_image: /uploads/cultuurlink_screenshot.jpg
-poster_image: /uploads/cultuurlink_screenshot.jpg
-description: "Align your vocabulary with the Dutch cultural heritage hub"
+thumb_image: "/uploads/cultuurlink_screenshot.jpg"
+poster_image: "/uploads/cultuurlink_screenshot.jpg"
+description: Align your vocabulary with the Dutch cultural heritage hub
 project_id: 06e627fc-1a70-11e5-811b-005056a71e3a
 access: Open
 github: 
-status: [Beta]
-themes: [Metadata & Context, Users, Humanities]
-tags: [Alignment, SKOS, Vocabularies]
-contenttypes: [Metadata]
+status:
+- Beta
+themes:
+- Metadata & Context
+- Users
+- Humanities
+tags:
+- Alignment
+- SKOS
+- Vocabularies
+contenttypes:
+- Metadata
 requestauthentication: 
 publications: 
 blogposts: 

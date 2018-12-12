@@ -1,23 +1,27 @@
 ---
+title: Bites
 layout: example
 slug: b3406a8e-a27f-11e5-93ae-005056a71e3a
-title: Bites
 menu: examples
 website_url: http://bites.designpunt.nl/
 info_url: 
 media_url: https://vimeo.com/57485590
-thumb_image: /uploads/Bites_poster.png
-poster_image: /uploads/Bites_poster.png
-description: "Create soundbites with video fragments "
+thumb_image: "/uploads/Bites_poster.png"
+poster_image: "/uploads/Bites_poster.png"
+description: 'Create soundbites with video fragments '
 related_project: 
 related_event: Open Culture Data Competition 2012
 github: 
-creators: [Stijn van Vilsteren (project manager), Tom Toepol ( interaction designer), Jente Insing (visual designer), Robbert van der Steenhoven (developer)]
+creators:
+- Stijn van Vilsteren (project manager)
+- Tom Toepol ( interaction designer)
+- Jente Insing (visual designer)
+- Robbert van der Steenhoven (developer)
 tags: []
-organizations: 
+organizations:
 - name: Hogeschool van Amsterdam
   url: http://www.hva.nl
-used_sources: 
+used_sources:
 - name: Sound and Vision on Open Images
   url: http://labs.beeldengeluid.nl/datasets#dbd157b4-edb3-11e4-8099-005056a71e3a
 ---

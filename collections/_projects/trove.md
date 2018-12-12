@@ -1,16 +1,33 @@
 ---
+title: TROVe
 layout: project
 slug: dbd240e8-edb3-11e4-8099-005056a71e3a
-title: TROVe
 menu: projects
 website_url: http://trove.beeldengeluid.nl
-thumb_image: /uploads/trove_wide.png
-description: "Transmedia Observatory"
-themes: [Access, Use and Context, Humanities, Metadata]
-tags: [Academic Research, Digital Humanities, Media Studies, Exploring, Analysis, CLARIAH, Content Enrichments, Public Debates]
-partners: [Netherlands Institute for Sound and Vision, Utrecht University, University of Amsterdam, Dispectu, Frontwise]
+thumb_image: "/uploads/trove_wide.png"
+description: Transmedia Observatory
+themes:
+- Access
+- Use and Context
+- Humanities
+- Metadata
+tags:
+- Academic Research
+- Digital Humanities
+- Media Studies
+- Exploring
+- Analysis
+- CLARIAH
+- Content Enrichments
+- Public Debates
+partners:
+- Netherlands Institute for Sound and Vision
+- Utrecht University
+- University of Amsterdam
+- Dispectu
+- Frontwise
 predecessors: 
-contactpersons: 
+contactpersons:
 - organization: Netherlands Institute for Sound and Vision
   name: Eva Baaren
   email: ebaaren@beeldengeluid.nl

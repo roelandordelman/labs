@@ -1,28 +1,42 @@
 ---
+title: AVResearcher XL
 layout: application
 slug: dbd09298-edb3-11e4-8099-005056a71e3a
-title: AVResearcher XL
 menu: 
 website_url: http://avresearcher.clariah.beeldengeluid.nl
-thumb_image: /uploads/avresearcherxl_wide.png
-poster_image: /uploads/avresearcherxl_poster.png
-description: "Exploring radio and television in context"
+thumb_image: "/uploads/avresearcherxl_wide.png"
+poster_image: "/uploads/avresearcherxl_poster.png"
+description: Exploring radio and television in context
 project_id: dbd21ad2-edb3-11e4-8099-005056a71e3a
 access: Authentication needed
 github: https://github.com/beeldengeluid/audiovisual-researcher
-status: [Completed]
-themes: [Humanities, Metadata & Context]
-tags: [Academic Research, Digital Humanities, Media Studies, Exploring, Analysis, CLARIAH, Context Collections]
-contenttypes: [Text, Metadata]
-requestauthentication: 
+status:
+- Completed
+themes:
+- Humanities
+- Metadata & Context
+tags:
+- Academic Research
+- Digital Humanities
+- Media Studies
+- Exploring
+- Analysis
+- CLARIAH
+- Context Collections
+contenttypes:
+- Text
+- Metadata
+requestauthentication:
 - organization: The Netherlands Institute for Sound and Vision
   name: Eva Baaren
   email: ebaaren@beeldengeluid.nl
 publications: 
-blogposts: 
-- title: "Door de ogen van een geesteswetenschapper: Researchaton van de tool AVResearcherXL op Thatcamp"
+blogposts:
+- title: 'Door de ogen van een geesteswetenschapper: Researchaton van de tool AVResearcherXL
+    op Thatcamp'
   url: http://www.beeldengeluid.nl/blogs/research-and-development/201502/door-de-ogen-van-een-geesteswetenschapper-verslag
-- title: "Door de ogen van een journalist: verslag masterclass onderzoeksjournalistiek Beeld en Geluid en VondelCS"
+- title: 'Door de ogen van een journalist: verslag masterclass onderzoeksjournalistiek
+    Beeld en Geluid en VondelCS'
   url: http://www.beeldengeluid.nl/blogs/research-and-development/201410/door-de-ogen-van-een-journalist-verslag-masterclass
 ---
 

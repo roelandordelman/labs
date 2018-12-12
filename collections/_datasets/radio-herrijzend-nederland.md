@@ -1,15 +1,18 @@
 ---
+title: Radio Herrijzend Nederland
 layout: dataset
 slug: 18a27a2e-312a-11e5-8f19-005056a71e3a
-title: Radio Herrijzend Nederland
 menu: 
 website_url: https://soundcloud.com/beeldengeluid/sets/radio-herrijzend-nederland
-thumb_image: /uploads/Radio_Herrijzend_Nederland_poster.png
-description: "A selection of radio broadcasts by Radio Herrijzend Nederland"
+thumb_image: "/uploads/Radio_Herrijzend_Nederland_poster.png"
+description: A selection of radio broadcasts by Radio Herrijzend Nederland
 project_id: f0adb896-217d-11e5-b980-005056a71e3a
-contenttypes: [Radio broadcasts, WWII]
-mediatypes: [Audio]
-contactpersons: 
+contenttypes:
+- Radio broadcasts
+- WWII
+mediatypes:
+- Audio
+contactpersons:
 - organization: Netherlands Institute for Sound and Vision
   name: Jesse de Vos
   email: jdvos@beeldengeluid.nl

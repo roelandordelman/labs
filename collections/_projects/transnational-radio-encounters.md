@@ -1,16 +1,34 @@
 ---
+title: Transnational Radio Encounters
 layout: project
 slug: deb93ff6-fcfb-11e6-bc09-0050569ef392
-title: Transnational Radio Encounters
 menu: projects
 website_url: http://www.transnationalradio.org/
-thumb_image: /uploads/radio_garden.png
-description: "  Transnational Radio Encounters investigates how radio structures cultural encounters"
-themes: [Humanities, Users, Access]
-tags: [radio]
-partners: [Martin-Luther-University, Utrecht University, Aarhus Universitet, University of Copenhagen, London Metropolitan University, University of Sunderland, Netherlands Institute for Sound and Vision, Danmarks Radio, Deutsches Rundfunkarchiv, British Broadcasting Corporation, European Broadcasting Union, Deutschlandradio Kultur, Athena Media]
+thumb_image: "/uploads/radio_garden.png"
+description: "  Transnational Radio Encounters investigates how radio structures cultural
+  encounters"
+themes:
+- Humanities
+- Users
+- Access
+tags:
+- radio
+partners:
+- Martin-Luther-University
+- Utrecht University
+- Aarhus Universitet
+- University of Copenhagen
+- London Metropolitan University
+- University of Sunderland
+- Netherlands Institute for Sound and Vision
+- Danmarks Radio
+- Deutsches Rundfunkarchiv
+- British Broadcasting Corporation
+- European Broadcasting Union
+- Deutschlandradio Kultur
+- Athena Media
 predecessors: 
-contactpersons: 
+contactpersons:
 - organization: Netherlands Institute for Sound and Vision
   name: Bas Agterberg
   email: bagterberg@beeldengeluid.nl

@@ -1,15 +1,18 @@
 ---
+title: Radio De Brandaris
 layout: dataset
 slug: e4fde4ac-2be6-11e6-a743-005056a71e3a
-title: Radio De Brandaris
 menu: 
 website_url: https://soundcloud.com/beeldengeluid/sets/radio-de-brandaris
-thumb_image: /uploads/Radio_De_Brandaris.png
-description: "Collection of radio broadcasts by Radio De Brandaris"
+thumb_image: "/uploads/Radio_De_Brandaris.png"
+description: Collection of radio broadcasts by Radio De Brandaris
 project_id: f0adb896-217d-11e5-b980-005056a71e3a
-contenttypes: [Radio broadcasts, WWII]
-mediatypes: [Audio]
-contactpersons: 
+contenttypes:
+- Radio broadcasts
+- WWII
+mediatypes:
+- Audio
+contactpersons:
 - organization: Netherlands Institute for Sound and Vision
   name: Ruurd Blom
   email: rblom@beeldengeluid.nl

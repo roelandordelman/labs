@@ -1,27 +1,38 @@
 ---
+title: VidLink
 layout: application
 slug: dbd12d5c-edb3-11e4-8099-005056a71e3a
-title: VidLink
 menu: 
 website_url: http://www.nadebevrijding.nl/
-thumb_image: /uploads/vidlink_wide.png
-poster_image: /uploads/vidlink_poster.png
-description: "Interactive documentary explorer"
+thumb_image: "/uploads/vidlink_wide.png"
+poster_image: "/uploads/vidlink_poster.png"
+description: Interactive documentary explorer
 project_id: dbd312fc-edb3-11e4-8099-005056a71e3a
 access: Open
 github: 
-status: [In Development]
-themes: [Metadata & Context]
-tags: [Documentary, ASR, Content Enrichments, Radio stories]
-contenttypes: [Audio, Video, Text, Images]
+status:
+- In Development
+themes:
+- Metadata & Context
+tags:
+- Documentary
+- ASR
+- Content Enrichments
+- Radio stories
+contenttypes:
+- Audio
+- Video
+- Text
+- Images
 requestauthentication: 
 publications: 
-blogposts: 
-- title: "Vidlink's second layer: your archive's showcase"
+blogposts:
+- title: 'Vidlink''s second layer: your archive''s showcase'
   url: http://www.beeldengeluid.nl/en/vidlinks-second-layer-your-archives-showcase
-- title: "Adding the second layer to Polish Academy of Movement Documentary"
+- title: Adding the second layer to Polish Academy of Movement Documentary
   url: http://www.beeldengeluid.nl/en/blogs/research-amp-development-en/201503/adding-second-layer-polish-academy-movement-documentary
-- title: "Linked media in the audiovisual domain: Na de bevrijding XL at the Lime workshop"
+- title: 'Linked media in the audiovisual domain: Na de bevrijding XL at the Lime
+    workshop'
   url: http://www.beeldengeluid.nl/en/blogs/research-amp-development-en/201408/linked-media-audiovisual-domain-na-de-bevrijding-xl-lime
 ---
 

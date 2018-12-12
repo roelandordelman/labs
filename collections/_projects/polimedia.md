@@ -1,16 +1,27 @@
 ---
+title: PoliMedia
 layout: project
 slug: dbd28102-edb3-11e4-8099-005056a71e3a
-title: PoliMedia
 menu: projects
 website_url: http://www.polimedia.nl
-thumb_image: /uploads/polimedia_wide.png
-description: "Search through decades of political debates from the Dutch Parliament"
-themes: [Humanities, Metadata]
-tags: [LOD, Semantic Web, Digital Humanities, Government, Political Debates]
-partners: [TU Delft, The Netherlands Institute for Sound and Vision, Erasmus University Rotterdam, VU University]
+thumb_image: "/uploads/polimedia_wide.png"
+description: Search through decades of political debates from the Dutch Parliament
+themes:
+- Humanities
+- Metadata
+tags:
+- LOD
+- Semantic Web
+- Digital Humanities
+- Government
+- Political Debates
+partners:
+- TU Delft
+- The Netherlands Institute for Sound and Vision
+- Erasmus University Rotterdam
+- VU University
 predecessors: 
-contactpersons: 
+contactpersons:
 - organization: Netherlands Institute for Sound and Vision
   name: Jaap Blom
   email: jblom@beeldengeluid.nl

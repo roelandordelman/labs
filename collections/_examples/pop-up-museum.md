@@ -1,23 +1,28 @@
 ---
+title: Pop-Up Museum
 layout: example
 slug: 9c01038c-1877-11e7-bc09-0050569ef392
-title: Pop-Up Museum
 menu: examples
 website_url: https://www.mupop.net/
 info_url: http://www.europeana-space.eu/pop-up-museum/
 media_url: https://vimeo.com/200814036
-thumb_image: /uploads/popupm.png
-poster_image: /uploads/popupm.png
-description: "Pop-Up an exhibition anywhere and let visitors use their smartphone to engage without technical barriers"
+thumb_image: "/uploads/popupm.png"
+poster_image: "/uploads/popupm.png"
+description: Pop-Up an exhibition anywhere and let visitors use their smartphone to
+  engage without technical barriers
 related_project: Europeana Space
 related_event: 
 github: 
-creators: [Noterik]
-tags: [multiscreen, exhibition, museum]
-organizations: 
+creators:
+- Noterik
+tags:
+- multiscreen
+- exhibition
+- museum
+organizations:
 - name: Noterik
   url: http://www.noterik.nl/
-used_sources: 
+used_sources:
 - name: Sound and Vision on Open Images
   url: http://labs.beeldengeluid.nl/datasets#dbd157b4-edb3-11e4-8099-005056a71e3a
 ---

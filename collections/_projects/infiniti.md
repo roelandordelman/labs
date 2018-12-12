@@ -1,21 +1,46 @@
 ---
+title: Infiniti
 layout: project
 slug: dbd2a100-edb3-11e4-8099-005056a71e3a
-title: Infiniti
 menu: projects
 website_url: http://project-infiniti.nl/
-thumb_image: /uploads/RadioPlus_Context_Browser_Poster.png
-description: "Develops and enables the exploitation of open source and open standards tools to support semantic search"
-themes: [Access, Use and Context, Users]
-tags: [Radio stories, ASR, Content Enrichments, COMMIT]
-partners: [Netherlands Institute for Sound and Vision, CWI, EUR, Radboud University, UvA, UT Twente, ANP, Ilse Media, TrendLight, De Persgroep, EUVision, Internet Recherche Netwerk, Talking Trends, Teezir, Textkernel, ThirdSight, WCC]
+thumb_image: "/uploads/RadioPlus_Context_Browser_Poster.png"
+description: Develops and enables the exploitation of open source and open standards
+  tools to support semantic search
+themes:
+- Access
+- Use and Context
+- Users
+tags:
+- Radio stories
+- ASR
+- Content Enrichments
+- COMMIT
+partners:
+- Netherlands Institute for Sound and Vision
+- CWI
+- EUR
+- Radboud University
+- UvA
+- UT Twente
+- ANP
+- Ilse Media
+- TrendLight
+- De Persgroep
+- EUVision
+- Internet Recherche Netwerk
+- Talking Trends
+- Teezir
+- Textkernel
+- ThirdSight
+- WCC
 predecessors: 
-contactpersons: 
+contactpersons:
 - organization: Netherlands Institute for Sound and Vision
   name: Roeland Ordelman
   email: rordelman@beeldengeluid.nl
-publications: 
-- title: "INFINITI (Information Retrieval for Information Services)"
+publications:
+- title: INFINITI (Information Retrieval for Information Services)
   url: http://www.commit-nl.nl/projects/information-retrieval-for-information-services
 blogposts: 
 ---

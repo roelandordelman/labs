@@ -1,15 +1,19 @@
 ---
+title: Stichting Natuurbeelden on Open Images
 layout: dataset
 slug: 94e93bec-3060-11e5-a417-005056a71e3a
-title: Stichting Natuurbeelden on Open Images
 menu: 
 website_url: http://natuurbeelden.openbeelden.nl/
-thumb_image: /uploads/Natuurbeelden_poster.png
-description: "A set of Dutch nature videos"
+thumb_image: "/uploads/Natuurbeelden_poster.png"
+description: A set of Dutch nature videos
 project_id: dbd2dbf2-edb3-11e4-8099-005056a71e3a
-contenttypes: [Raw footage, Nature videos]
-mediatypes: [Video, Metadata]
-contactpersons: 
+contenttypes:
+- Raw footage
+- Nature videos
+mediatypes:
+- Video
+- Metadata
+contactpersons:
 - organization: Netherlands Institute for Sound and Vision
   name: Saskia Arentsen
   email: sarentsen@beeldengeluid.nl

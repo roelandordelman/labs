@@ -1,15 +1,19 @@
 ---
+title: Sound and Vision on Open Images
 layout: dataset
 slug: dbd157b4-edb3-11e4-8099-005056a71e3a
-title: Sound and Vision on Open Images 
 menu: 
 website_url: http://www.openimages.eu/users/beeldengeluid
-thumb_image: /uploads/openimages_poster.png
-description: "Set of historic Dutch newsreels and films"
+thumb_image: "/uploads/openimages_poster.png"
+description: Set of historic Dutch newsreels and films
 project_id: dbd2dbf2-edb3-11e4-8099-005056a71e3a
-contenttypes: [Newsreels, Polygoon]
-mediatypes: [Video, Metadata]
-contactpersons: 
+contenttypes:
+- Newsreels
+- Polygoon
+mediatypes:
+- Video
+- Metadata
+contactpersons:
 - organization: Netherlands Institute for Sound and Vision
   name: Harry van Biessum
   email: hvbiessum@beeldengeluid.nl

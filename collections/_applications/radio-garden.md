@@ -1,19 +1,26 @@
 ---
+title: Radio.Garden
 layout: application
 slug: 234168c6-fcfa-11e6-a3f3-0050569ef392
-title: Radio.Garden
 menu: 
 website_url: http://radio.garden/
-thumb_image: /uploads/radio_garden.png
-poster_image: /uploads/radio_garden.png
-description: "Radio.Garden allows users to explore an interactive globe filled with radio’s past and present. "
+thumb_image: "/uploads/radio_garden.png"
+poster_image: "/uploads/radio_garden.png"
+description: 'Radio.Garden allows users to explore an interactive globe filled with
+  radio’s past and present. '
 project_id: deb93ff6-fcfb-11e6-bc09-0050569ef392
 access: Open
 github: 
-status: [Completed]
-themes: [Humanities, Users, Access]
-tags: [radio]
-contenttypes: [Audio]
+status:
+- Completed
+themes:
+- Humanities
+- Users
+- Access
+tags:
+- radio
+contenttypes:
+- Audio
 requestauthentication: 
 publications: 
 blogposts: 

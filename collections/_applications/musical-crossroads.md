@@ -1,19 +1,27 @@
 ---
+title: Musical Crossroads
 layout: application
 slug: cb51d770-acfa-11e7-bf7f-0050569ef392
-title: Musical Crossroads
 menu: 
 website_url: http://musicinmovement.eu/graph
-thumb_image: /uploads/MiMgraph.png
-poster_image: /uploads/MiMgraph.png
-description: "Graph representation of the life and work of four composers"
+thumb_image: "/uploads/MiMgraph.png"
+poster_image: "/uploads/MiMgraph.png"
+description: Graph representation of the life and work of four composers
 project_id: 11c3e7ec-acfc-11e7-a9c0-0050569ef392
 access: open
 github: https://github.com/Frontwise/mim-graph
-status: [completed]
-themes: [Metadata & Context, Humanities]
-tags: [Linked Data, Visualization, Classical Music, Composers]
-contenttypes: [Metadata]
+status:
+- completed
+themes:
+- Metadata & Context
+- Humanities
+tags:
+- Linked Data
+- Visualization
+- Classical Music
+- Composers
+contenttypes:
+- Metadata
 requestauthentication: 
 publications: 
 blogposts: 

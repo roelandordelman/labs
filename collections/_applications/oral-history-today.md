@@ -1,19 +1,28 @@
 ---
+title: Oral History Today
 layout: application
 slug: 693621d8-2a1e-11e5-b980-005056a71e3a
-title: Oral History Today
 menu: 
 website_url: http://zoeken.verteldverleden.org
-thumb_image: /uploads/VerteldVerleden-screenshot.png
-poster_image: /uploads/VerteldVerleden-screenshot.png
-description: "Search Dutch Oral History collections"
+thumb_image: "/uploads/VerteldVerleden-screenshot.png"
+poster_image: "/uploads/VerteldVerleden-screenshot.png"
+description: Search Dutch Oral History collections
 project_id: a728c296-2a1b-11e5-b980-005056a71e3a
 access: Open
 github: 
-status: [In Development]
-themes: [Access, Users, Humanities]
-tags: [Speech Search, Digital Humanities, Virtual Research Environment]
-contenttypes: [Audio, Video]
+status:
+- In Development
+themes:
+- Access
+- Users
+- Humanities
+tags:
+- Speech Search
+- Digital Humanities
+- Virtual Research Environment
+contenttypes:
+- Audio
+- Video
 requestauthentication: 
 publications: 
 blogposts: 

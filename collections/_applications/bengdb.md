@@ -1,19 +1,27 @@
 ---
+title: BengDB
 layout: application
 slug: 90e196ba-217f-11e5-b980-005056a71e3a
-title: BengDB
 menu: 
 website_url: 
-thumb_image: /uploads/Schermafbeelding_2015-07-03_om_14.22.47.png
-poster_image: /uploads/Schermafbeelding_2015-07-03_om_14.22.47.png
-description: "A visual encyclopedia of Dutch TV history combining multiple open data sources"
+thumb_image: "/uploads/Schermafbeelding_2015-07-03_om_14.22.47.png"
+poster_image: "/uploads/Schermafbeelding_2015-07-03_om_14.22.47.png"
+description: A visual encyclopedia of Dutch TV history combining multiple open data
+  sources
 project_id: f0adb896-217d-11e5-b980-005056a71e3a
 access: Open
 github: https://github.com/beeldengeluid/bengdb-frontend
-status: [Completed]
-themes: [Access, Metadata & Context]
-tags: [Open data]
-contenttypes: [Text, Images, Metadata]
+status:
+- Completed
+themes:
+- Access
+- Metadata & Context
+tags:
+- Open data
+contenttypes:
+- Text
+- Images
+- Metadata
 requestauthentication: 
 publications: 
 blogposts: 

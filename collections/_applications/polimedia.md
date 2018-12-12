@@ -1,25 +1,34 @@
 ---
+title: PoliMedia
 layout: application
 slug: dbd0f116-edb3-11e4-8099-005056a71e3a
-title: PoliMedia
 menu: 
 website_url: http://polimedia.nl
-thumb_image: /uploads/polimedia_wide.png
-poster_image: /uploads/polimedia_poster.png
-description: "How do media cover political debates?"
+thumb_image: "/uploads/polimedia_wide.png"
+poster_image: "/uploads/polimedia_poster.png"
+description: How do media cover political debates?
 project_id: dbd28102-edb3-11e4-8099-005056a71e3a
 access: Open
 github: 
-status: [Completed]
-themes: [Metadata & Context, Humanities]
-tags: [LOD, Semantic Web, Digital Humanities, Government, Political Debates]
-contenttypes: [Text]
+status:
+- Completed
+themes:
+- Metadata & Context
+- Humanities
+tags:
+- LOD
+- Semantic Web
+- Digital Humanities
+- Government
+- Political Debates
+contenttypes:
+- Text
 requestauthentication: 
-publications: 
-- title: "Bringing parliamentary debates to the Semantic Web"
+publications:
+- title: Bringing parliamentary debates to the Semantic Web
   url: http://ceur-ws.org/Vol-902/paper_6.pdf
-blogposts: 
-- title: "Polemici wint internationale wedstrijd Linkedup Challenge"
+blogposts:
+- title: Polemici wint internationale wedstrijd Linkedup Challenge
   url: http://www.beeldengeluid.nl/nieuws/201309/polimedia-wint-internationale-wedstrijd-linkedup-challenge
 ---
 

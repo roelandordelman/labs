@@ -1,18 +1,29 @@
 ---
+title: DIVE
 layout: project
 slug: dbd1f6e2-edb3-11e4-8099-005056a71e3a
-title: DIVE
 menu: projects
 website_url: http://dive.beeldengeluid.nl
-thumb_image: /uploads/dive_poster.png
-description: "Dynamically linking collections on the basis of events"
-themes: [Access, Use and Context, Humanities]
-tags: [LOD, Digital History, Heterogeneous Data Cloud, Historical Events]
-partners: [Netherlands Institute for Sound and Vision, VU University, National Library of the Netherlands, Frontwise]
-predecessors: 
+thumb_image: "/uploads/dive_poster.png"
+description: Dynamically linking collections on the basis of events
+themes:
+- Access
+- Use and Context
+- Humanities
+tags:
+- LOD
+- Digital History
+- Heterogeneous Data Cloud
+- Historical Events
+partners:
+- Netherlands Institute for Sound and Vision
+- VU University
+- National Library of the Netherlands
+- Frontwise
+predecessors:
 - name: AGORA
   url: http://agora.cs.vu.nl
-contactpersons: 
+contactpersons:
 - organization: Netherlands Institute for Sound and Vision
   name: joomen@beeldengeluid.nl
   email: Johan Oomen

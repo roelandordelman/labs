@@ -1,16 +1,37 @@
 ---
+title: LinkedTV
 layout: project
 slug: dbd261d6-edb3-11e4-8099-005056a71e3a
-title: LinkedTV
 menu: projects
 website_url: http://www.linkedtv.eu
-thumb_image: /uploads/linkedtv_poster.png
-description: "Information retrieval on AV content for the production of interactive television"
-themes: [Users, Access, Use and Context]
-tags: [Video annotation, Television, LOD, Content Enrichments, Interactive Television]
-partners: [Netherlands Institute for Sound and Vision, CERTH, Fraunhofer IAIS, MODUL University, University of Mons, Condat, Noterik, CWI, RBB, University St. Gallen, UEP, EURECOM]
+thumb_image: "/uploads/linkedtv_poster.png"
+description: Information retrieval on AV content for the production of interactive
+  television
+themes:
+- Users
+- Access
+- Use and Context
+tags:
+- Video annotation
+- Television
+- LOD
+- Content Enrichments
+- Interactive Television
+partners:
+- Netherlands Institute for Sound and Vision
+- CERTH
+- Fraunhofer IAIS
+- MODUL University
+- University of Mons
+- Condat
+- Noterik
+- CWI
+- RBB
+- University St. Gallen
+- UEP
+- EURECOM
 predecessors: 
-contactpersons: 
+contactpersons:
 - organization: Netherlands Institute for Sound and Vision
   name: Jaap Blom
   email: jblom@beeldengeluid.nl
@@ -18,10 +39,10 @@ contactpersons:
   name: Lotte Baltussen
   email: lbbaltussen@beeldengeluid.nl
 publications: 
-blogposts: 
-- title: "LinkedTV and AXES at IBC 2014"
+blogposts:
+- title: LinkedTV and AXES at IBC 2014
   url: http://www.beeldengeluid.nl/en/node/9992/
-- title: "Uit het lab: video hyperlinking (only available in Dutch)"
+- title: 'Uit het lab: video hyperlinking (only available in Dutch)'
   url: http://www.beeldengeluid.nl/node/7329/
 ---
 

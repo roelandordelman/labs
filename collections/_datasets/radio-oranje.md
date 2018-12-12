@@ -1,15 +1,18 @@
 ---
+title: Radio Oranje
 layout: dataset
 slug: 1a565f54-3128-11e5-8f19-005056a71e3a
-title: Radio Oranje
 menu: 
 website_url: https://soundcloud.com/beeldengeluid/sets/radio-oranje
-thumb_image: /uploads/Radio_Oranje_poster.png
-description: "The majority of broadcasts by Radio Oranje"
+thumb_image: "/uploads/Radio_Oranje_poster.png"
+description: The majority of broadcasts by Radio Oranje
 project_id: dbd2f7b8-edb3-11e4-8099-005056a71e3a
-contenttypes: [Radio broadcasts, WWII]
-mediatypes: [Audio]
-contactpersons: 
+contenttypes:
+- Radio broadcasts
+- WWII
+mediatypes:
+- Audio
+contactpersons:
 - organization: Netherlands Institute for Sound and Vision
   name: Jesse de Vos
   email: jdvos@beeldengeluid.nl

@@ -1,7 +1,7 @@
 ---
+title: Contact
 layout: page
 menu: contact
-title: Contact
 subtitle: Get in touch
 ---
 

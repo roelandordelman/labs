@@ -1,19 +1,26 @@
 ---
+title: Spotvogel
 layout: application
 slug: 1ed43c9e-1b44-11e5-b980-005056a71e3a
-title: Spotvogel
 menu: 
 website_url: http://spotvogel.vroegevogels.vara.nl/
-thumb_image: /uploads/spotvogel_poster.png
-poster_image: /uploads/spotvogel_poster.png
-description: "A video labeling game"
+thumb_image: "/uploads/spotvogel_poster.png"
+poster_image: "/uploads/spotvogel_poster.png"
+description: A video labeling game
 project_id: ed1929a0-1b3c-11e5-9234-005056a71e3a
 access: Open
 github: https://github.com/beeldengeluid/waisda
-status: [Completed]
-themes: [Access, Metadata & Context]
-tags: [Crowdsourcing, Nature, Social tagging]
-contenttypes: [Video]
+status:
+- Completed
+themes:
+- Access
+- Metadata & Context
+tags:
+- Crowdsourcing
+- Nature
+- Social tagging
+contenttypes:
+- Video
 requestauthentication: 
 publications: 
 blogposts: 

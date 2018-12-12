@@ -1,16 +1,24 @@
 ---
+title: Waisda?
 layout: project
 slug: ed1929a0-1b3c-11e5-9234-005056a71e3a
-title: Waisda?
 menu: projects
 website_url: 
-thumb_image: /uploads/avresearcherxl_poster.png
-description: "A video labeling game"
-themes: [Access, Metadata & Context]
-tags: [Gaming, Video annotation, Crowdsourcing]
-partners: [Netherlands Institute for Sound and Vision, KRO, VU University]
+thumb_image: "/uploads/avresearcherxl_poster.png"
+description: A video labeling game
+themes:
+- Access
+- Metadata & Context
+tags:
+- Gaming
+- Video annotation
+- Crowdsourcing
+partners:
+- Netherlands Institute for Sound and Vision
+- KRO
+- VU University
 predecessors: 
-contactpersons: 
+contactpersons:
 - organization: Netherlands Institute for Sound and Vision
   name: Maarten Brinkerink
   email: mbrinkerink@beeldengeluid.nl

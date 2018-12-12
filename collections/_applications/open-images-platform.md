@@ -1,19 +1,28 @@
 ---
+title: Open Images Platform
 layout: application
 slug: 37cad89a-ae04-11e5-8084-005056a71e3a
-title: Open Images Platform
 menu: 
 website_url: http://www.openimages.eu
-thumb_image: /uploads/openimages_poster.png
-poster_image: /uploads/openimages_poster.png
-description: "A Java webapplication to manage and publish open media"
+thumb_image: "/uploads/openimages_poster.png"
+poster_image: "/uploads/openimages_poster.png"
+description: A Java webapplication to manage and publish open media
 project_id: dbd2dbf2-edb3-11e4-8099-005056a71e3a
 access: Open
 github: https://github.com/beeldengeluid/openbeelden
-status: [Completed]
-themes: [Access, Metadata & Context]
-tags: [Open Media, Open Source]
-contenttypes: [Video, Audio, Images, Metadata]
+status:
+- Completed
+themes:
+- Access
+- Metadata & Context
+tags:
+- Open Media
+- Open Source
+contenttypes:
+- Video
+- Audio
+- Images
+- Metadata
 requestauthentication: 
 publications: 
 blogposts: 

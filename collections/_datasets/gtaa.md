@@ -1,15 +1,17 @@
 ---
+title: GTAA
 layout: dataset
 slug: 5520ccca-2c8e-11e6-a743-005056a71e3a
-title: GTAA
 menu: 
 website_url: http://gtaa.beeldengeluid.nl/
-thumb_image: /uploads/GTAA.png
-description: "Common Thesaurus for Audiovisual Archives"
+thumb_image: "/uploads/GTAA.png"
+description: Common Thesaurus for Audiovisual Archives
 project_id: dbd33368-edb3-11e4-8099-005056a71e3a
-contenttypes: [Thesaurus]
-mediatypes: [Metadata]
-contactpersons: 
+contenttypes:
+- Thesaurus
+mediatypes:
+- Metadata
+contactpersons:
 - organization: Netherlands Institute for Sound and Vision
   name: Metadatabeheer Beeld en Geluid
   email: thesaurus@beeldengeluid.nl

@@ -1,18 +1,25 @@
 ---
+title: Europeana Awareness
 layout: project
 slug: dbd2bce4-edb3-11e4-8099-005056a71e3a
-title: Europeana Awareness
 menu: projects
 website_url: http://pro.europeana.eu/web/europeana-awareness
-thumb_image: /uploads/EuropeanaAwareness_Poster
+thumb_image: "/uploads/EuropeanaAwareness_Poster"
 description: " Best practice network to raise awareness about Europeana"
-themes: [Access, Use and Context, Users]
-tags: [Digital content, Aggregator, Network, LOD]
+themes:
+- Access
+- Use and Context
+- Users
+tags:
+- Digital content
+- Aggregator
+- Network
+- LOD
 partners: []
-predecessors: 
+predecessors:
 - name: Na de Bevrijding XL
   url: http://www.nadebevrijding.nl
-contactpersons: 
+contactpersons:
 - organization: Netherlands Institute for Sound and Vision
   name: Erwin Verbruggen
   email: everbruggen@beeldengeluid.nl

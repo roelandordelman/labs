@@ -1,16 +1,24 @@
 ---
+title: Open Images
 layout: project
 slug: dbd2dbf2-edb3-11e4-8099-005056a71e3a
-title: Open Images
 menu: projects
 website_url: http://www.openbeelden.nl
-thumb_image: /uploads/openimages_wide.png
-description: "An open media platform offering online access to audiovisual archive material"
-themes: [Access, Use and Context, Users]
-tags: [Reuse, Open Video]
-partners: [The Netherlands Institute for Sound and Vision, Kennisland]
+thumb_image: "/uploads/openimages_wide.png"
+description: An open media platform offering online access to audiovisual archive
+  material
+themes:
+- Access
+- Use and Context
+- Users
+tags:
+- Reuse
+- Open Video
+partners:
+- The Netherlands Institute for Sound and Vision
+- Kennisland
 predecessors: 
-contactpersons: 
+contactpersons:
 - organization: Netherlands Institute for Sound and Vision
   name: Maarten Brinkerink
   email: mbrinkerink@beeldengeluid.nl

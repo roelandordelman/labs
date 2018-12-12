@@ -1,16 +1,24 @@
 ---
+title: Linked Open Data Demonstrator 2
 layout: project
 slug: 06e627fc-1a70-11e5-811b-005056a71e3a
-title: Linked Open Data Demonstrator 2
 menu: projects
 website_url: 
-thumb_image: /uploads/avresearcherxl_poster.png
-description: "Developing an openly available Thesaurus alignment service for Dutch heritage institutions"
-themes: [Metadata & Context]
-tags: [Vocabularies, Alignment]
-partners: [Netherlands Institute for Sound and Vision, RCE, Spinque, Delving]
+thumb_image: "/uploads/avresearcherxl_poster.png"
+description: Developing an openly available Thesaurus alignment service for Dutch
+  heritage institutions
+themes:
+- Metadata & Context
+tags:
+- Vocabularies
+- Alignment
+partners:
+- Netherlands Institute for Sound and Vision
+- RCE
+- Spinque
+- Delving
 predecessors: 
-contactpersons: 
+contactpersons:
 - organization: Netherlands Institute for Sound and Vision
   name: Victor de Boer
   email: vdboer@beeldengeluid.nl

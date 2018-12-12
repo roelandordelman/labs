@@ -1,16 +1,29 @@
 ---
+title: Verteld Verleden
 layout: project
 slug: a728c296-2a1b-11e5-b980-005056a71e3a
-title: Verteld Verleden
 menu: projects
 website_url: http://www.verteldverleden.org
-thumb_image: /uploads/AXES_poster.png
-description: "Search Dutch Oral History collections, new collections will be added in due time"
-themes: [Access, Humanities, Users]
-tags: [Speech Search, Digital Humanities, Virtual Research Environment]
-partners: [DANS, Erasmus University, Netherlands Institute for Sound and Vision, Atria, Meertens Institute, University of Amsterdam]
+thumb_image: "/uploads/AXES_poster.png"
+description: Search Dutch Oral History collections, new collections will be added
+  in due time
+themes:
+- Access
+- Humanities
+- Users
+tags:
+- Speech Search
+- Digital Humanities
+- Virtual Research Environment
+partners:
+- DANS
+- Erasmus University
+- Netherlands Institute for Sound and Vision
+- Atria
+- Meertens Institute
+- University of Amsterdam
 predecessors: 
-contactpersons: 
+contactpersons:
 - organization: Netherlands Institute for Sound and Vision
   name: Roeland Ordelman
   email: rordelman@beeldengeluid.nl

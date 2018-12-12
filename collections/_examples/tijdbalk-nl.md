@@ -1,23 +1,24 @@
 ---
+title: Tijdbalk.nl
 layout: example
 slug: ba24bf26-99a1-11e5-a8cf-005056a71e3a
-title: Tijdbalk.nl
 menu: examples
 website_url: http://tijdbalk.nl/
 info_url: 
 media_url: 
-thumb_image: /uploads/Tijdbalk_nl.png
-poster_image: /uploads/Tijdbalk_nl.png
-description: "Online timeline application using open cultural data and your own photos"
+thumb_image: "/uploads/Tijdbalk_nl.png"
+poster_image: "/uploads/Tijdbalk_nl.png"
+description: Online timeline application using open cultural data and your own photos
 related_project: 
 related_event: Open Culture Data Competition 2012
 github: 
-creators: [Arjan den Boer]
+creators:
+- Arjan den Boer
 tags: []
-organizations: 
+organizations:
 - name: Arjan den Boer
   url: http://www.arjandenboer.nl/
-used_sources: 
+used_sources:
 - name: Sound and Vision on Open Images
   url: http://labs.beeldengeluid.nl/datasets#dbd157b4-edb3-11e4-8099-005056a71e3a
 ---

@@ -1,20 +1,34 @@
 ---
+title: QuaMeRDES
 layout: project
 slug: dbd21ad2-edb3-11e4-8099-005056a71e3a
-title: QuaMeRDES
 menu: projects
 website_url: http://www.clarin.nl/node/1404
-thumb_image: /uploads/nasamerdes_Poster.png
-description: "Quantitative content analysis of media researchers' data"
-themes: [Access, Use and Context, Humanities]
-tags: [Academic Research, Digital Humanities, Media Studies, Exploring, Analysis, CLARIAH, Context Collections]
-partners: [Netherlands Institute for Sound and Vision, Utrecht University, University of Amsterdam, National Library of the Netherlands]
-predecessors: 
+thumb_image: "/uploads/nasamerdes_Poster.png"
+description: Quantitative content analysis of media researchers' data
+themes:
+- Access
+- Use and Context
+- Humanities
+tags:
+- Academic Research
+- Digital Humanities
+- Media Studies
+- Exploring
+- Analysis
+- CLARIAH
+- Context Collections
+partners:
+- Netherlands Institute for Sound and Vision
+- Utrecht University
+- University of Amsterdam
+- National Library of the Netherlands
+predecessors:
 - name: Merdes
   url: 
 - name: AVReseacher
   url: 
-contactpersons: 
+contactpersons:
 - organization: Netherlands Institute for Sound and Vision
   name: Eva Baaren
   email: ebaaren@beeldengeluid.nl
@@ -22,8 +36,8 @@ contactpersons:
   name: Jasmijn van Gorp
   email: j.vangorp@uu.nl
 publications: 
-blogposts: 
-- title: "Analysing subtitles and newspaper articles with QuaMeRDES"
+blogposts:
+- title: Analysing subtitles and newspaper articles with QuaMeRDES
   url: http://www.beeldengeluid.nl/en/node/7949/
 ---
 

@@ -1,25 +1,31 @@
 ---
+title: GTUO
 layout: application
 slug: a4fd0e34-57ef-11e6-87b0-005056a71e3a
-title: GTUO
 menu: 
 website_url: http://link.spinque.com/VIAA-1.0/
-thumb_image: /uploads/GTUO.png
-poster_image: /uploads/GTUO.png
-description: "Search and explore connections between two aligned collections"
+thumb_image: "/uploads/GTUO.png"
+poster_image: "/uploads/GTUO.png"
+description: Search and explore connections between two aligned collections
 project_id: 3f0b59a8-57f1-11e6-87b0-005056a71e3a
 access: Authentication needed
 github: 
-status: [Completed]
-themes: [Metadata & Context]
-tags: [Thesauri Alignment, Cross-Collection Search]
-contenttypes: [Video, Metadata]
+status:
+- Completed
+themes:
+- Metadata & Context
+tags:
+- Thesauri Alignment
+- Cross-Collection Search
+contenttypes:
+- Video
+- Metadata
 requestauthentication: 
-publications: 
-- title: "Final report GTUO (in Dutch)"
+publications:
+- title: Final report GTUO (in Dutch)
   url: http://viaa.be/assets/files/news/downloads/Eindrapport-GTUO-Taalunie.pdf
-blogposts: 
-- title: "Connecting collections across national borders"
+blogposts:
+- title: Connecting collections across national borders
   url: http://www.beeldengeluid.nl/en/node/10892/
 ---
 

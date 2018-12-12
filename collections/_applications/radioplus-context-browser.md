@@ -1,22 +1,28 @@
 ---
+title: RadioPlus Context Browser
 layout: application
 slug: dbd10fca-edb3-11e4-8099-005056a71e3a
-title: RadioPlus Context Browser
 menu: 
 website_url: http://woordnl.rdlabs.beeldengeluid.nl/woordnl-fc
-thumb_image: /uploads/woordnlfc_poster.png
-poster_image: /uploads/woordnlfc_poster.png
-description: "Contextualize RSS feeds with woord.nl content"
+thumb_image: "/uploads/woordnlfc_poster.png"
+poster_image: "/uploads/woordnlfc_poster.png"
+description: Contextualize RSS feeds with woord.nl content
 project_id: dbd2a100-edb3-11e4-8099-005056a71e3a
 access: Open
 github: 
-status: [In Development]
-themes: [Metadata & Context]
-tags: [Radio stories, ASR, Content Enrichments]
-contenttypes: [Audio]
+status:
+- In Development
+themes:
+- Metadata & Context
+tags:
+- Radio stories
+- ASR
+- Content Enrichments
+contenttypes:
+- Audio
 requestauthentication: 
-publications: 
-- title: "Enriching use and experience of radio content"
+publications:
+- title: Enriching use and experience of radio content
   url: http://www.commit-nl.nl/sites/default/files/55.%20Enriching%20use%20and%20experience%20of%20radio%20content.pdf
 blogposts: 
 ---

@@ -1,15 +1,19 @@
 ---
+title: Open Images API
 layout: api
 slug: dbd1c7ee-edb3-11e4-8099-005056a71e3a
-title: Open Images API
 menu: 
 website_url: http://www.openimages.eu/api
-thumb_image: /uploads/openimages_poster.png
-description: "The API enables harvesting all metadata and links to the content"
+thumb_image: "/uploads/openimages_poster.png"
+description: The API enables harvesting all metadata and links to the content
 project_id: dbd2dbf2-edb3-11e4-8099-005056a71e3a
-tags: [Open Video, Reuse]
-mediatypes: [Video, Metadata]
-contactpersons: 
+tags:
+- Open Video
+- Reuse
+mediatypes:
+- Video
+- Metadata
+contactpersons:
 - organization: Nederlands Instituut voor Beeld en Geluid
   name: Maarten Brinkerink
   email: mbrinkerink@beeldengeluid.nl

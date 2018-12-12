@@ -1,28 +1,39 @@
 ---
+title: VidLink
 layout: project
 slug: dbd312fc-edb3-11e4-8099-005056a71e3a
-title: VidLink
 menu: projects
 website_url: http://www.nadebevrijding.nl/
-thumb_image: /uploads/vidlink_poster.png
-description: "Interactive documentary explorer"
-themes: [Access, Use and Context]
-tags: [Documentary, ASR, Content Enrichments, Radio stories]
-partners: [The Netherlands Institute for Sound and Vision, Videodock, NTR, Europeana]
-predecessors: 
+thumb_image: "/uploads/vidlink_poster.png"
+description: Interactive documentary explorer
+themes:
+- Access
+- Use and Context
+tags:
+- Documentary
+- ASR
+- Content Enrichments
+- Radio stories
+partners:
+- The Netherlands Institute for Sound and Vision
+- Videodock
+- NTR
+- Europeana
+predecessors:
 - name: Na de Bevrijding XL
   url: http://www.nadebevrijding.nl
-contactpersons: 
+contactpersons:
 - organization: The Netherlands Institue of Sound and Vision
   name: Erwin Verbruggen
   email: rd@beeldengeluid.nl
-publications: 
-- title: "Na de bevrijding XL: Expanding a Historical Television Series with Archival Sources"
+publications:
+- title: 'Na de bevrijding XL: Expanding a Historical Television Series with Archival
+    Sources'
   url: http://mayor2.dia.fi.upm.es/oeg-upm/files/eswc2014/Workshops/LIME2014/lime2014_submission_6.pdf
-blogposts: 
-- title: "Vidlink's second layer: your archive's showcase"
+blogposts:
+- title: 'Vidlink''s second layer: your archive''s showcase'
   url: http://www.beeldengeluid.nl/en/vidlinks-second-layer-your-archives-showcase
-- title: "Adding the second layer to Polish Academy of Movement Documentary"
+- title: Adding the second layer to Polish Academy of Movement Documentary
   url: http://www.beeldengeluid.nl/en/blogs/research-amp-development-en/201503/adding-second-layer-polish-academy-movement-documentary
 ---
 

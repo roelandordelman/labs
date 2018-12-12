@@ -1,23 +1,28 @@
 ---
+title: Vistory
 layout: example
 slug: 28abfb4c-9e63-11e5-a8cf-005056a71e3a
-title: Vistory
 menu: examples
 website_url: http://www.vistory.nl/
 info_url: 
 media_url: https://youtu.be/MXt4ExebHsA
-thumb_image: /uploads/Vistory_poster.jpg
-poster_image: /uploads/Vistory_poster.jpg
-description: "An interactive historical video app"
+thumb_image: "/uploads/Vistory_poster.jpg"
+poster_image: "/uploads/Vistory_poster.jpg"
+description: An interactive historical video app
 related_project: 
 related_event: Apps voor Nederland 2012
 github: 
-creators: [Jonathan Carter, Paul Manwaring, Jeroen van der Linde, Martin Elshout, Deniz Tezcan]
+creators:
+- Jonathan Carter
+- Paul Manwaring
+- Jeroen van der Linde
+- Martin Elshout
+- Deniz Tezcan
 tags: []
-organizations: 
+organizations:
 - name: Glimworm IT
   url: http://www.glimworm.com/
-used_sources: 
+used_sources:
 - name: Sound and Vision on Open Images
   url: http://labs.beeldengeluid.nl/datasets#dbd157b4-edb3-11e4-8099-005056a71e3a
 ---

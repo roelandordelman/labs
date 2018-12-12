@@ -1,16 +1,38 @@
 ---
+title: AXES
 layout: project
 slug: 3a0a9b4c-1b4f-11e5-bf8d-005056a71e3a
-title: AXES
 menu: projects
 website_url: http://www.axes-project.eu/
-thumb_image: /uploads/avresearcherxl_poster.png
-description: "Develop tools for various types of users to interact with audiovisual libraries"
-themes: [Metadata & Context, Users, Access]
-tags: [Multimodal search, Visual search, Speech recognition, Video hyperlinking, Access models]
-partners: [Netherlands Institute for Sound and Vision, ERCIM, KU Leuven, University of Oxford, Inria, DCU, University of Twente, Fraunhofer IAIS, BBC, Deutsche Welle, Technicolor, Cassidian, Erasmus University Rotterdam]
+thumb_image: "/uploads/avresearcherxl_poster.png"
+description: Develop tools for various types of users to interact with audiovisual
+  libraries
+themes:
+- Metadata & Context
+- Users
+- Access
+tags:
+- Multimodal search
+- Visual search
+- Speech recognition
+- Video hyperlinking
+- Access models
+partners:
+- Netherlands Institute for Sound and Vision
+- ERCIM
+- KU Leuven
+- University of Oxford
+- Inria
+- DCU
+- University of Twente
+- Fraunhofer IAIS
+- BBC
+- Deutsche Welle
+- Technicolor
+- Cassidian
+- Erasmus University Rotterdam
 predecessors: 
-contactpersons: 
+contactpersons:
 - organization: Nederlands Instituut voor Beeld en Geluid
   name: Roeland Ordelman
   email: rordelman@beeldengeluid.nl

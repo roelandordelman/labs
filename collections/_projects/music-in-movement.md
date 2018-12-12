@@ -1,16 +1,24 @@
 ---
+title: Music in Movement
 layout: project
 slug: 11c3e7ec-acfc-11e7-a9c0-0050569ef392
-title: Music in Movement
 menu: projects
 website_url: http://musicinmovement.eu/
-thumb_image: /uploads/MiMgraph.png
-description: "Online project showcasing four prominent European composers"
-themes: [Metadata & Context, Access, Humanities]
-tags: [Classical Music]
-partners: [Sound and Vision, INA, FINA, Arvo Pärt Centre]
+thumb_image: "/uploads/MiMgraph.png"
+description: Online project showcasing four prominent European composers
+themes:
+- Metadata & Context
+- Access
+- Humanities
+tags:
+- Classical Music
+partners:
+- Sound and Vision
+- INA
+- FINA
+- Arvo Pärt Centre
 predecessors: 
-contactpersons: 
+contactpersons:
 - organization: Sound and Vision
   name: Lizzy Komen
   email: lkomen@beeldengeluid.nl

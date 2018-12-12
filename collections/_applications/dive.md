@@ -1,24 +1,36 @@
 ---
+title: DIVE
 layout: application
 slug: dbd0184a-edb3-11e4-8099-005056a71e3a
-title: DIVE
 menu: 
 website_url: http://dive.beeldengeluid.nl
-thumb_image: /uploads/dive_wide.png
-poster_image: /uploads/dive_poster.png
-description: "Dynamically linking collections on the basis of events"
+thumb_image: "/uploads/dive_wide.png"
+poster_image: "/uploads/dive_poster.png"
+description: Dynamically linking collections on the basis of events
 project_id: dbd1f6e2-edb3-11e4-8099-005056a71e3a
 access: Open
 github: 
-status: [In Development]
-themes: [Humanities, Metadata & Context]
-tags: [LOD, Digital History, Digital Hermeneutics, Heterogeneous Data Cloud, Historical Events, Maritime data, Crowdsourcing]
-contenttypes: [Text, Metadata]
+status:
+- In Development
+themes:
+- Humanities
+- Metadata & Context
+tags:
+- LOD
+- Digital History
+- Digital Hermeneutics
+- Heterogeneous Data Cloud
+- Historical Events
+- Maritime data
+- Crowdsourcing
+contenttypes:
+- Text
+- Metadata
 requestauthentication: 
-publications: 
-- title: "Dutch Ships and Sailors Linked Data"
+publications:
+- title: Dutch Ships and Sailors Linked Data
   url: http://publications.beeldengeluid.nl/pub/35
-- title: "DIVE into the Event-Based Browsing of Linked Historical Media"
+- title: DIVE into the Event-Based Browsing of Linked Historical Media
   url: http://publications.beeldengeluid.nl/pub/21
 blogposts: 
 ---

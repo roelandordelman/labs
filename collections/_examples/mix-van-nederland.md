@@ -1,23 +1,29 @@
 ---
+title: Mix van Nederland
 layout: example
 slug: 2f944204-9e61-11e5-a8cf-005056a71e3a
-title: Mix van Nederland
 menu: examples
 website_url: 
 info_url: 
 media_url: 
-thumb_image: /uploads/MixvanNederland_poster.png
-poster_image: /uploads/MixvanNederland_poster.png
-description: "A sound remixing tool for children"
+thumb_image: "/uploads/MixvanNederland_poster.png"
+poster_image: "/uploads/MixvanNederland_poster.png"
+description: A sound remixing tool for children
 related_project: 
 related_event: Open Culture Data Competition 2012
 github: 
-creators: [Team Studio>RDY: Linsey Jepma, Paul Vonk, Burhan Eskin, Samira Abdelwajid, Mellissa Geutskens]
-tags: [remixing]
-organizations: 
+creators:
+- Team Studio>RDY: Linsey Jepma
+- Paul Vonk
+- Burhan Eskin
+- Samira Abdelwajid
+- Mellissa Geutskens
+tags:
+- remixing
+organizations:
 - name: Hogeschool van Amsterdam
   url: http://www.hva.nl
-used_sources: 
+used_sources:
 - name: Sound of The Netherlands dataset
   url: http://labs.beeldengeluid.nl/datasets#dbd17834-edb3-11e4-8099-005056a71e3a
 ---

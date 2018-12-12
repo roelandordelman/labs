@@ -1,24 +1,28 @@
 ---
+title: Gemeenschappelijke Thesaurus voor Uniforme Ontsluiting
 layout: project
 slug: 3f0b59a8-57f1-11e6-87b0-005056a71e3a
-title: Gemeenschappelijke Thesaurus voor Uniforme Ontsluiting
 menu: projects
 website_url: 
-thumb_image: /uploads/GTUO.png
-description: "Establish connections between different collections and allow for cross-collection search and browsing"
-themes: [Metadata & Context]
+thumb_image: "/uploads/GTUO.png"
+description: Establish connections between different collections and allow for cross-collection
+  search and browsing
+themes:
+- Metadata & Context
 tags: []
-partners: [VIAA, Netherlands Institute for Sound and Vision]
+partners:
+- VIAA
+- Netherlands Institute for Sound and Vision
 predecessors: 
-contactpersons: 
+contactpersons:
 - organization: Netherlands Institute for Sound and Vision
   name: Victor de Boer
   email: vdboer@beeldengeluid.nl
-publications: 
-- title: "Final report GTUO (in Dutch)"
+publications:
+- title: Final report GTUO (in Dutch)
   url: http://viaa.be/assets/files/news/downloads/Eindrapport-GTUO-Taalunie.pdf
-blogposts: 
-- title: "Connecting collections across national borders"
+blogposts:
+- title: Connecting collections across national borders
   url: http://www.beeldengeluid.nl/en/node/10892/
 ---
 

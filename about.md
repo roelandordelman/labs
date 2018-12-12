@@ -1,7 +1,7 @@
 ---
+title: About
 layout: page
 menu: about
-title: About
 subtitle: About us
 ---
 

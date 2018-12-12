@@ -1,16 +1,26 @@
 ---
+title: Open Cultuur Data
 layout: project
 slug: f0adb896-217d-11e5-b980-005056a71e3a
-title: Open Cultuur Data
 menu: projects
 website_url: http://www.opencultuurdata.nl/
-thumb_image: /uploads/AXES_poster.png
-description: "Open Culture Data is committed to open up data from the cultural sector and the development of new valuable applications."
-themes: [Access, Metadata & Context]
-tags: [Open data, Open cultural data, Apps, Reuse]
-partners: [Netherlands Institute for Sound and Vision, Kennisland, Open State Foundation]
+thumb_image: "/uploads/AXES_poster.png"
+description: Open Culture Data is committed to open up data from the cultural sector
+  and the development of new valuable applications.
+themes:
+- Access
+- Metadata & Context
+tags:
+- Open data
+- Open cultural data
+- Apps
+- Reuse
+partners:
+- Netherlands Institute for Sound and Vision
+- Kennisland
+- Open State Foundation
 predecessors: 
-contactpersons: 
+contactpersons:
 - organization: Netherlands Institute for Sound and Vision
   name: Maarten Brinkerink
   email: mbrinkerink@beeldengeluid.nl

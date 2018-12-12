@@ -1,30 +1,40 @@
 ---
+title: Digitale Collectie
 layout: project
 slug: dbd33368-edb3-11e4-8099-005056a71e3a
-title: Digitale Collectie
 menu: projects
 website_url: http://www.digitalecollectie.nl/
-thumb_image: /uploads/digitalecollectie_poster.png
-description: "Data aggregator for Dutch cultural heritage"
-themes: [Digitisation and Preservation, Access, Use and Context]
-tags: [Aggregator, Digitisation]
-partners: [The Netherlands Institute for Sound and Vision, Cultural Heritage Agency of the Netherlands, National Library of the Netherlands, National Archives of the Netherlands, Digital Heritage Netherlands]
+thumb_image: "/uploads/digitalecollectie_poster.png"
+description: Data aggregator for Dutch cultural heritage
+themes:
+- Digitisation and Preservation
+- Access
+- Use and Context
+tags:
+- Aggregator
+- Digitisation
+partners:
+- The Netherlands Institute for Sound and Vision
+- Cultural Heritage Agency of the Netherlands
+- National Library of the Netherlands
+- National Archives of the Netherlands
+- Digital Heritage Netherlands
 predecessors: 
-contactpersons: 
+contactpersons:
 - organization: Netherlands Institute for Sound and Vision
   name: Pieter Vijn
   email: pvijn@beeldengeluid.nl
 publications: 
-blogposts: 
-- title: "Nederlands erfgoed gaat digitaal (only available in Dutch)"
+blogposts:
+- title: Nederlands erfgoed gaat digitaal (only available in Dutch)
   url: http://www.beeldengeluid.nl/node/6526/
-- title: "5 nieuwtjes over de nationale aggregator (only available in Dutch)"
+- title: 5 nieuwtjes over de nationale aggregator (only available in Dutch)
   url: http://www.beeldengeluid.nl/node/9433/
-- title: "Nationaal knooppunt voor metadata (only available in Dutch)"
+- title: Nationaal knooppunt voor metadata (only available in Dutch)
   url: http://www.beeldengeluid.nl/node/5151/
-- title: "De grootste gemene deler (only available in Dutch)"
+- title: De grootste gemene deler (only available in Dutch)
   url: http://www.beeldengeluid.nl/node/7953/
-- title: "Studiedag: baas over eigen metadata? (only availabe in Dutch)"
+- title: 'Studiedag: baas over eigen metadata? (only availabe in Dutch)'
   url: http://www.beeldengeluid.nl/node/5536/
 ---
 
