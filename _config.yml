@@ -34,7 +34,7 @@ defaults:
     type: apis
   values:
     layout: api
-    api_id: 
+    slug: 
     menu: 
     title: 
     website_url: 
@@ -52,7 +52,7 @@ defaults:
     type: applications
   values:
     layout: application
-    application_id: 
+    slug: 
     menu: 
     title: 
     website_url: 
@@ -81,7 +81,7 @@ defaults:
     type: datasets
   values:
     layout: dataset
-    dataset_id: 
+    slug: 
     menu: 
     title: 
     website_url: 
@@ -99,7 +99,7 @@ defaults:
     type: examples
   values:
     layout: example
-    example_id: 
+    slug: 
     menu: 
     title: 
     website_url: 
@@ -124,7 +124,7 @@ defaults:
     type: projects
   values:
     layout: project
-    project_id: 
+    slug: 
     menu: 
     title: 
     website_url: 
