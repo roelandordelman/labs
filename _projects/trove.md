@@ -9,7 +9,7 @@ tags:
 - CLARIAH
 - Content Enrichments
 - Public Debates
-layout: project
+slug: dbd240e8-edb3-11e4-8099-005056a71e3a
 menu: projects
 website_url: http://trove.beeldengeluid.nl
 thumb_image: "/uploads/trove_wide.png"
@@ -25,7 +25,6 @@ partners:
 - University of Amsterdam
 - Dispectu
 - Frontwise
-predecessors: 
 contactpersons:
 - organization: Netherlands Institute for Sound and Vision
   name: Eva Baaren
@@ -33,8 +32,8 @@ contactpersons:
 - organization: Utrecht University
   name: Jasmijn van Gorp
   email: j.vangorp@uu.nl
-publications: 
-blogposts: 
+predecessors: 
+layout: project
 ---
 
 TROVe is a search engine for digital humanities that allows researchers to explore and partly analyse public debates and discourses thought he the diffusion of news and opinion through different media and time. Specific roles of different media can be explored and their mutual relations & reactions can be laid bare.
