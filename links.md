@@ -1,5 +1,6 @@
 ---
 title: Links
+position: 7
 layout: page
 menu: links
 subtitle: Links we like

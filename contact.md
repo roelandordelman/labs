@@ -1,5 +1,6 @@
 ---
 title: Contact
+position: 5
 layout: page
 menu: contact
 subtitle: Get in touch
