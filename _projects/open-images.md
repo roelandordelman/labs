@@ -3,7 +3,7 @@ title: Open Images
 tags:
 - Reuse
 - Open Video
-layout: project
+slug: dbd2dbf2-edb3-11e4-8099-005056a71e3a
 menu: projects
 website_url: http://www.openbeelden.nl
 thumb_image: "/uploads/openimages_wide.png"
@@ -16,13 +16,12 @@ themes:
 partners:
 - The Netherlands Institute for Sound and Vision
 - Kennisland
-predecessors: 
 contactpersons:
 - organization: Netherlands Institute for Sound and Vision
   name: Maarten Brinkerink
   email: mbrinkerink@beeldengeluid.nl
-publications: 
-blogposts: 
+predecessors: 
+layout: project
 ---
 
 Open Images is an open media platform that offers online access to audiovisual archive material to stimulate creative reuse. Footage from audiovisual collections can be downloaded and remixed into new works. Users of Open Images also have the opportunity to add their own material to the platform and thus expand the collection.
