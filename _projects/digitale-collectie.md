@@ -1,7 +1,9 @@
 ---
 title: Digitale Collectie
+tags:
+- Aggregator
+- Digitisation
 layout: project
-slug: dbd33368-edb3-11e4-8099-005056a71e3a
 menu: projects
 website_url: http://www.digitalecollectie.nl/
 thumb_image: "/uploads/digitalecollectie_poster.png"
@@ -10,9 +12,6 @@ themes:
 - Digitisation and Preservation
 - Access
 - Use and Context
-tags:
-- Aggregator
-- Digitisation
 partners:
 - The Netherlands Institute for Sound and Vision
 - Cultural Heritage Agency of the Netherlands

@@ -1,16 +1,5 @@
 ---
 title: TROVe
-layout: project
-slug: dbd240e8-edb3-11e4-8099-005056a71e3a
-menu: projects
-website_url: http://trove.beeldengeluid.nl
-thumb_image: "/uploads/trove_wide.png"
-description: Transmedia Observatory
-themes:
-- Access
-- Use and Context
-- Humanities
-- Metadata
 tags:
 - Academic Research
 - Digital Humanities
@@ -20,6 +9,16 @@ tags:
 - CLARIAH
 - Content Enrichments
 - Public Debates
+layout: project
+menu: projects
+website_url: http://trove.beeldengeluid.nl
+thumb_image: "/uploads/trove_wide.png"
+description: Transmedia Observatory
+themes:
+- Access
+- Use and Context
+- Humanities
+- Metadata
 partners:
 - Netherlands Institute for Sound and Vision
 - Utrecht University

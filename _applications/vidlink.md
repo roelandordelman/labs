@@ -1,7 +1,11 @@
 ---
 title: VidLink
+tags:
+- Documentary
+- ASR
+- Content Enrichments
+- Radio stories
 layout: application
-slug: dbd12d5c-edb3-11e4-8099-005056a71e3a
 menu: 
 website_url: http://www.nadebevrijding.nl/
 thumb_image: "/uploads/vidlink_wide.png"
@@ -14,11 +18,6 @@ status:
 - In Development
 themes:
 - Metadata & Context
-tags:
-- Documentary
-- ASR
-- Content Enrichments
-- Radio stories
 contenttypes:
 - Audio
 - Video

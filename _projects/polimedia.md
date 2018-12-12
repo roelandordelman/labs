@@ -1,7 +1,12 @@
 ---
 title: PoliMedia
+tags:
+- LOD
+- Semantic Web
+- Digital Humanities
+- Government
+- Political Debates
 layout: project
-slug: dbd28102-edb3-11e4-8099-005056a71e3a
 menu: projects
 website_url: http://www.polimedia.nl
 thumb_image: "/uploads/polimedia_wide.png"
@@ -9,12 +14,6 @@ description: Search through decades of political debates from the Dutch Parliame
 themes:
 - Humanities
 - Metadata
-tags:
-- LOD
-- Semantic Web
-- Digital Humanities
-- Government
-- Political Debates
 partners:
 - TU Delft
 - The Netherlands Institute for Sound and Vision

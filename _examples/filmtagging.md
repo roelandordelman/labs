@@ -1,7 +1,6 @@
 ---
 title: Filmtagging
 layout: example
-slug: 35cb11d0-2d7b-11e6-87b0-005056a71e3a
 menu: examples
 website_url: http://astacia.eculture.labs.vu.nl/
 info_url: 
@@ -14,7 +13,6 @@ related_event:
 github: 
 creators:
 - A.J. Stacia
-tags: []
 organizations:
 - name: VU University
   url: http://www.vu.nl

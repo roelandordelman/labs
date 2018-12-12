@@ -1,7 +1,12 @@
 ---
 title: AXES Visual Search
+tags:
+- Multimodal search
+- Visual search
+- Speech recognition
+- Video hyperlinking
+- Access models
 layout: application
-slug: 6ade370a-1b50-11e5-b980-005056a71e3a
 menu: 
 website_url: http://lepelaar.beeldengeluid.nl/axes/home/academia/#/
 thumb_image: "/uploads/AXES_poster.png"
@@ -16,12 +21,6 @@ themes:
 - Metadata & Context
 - Users
 - Access
-tags:
-- Multimodal search
-- Visual search
-- Speech recognition
-- Video hyperlinking
-- Access models
 contenttypes:
 - Video
 requestauthentication: 

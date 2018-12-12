@@ -1,7 +1,11 @@
 ---
 title: VidLink
+tags:
+- Documentary
+- ASR
+- Content Enrichments
+- Radio stories
 layout: project
-slug: dbd312fc-edb3-11e4-8099-005056a71e3a
 menu: projects
 website_url: http://www.nadebevrijding.nl/
 thumb_image: "/uploads/vidlink_poster.png"
@@ -9,11 +13,6 @@ description: Interactive documentary explorer
 themes:
 - Access
 - Use and Context
-tags:
-- Documentary
-- ASR
-- Content Enrichments
-- Radio stories
 partners:
 - The Netherlands Institute for Sound and Vision
 - Videodock

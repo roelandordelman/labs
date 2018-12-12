@@ -1,7 +1,8 @@
 ---
 title: Music in Movement
+tags:
+- Classical Music
 layout: project
-slug: 11c3e7ec-acfc-11e7-a9c0-0050569ef392
 menu: projects
 website_url: http://musicinmovement.eu/
 thumb_image: "/uploads/MiMgraph.png"
@@ -10,8 +11,6 @@ themes:
 - Metadata & Context
 - Access
 - Humanities
-tags:
-- Classical Music
 partners:
 - Sound and Vision
 - INA

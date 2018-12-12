@@ -1,7 +1,14 @@
 ---
 title: Transmedia Observatory
+tags:
+- Digital Humanities
+- Media Studies
+- Exploring
+- Analysis
+- CLARIAH
+- Content Enrichments
+- Public Debates
 layout: application
-slug: dbd0b3e0-edb3-11e4-8099-005056a71e3a
 menu: 
 website_url: http://trove.beeldengeluid.nl
 thumb_image: "/uploads/trove_wide.png"
@@ -16,14 +23,6 @@ status:
 themes:
 - Humanities
 - Metadata & Context
-tags:
-- Digital Humanities
-- Media Studies
-- Exploring
-- Analysis
-- CLARIAH
-- Content Enrichments
-- Public Debates
 contenttypes:
 - Audio
 - Video

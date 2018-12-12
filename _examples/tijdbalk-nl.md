@@ -1,7 +1,6 @@
 ---
 title: Tijdbalk.nl
 layout: example
-slug: ba24bf26-99a1-11e5-a8cf-005056a71e3a
 menu: examples
 website_url: http://tijdbalk.nl/
 info_url: 
@@ -14,7 +13,6 @@ related_event: Open Culture Data Competition 2012
 github: 
 creators:
 - Arjan den Boer
-tags: []
 organizations:
 - name: Arjan den Boer
   url: http://www.arjandenboer.nl/

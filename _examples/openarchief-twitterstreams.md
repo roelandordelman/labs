@@ -1,7 +1,6 @@
 ---
 title: Openarchief Twitterstreams
 layout: example
-slug: 0ca8041a-a27b-11e5-9e6c-005056a71e3a
 menu: examples
 website_url: https://twitter.com/BGpolygoon
 info_url: 
@@ -14,7 +13,6 @@ related_event: Apps voor Nederland 2012
 github: 
 creators:
 - Hans Nouwens
-tags: []
 organizations: 
 used_sources:
 - name: Sound and Vision on Open Images

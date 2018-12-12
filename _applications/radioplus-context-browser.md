@@ -1,7 +1,10 @@
 ---
 title: RadioPlus Context Browser
+tags:
+- Radio stories
+- ASR
+- Content Enrichments
 layout: application
-slug: dbd10fca-edb3-11e4-8099-005056a71e3a
 menu: 
 website_url: http://woordnl.rdlabs.beeldengeluid.nl/woordnl-fc
 thumb_image: "/uploads/woordnlfc_poster.png"
@@ -14,10 +17,6 @@ status:
 - In Development
 themes:
 - Metadata & Context
-tags:
-- Radio stories
-- ASR
-- Content Enrichments
 contenttypes:
 - Audio
 requestauthentication: 

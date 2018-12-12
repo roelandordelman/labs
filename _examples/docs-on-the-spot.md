@@ -1,7 +1,6 @@
 ---
 title: Docs on the Spot
 layout: example
-slug: b379ead2-a321-11e5-9e6c-005056a71e3a
 menu: examples
 website_url: 
 info_url: 
@@ -16,7 +15,6 @@ github:
 creators:
 - Jeffrey Braun
 - Billy Schonenberg
-tags: []
 organizations: 
 used_sources:
 - name: Sound and Vision on Open Images

@@ -1,7 +1,10 @@
 ---
 title: Spotvogel
+tags:
+- Crowdsourcing
+- Nature
+- Social tagging
 layout: application
-slug: 1ed43c9e-1b44-11e5-b980-005056a71e3a
 menu: 
 website_url: http://spotvogel.vroegevogels.vara.nl/
 thumb_image: "/uploads/spotvogel_poster.png"
@@ -15,10 +18,6 @@ status:
 themes:
 - Access
 - Metadata & Context
-tags:
-- Crowdsourcing
-- Nature
-- Social tagging
 contenttypes:
 - Video
 requestauthentication: 

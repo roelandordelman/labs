@@ -1,7 +1,10 @@
 ---
 title: Oral History Today
+tags:
+- Speech Search
+- Digital Humanities
+- Virtual Research Environment
 layout: application
-slug: 693621d8-2a1e-11e5-b980-005056a71e3a
 menu: 
 website_url: http://zoeken.verteldverleden.org
 thumb_image: "/uploads/VerteldVerleden-screenshot.png"
@@ -16,10 +19,6 @@ themes:
 - Access
 - Users
 - Humanities
-tags:
-- Speech Search
-- Digital Humanities
-- Virtual Research Environment
 contenttypes:
 - Audio
 - Video

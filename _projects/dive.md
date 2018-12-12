@@ -1,7 +1,11 @@
 ---
 title: DIVE
+tags:
+- LOD
+- Digital History
+- Heterogeneous Data Cloud
+- Historical Events
 layout: project
-slug: dbd1f6e2-edb3-11e4-8099-005056a71e3a
 menu: projects
 website_url: http://dive.beeldengeluid.nl
 thumb_image: "/uploads/dive_poster.png"
@@ -10,11 +14,6 @@ themes:
 - Access
 - Use and Context
 - Humanities
-tags:
-- LOD
-- Digital History
-- Heterogeneous Data Cloud
-- Historical Events
 partners:
 - Netherlands Institute for Sound and Vision
 - VU University

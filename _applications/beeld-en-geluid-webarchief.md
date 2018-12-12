@@ -1,7 +1,10 @@
 ---
 title: Beeld en Geluid Webarchief
+tags:
+- Speech Search
+- Digital Humanities
+- Virtual Research Environment
 layout: application
-slug: 19b1b2ae-306c-11e5-8f19-005056a71e3a
 menu: 
 website_url: http://www.beeldengeluidwebarchief.nl/
 thumb_image: "/uploads/Beeldengeluidwebarchief_screenshot.jpg"
@@ -17,10 +20,6 @@ themes:
 - Access
 - Users
 - Humanities
-tags:
-- Speech Search
-- Digital Humanities
-- Virtual Research Environment
 contenttypes:
 - Audio
 - Video

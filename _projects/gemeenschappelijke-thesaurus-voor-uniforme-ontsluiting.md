@@ -1,7 +1,6 @@
 ---
 title: Gemeenschappelijke Thesaurus voor Uniforme Ontsluiting
 layout: project
-slug: 3f0b59a8-57f1-11e6-87b0-005056a71e3a
 menu: projects
 website_url: 
 thumb_image: "/uploads/GTUO.png"
@@ -9,7 +8,6 @@ description: Establish connections between different collections and allow for c
   search and browsing
 themes:
 - Metadata & Context
-tags: []
 partners:
 - VIAA
 - Netherlands Institute for Sound and Vision

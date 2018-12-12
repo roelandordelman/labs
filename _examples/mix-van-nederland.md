@@ -1,7 +1,8 @@
 ---
 title: Mix van Nederland
+tags:
+- remixing
 layout: example
-slug: 2f944204-9e61-11e5-a8cf-005056a71e3a
 menu: examples
 website_url: 
 info_url: 
@@ -18,8 +19,6 @@ creators:
 - Burhan Eskin
 - Samira Abdelwajid
 - Mellissa Geutskens
-tags:
-- remixing
 organizations:
 - name: Hogeschool van Amsterdam
   url: http://www.hva.nl

@@ -1,7 +1,10 @@
 ---
 title: Verteld Verleden
+tags:
+- Speech Search
+- Digital Humanities
+- Virtual Research Environment
 layout: project
-slug: a728c296-2a1b-11e5-b980-005056a71e3a
 menu: projects
 website_url: http://www.verteldverleden.org
 thumb_image: "/uploads/AXES_poster.png"
@@ -11,10 +14,6 @@ themes:
 - Access
 - Humanities
 - Users
-tags:
-- Speech Search
-- Digital Humanities
-- Virtual Research Environment
 partners:
 - DANS
 - Erasmus University

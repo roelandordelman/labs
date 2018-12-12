@@ -1,7 +1,8 @@
 ---
 title: Radio.Garden
+tags:
+- radio
 layout: application
-slug: 234168c6-fcfa-11e6-a3f3-0050569ef392
 menu: 
 website_url: http://radio.garden/
 thumb_image: "/uploads/radio_garden.png"
@@ -17,8 +18,6 @@ themes:
 - Humanities
 - Users
 - Access
-tags:
-- radio
 contenttypes:
 - Audio
 requestauthentication: 

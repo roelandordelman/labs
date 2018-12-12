@@ -1,15 +1,5 @@
 ---
 title: QuaMeRDES
-layout: project
-slug: dbd21ad2-edb3-11e4-8099-005056a71e3a
-menu: projects
-website_url: http://www.clarin.nl/node/1404
-thumb_image: "/uploads/nasamerdes_Poster.png"
-description: Quantitative content analysis of media researchers' data
-themes:
-- Access
-- Use and Context
-- Humanities
 tags:
 - Academic Research
 - Digital Humanities
@@ -18,6 +8,15 @@ tags:
 - Analysis
 - CLARIAH
 - Context Collections
+layout: project
+menu: projects
+website_url: http://www.clarin.nl/node/1404
+thumb_image: "/uploads/nasamerdes_Poster.png"
+description: Quantitative content analysis of media researchers' data
+themes:
+- Access
+- Use and Context
+- Humanities
 partners:
 - Netherlands Institute for Sound and Vision
 - Utrecht University

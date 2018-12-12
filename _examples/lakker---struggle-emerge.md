@@ -1,7 +1,6 @@
 ---
 title: Lakker - Struggle & Emerge
 layout: example
-slug: 994bb708-5a50-11e6-87b0-005056a71e3a
 menu: examples
 website_url: http://revivethis.org/Sessions/lakker-sound-and-vision/
 info_url: https://beeldengeluid.atavist.com/lakker
@@ -14,7 +13,6 @@ related_event:
 github: 
 creators:
 - Lakker
-tags: []
 organizations: 
 used_sources:
 - name: Sound of The Netherlands dataset

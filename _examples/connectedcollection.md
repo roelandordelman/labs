@@ -1,7 +1,6 @@
 ---
 title: ConnectedCollection
 layout: example
-slug: cf49f162-a312-11e5-9e6c-005056a71e3a
 menu: examples
 website_url: http://www.connectedcollection.com
 info_url: 
@@ -14,7 +13,6 @@ related_event: Apps voor Nederland 2012
 github: 
 creators:
 - Wout van Wezel
-tags: []
 organizations:
 - name: Cit
   url: http://www.go2cit.nl/

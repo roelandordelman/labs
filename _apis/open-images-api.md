@@ -1,15 +1,14 @@
 ---
 title: Open Images API
+tags:
+- Open Video
+- Reuse
 layout: api
-slug: dbd1c7ee-edb3-11e4-8099-005056a71e3a
 menu: 
 website_url: http://www.openimages.eu/api
 thumb_image: "/uploads/openimages_poster.png"
 description: The API enables harvesting all metadata and links to the content
 project_id: dbd2dbf2-edb3-11e4-8099-005056a71e3a
-tags:
-- Open Video
-- Reuse
 mediatypes:
 - Video
 - Metadata

@@ -1,7 +1,11 @@
 ---
 title: Open Cultuur Data
+tags:
+- Open data
+- Open cultural data
+- Apps
+- Reuse
 layout: project
-slug: f0adb896-217d-11e5-b980-005056a71e3a
 menu: projects
 website_url: http://www.opencultuurdata.nl/
 thumb_image: "/uploads/AXES_poster.png"
@@ -10,11 +14,6 @@ description: Open Culture Data is committed to open up data from the cultural se
 themes:
 - Access
 - Metadata & Context
-tags:
-- Open data
-- Open cultural data
-- Apps
-- Reuse
 partners:
 - Netherlands Institute for Sound and Vision
 - Kennisland

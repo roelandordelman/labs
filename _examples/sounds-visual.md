@@ -1,7 +1,6 @@
 ---
 title: Sounds Visual
 layout: example
-slug: 6fde58be-a310-11e5-9e6c-005056a71e3a
 menu: examples
 website_url: http://sndrv.nl/soundsvisual/
 info_url: 
@@ -14,7 +13,6 @@ related_event: Open Culture Data Competition 2012
 github: 
 creators:
 - Sander Veenhof
-tags: []
 organizations:
 - name: SNDRV
   url: http://sndrv.nl/

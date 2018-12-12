@@ -1,7 +1,6 @@
 ---
 title: Open Cultuur Data Search
 layout: example
-slug: fb661666-a3d7-11e5-8084-005056a71e3a
 menu: examples
 website_url: http://search.opencultuurdata.nl/
 info_url: http://search.opencultuurdata.nl/#/about
@@ -15,7 +14,6 @@ github: https://github.com/openstate/ocd-search
 creators:
 - Frank Sträter
 - Open State Foundation
-tags: []
 organizations:
 - name: Open State Foundation
   url: http://openstate.eu/

@@ -1,7 +1,9 @@
 ---
 title: Open Images Platform
+tags:
+- Open Media
+- Open Source
 layout: application
-slug: 37cad89a-ae04-11e5-8084-005056a71e3a
 menu: 
 website_url: http://www.openimages.eu
 thumb_image: "/uploads/openimages_poster.png"
@@ -15,9 +17,6 @@ status:
 themes:
 - Access
 - Metadata & Context
-tags:
-- Open Media
-- Open Source
 contenttypes:
 - Video
 - Audio

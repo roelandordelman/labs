@@ -1,7 +1,12 @@
 ---
 title: LinkedTV Editor Tool
+tags:
+- Video annotation
+- Television
+- LOD
+- Content Enrichments
+- Interactive Television
 layout: application
-slug: dbd0d12c-edb3-11e4-8099-005056a71e3a
 menu: 
 website_url: http://editortoolv2.linkedtv.eu/
 thumb_image: "/uploads/linkedtv_wide.png"
@@ -15,12 +20,6 @@ status:
 themes:
 - Metadata & Context
 - Access
-tags:
-- Video annotation
-- Television
-- LOD
-- Content Enrichments
-- Interactive Television
 contenttypes:
 - Video
 requestauthentication:

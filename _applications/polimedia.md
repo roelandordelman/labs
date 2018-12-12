@@ -1,7 +1,12 @@
 ---
 title: PoliMedia
+tags:
+- LOD
+- Semantic Web
+- Digital Humanities
+- Government
+- Political Debates
 layout: application
-slug: dbd0f116-edb3-11e4-8099-005056a71e3a
 menu: 
 website_url: http://polimedia.nl
 thumb_image: "/uploads/polimedia_wide.png"
@@ -15,12 +20,6 @@ status:
 themes:
 - Metadata & Context
 - Humanities
-tags:
-- LOD
-- Semantic Web
-- Digital Humanities
-- Government
-- Political Debates
 contenttypes:
 - Text
 requestauthentication: 

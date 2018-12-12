@@ -1,7 +1,8 @@
 ---
 title: Tom's tijdmachine
+tags:
+- game
 layout: example
-slug: 0e5e589a-9e57-11e5-a8cf-005056a71e3a
 menu: examples
 website_url: 
 info_url: 
@@ -18,8 +19,6 @@ creators:
 - Luc Waardenburg (visual designer)
 - Bram Blom (Interaction designer)
 - Jeffrey Beckers (projectmanager/contentmanager)
-tags:
-- game
 organizations:
 - name: Hogeschool van Amsterdam
   url: http://www.hva.nl

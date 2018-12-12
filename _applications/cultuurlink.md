@@ -1,7 +1,10 @@
 ---
 title: CultuurLINK
+tags:
+- Alignment
+- SKOS
+- Vocabularies
 layout: application
-slug: d5fd3274-1a70-11e5-b980-005056a71e3a
 menu: 
 website_url: http://cultuurlink.beeldengeluid.nl/
 thumb_image: "/uploads/cultuurlink_screenshot.jpg"
@@ -16,10 +19,6 @@ themes:
 - Metadata & Context
 - Users
 - Humanities
-tags:
-- Alignment
-- SKOS
-- Vocabularies
 contenttypes:
 - Metadata
 requestauthentication: 

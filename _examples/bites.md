@@ -1,7 +1,6 @@
 ---
 title: Bites
 layout: example
-slug: b3406a8e-a27f-11e5-93ae-005056a71e3a
 menu: examples
 website_url: http://bites.designpunt.nl/
 info_url: 
@@ -17,7 +16,6 @@ creators:
 - Tom Toepol ( interaction designer)
 - Jente Insing (visual designer)
 - Robbert van der Steenhoven (developer)
-tags: []
 organizations:
 - name: Hogeschool van Amsterdam
   url: http://www.hva.nl

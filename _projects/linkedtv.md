@@ -1,7 +1,12 @@
 ---
 title: LinkedTV
+tags:
+- Video annotation
+- Television
+- LOD
+- Content Enrichments
+- Interactive Television
 layout: project
-slug: dbd261d6-edb3-11e4-8099-005056a71e3a
 menu: projects
 website_url: http://www.linkedtv.eu
 thumb_image: "/uploads/linkedtv_poster.png"
@@ -11,12 +16,6 @@ themes:
 - Users
 - Access
 - Use and Context
-tags:
-- Video annotation
-- Television
-- LOD
-- Content Enrichments
-- Interactive Television
 partners:
 - Netherlands Institute for Sound and Vision
 - CERTH

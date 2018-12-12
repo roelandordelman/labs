@@ -1,7 +1,11 @@
 ---
 title: Musical Crossroads
+tags:
+- Linked Data
+- Visualization
+- Classical Music
+- Composers
 layout: application
-slug: cb51d770-acfa-11e7-bf7f-0050569ef392
 menu: 
 website_url: http://musicinmovement.eu/graph
 thumb_image: "/uploads/MiMgraph.png"
@@ -15,11 +19,6 @@ status:
 themes:
 - Metadata & Context
 - Humanities
-tags:
-- Linked Data
-- Visualization
-- Classical Music
-- Composers
 contenttypes:
 - Metadata
 requestauthentication: 

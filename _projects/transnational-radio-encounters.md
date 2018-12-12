@@ -1,7 +1,8 @@
 ---
 title: Transnational Radio Encounters
+tags:
+- radio
 layout: project
-slug: deb93ff6-fcfb-11e6-bc09-0050569ef392
 menu: projects
 website_url: http://www.transnationalradio.org/
 thumb_image: "/uploads/radio_garden.png"
@@ -11,8 +12,6 @@ themes:
 - Humanities
 - Users
 - Access
-tags:
-- radio
 partners:
 - Martin-Luther-University
 - Utrecht University

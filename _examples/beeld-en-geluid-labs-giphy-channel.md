@@ -1,7 +1,8 @@
 ---
 title: Beeld en Geluid Labs Giphy channel
+tags:
+- GIFs
 layout: example
-slug: 78ddb3d2-186d-11e7-acb1-0050569ef392
 menu: examples
 website_url: https://giphy.com/benglabs
 info_url: 
@@ -14,8 +15,6 @@ related_event:
 github: 
 creators:
 - Beeld en Geluid
-tags:
-- GIFs
 organizations: 
 used_sources:
 - name: Sound and Vision on Open Images

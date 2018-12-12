@@ -1,7 +1,6 @@
 ---
 title: Culture Derby
 layout: example
-slug: 7bda91a0-a315-11e5-93ae-005056a71e3a
 menu: examples
 website_url: http://demo.deanbirkett.name/LDOIGA/home.html
 info_url: http://www.beeldengeluid.nl/en/node/10261
@@ -21,7 +20,6 @@ creators:
 - Lizzy Komen
 - Jaap Blom
 - Evelien Wolda
-tags: []
 organizations:
 - name: Netherlands Institute for Sound and Vision
   url: http://www.beeldengeluid.nl

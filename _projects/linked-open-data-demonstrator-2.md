@@ -1,7 +1,9 @@
 ---
 title: Linked Open Data Demonstrator 2
+tags:
+- Vocabularies
+- Alignment
 layout: project
-slug: 06e627fc-1a70-11e5-811b-005056a71e3a
 menu: projects
 website_url: 
 thumb_image: "/uploads/avresearcherxl_poster.png"
@@ -9,9 +11,6 @@ description: Developing an openly available Thesaurus alignment service for Dutc
   heritage institutions
 themes:
 - Metadata & Context
-tags:
-- Vocabularies
-- Alignment
 partners:
 - Netherlands Institute for Sound and Vision
 - RCE

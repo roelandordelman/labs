@@ -1,7 +1,14 @@
 ---
 title: DIVE
+tags:
+- LOD
+- Digital History
+- Digital Hermeneutics
+- Heterogeneous Data Cloud
+- Historical Events
+- Maritime data
+- Crowdsourcing
 layout: application
-slug: dbd0184a-edb3-11e4-8099-005056a71e3a
 menu: 
 website_url: http://dive.beeldengeluid.nl
 thumb_image: "/uploads/dive_wide.png"
@@ -15,14 +22,6 @@ status:
 themes:
 - Humanities
 - Metadata & Context
-tags:
-- LOD
-- Digital History
-- Digital Hermeneutics
-- Heterogeneous Data Cloud
-- Historical Events
-- Maritime data
-- Crowdsourcing
 contenttypes:
 - Text
 - Metadata

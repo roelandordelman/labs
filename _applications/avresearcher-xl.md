@@ -1,7 +1,14 @@
 ---
 title: AVResearcher XL
+tags:
+- Academic Research
+- Digital Humanities
+- Media Studies
+- Exploring
+- Analysis
+- CLARIAH
+- Context Collections
 layout: application
-slug: dbd09298-edb3-11e4-8099-005056a71e3a
 menu: 
 website_url: http://avresearcher.clariah.beeldengeluid.nl
 thumb_image: "/uploads/avresearcherxl_wide.png"
@@ -15,14 +22,6 @@ status:
 themes:
 - Humanities
 - Metadata & Context
-tags:
-- Academic Research
-- Digital Humanities
-- Media Studies
-- Exploring
-- Analysis
-- CLARIAH
-- Context Collections
 contenttypes:
 - Text
 - Metadata

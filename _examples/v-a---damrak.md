@@ -1,7 +1,6 @@
 ---
 title: V.A. - Damrak
 layout: example
-slug: e2056084-905b-11e6-a3f3-0050569ef392
 menu: examples
 website_url: http://revivethis.org/Sessions/damrak/
 info_url: 
@@ -23,7 +22,6 @@ creators:
 - Born in Flamez
 - Lemontrip
 - Know V.A.
-tags: []
 organizations: 
 used_sources:
 - name: Sound of The Netherlands dataset

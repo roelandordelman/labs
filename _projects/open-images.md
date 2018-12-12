@@ -1,7 +1,9 @@
 ---
 title: Open Images
+tags:
+- Reuse
+- Open Video
 layout: project
-slug: dbd2dbf2-edb3-11e4-8099-005056a71e3a
 menu: projects
 website_url: http://www.openbeelden.nl
 thumb_image: "/uploads/openimages_wide.png"
@@ -11,9 +13,6 @@ themes:
 - Access
 - Use and Context
 - Users
-tags:
-- Reuse
-- Open Video
 partners:
 - The Netherlands Institute for Sound and Vision
 - Kennisland

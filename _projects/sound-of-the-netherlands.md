@@ -1,7 +1,11 @@
 ---
 title: Sound of the Netherlands
+tags:
+- Radio stories
+- ASR
+- Content Enrichments
+- COMMIT
 layout: project
-slug: dbd2f7b8-edb3-11e4-8099-005056a71e3a
 menu: projects
 website_url: http://www.geluidvannederland.nl/
 thumb_image: "/uploads/gvnl_poster.png"
@@ -10,11 +14,6 @@ themes:
 - Digitization and Preservation
 - Access
 - Use and Context
-tags:
-- Radio stories
-- ASR
-- Content Enrichments
-- COMMIT
 partners:
 - The Netherlands Institute for Sound and Vision
 - Kennisland

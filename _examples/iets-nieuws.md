@@ -1,7 +1,6 @@
 ---
 title: Iets Nieuws
 layout: example
-slug: 62e6a992-57f4-11e6-87b0-005056a71e3a
 menu: examples
 website_url: http://tinyurl.com/ietsnieuwsgame
 info_url: http://biktorrr.github.io/ietsnieuws/
@@ -15,7 +14,6 @@ github: https://github.com/biktorrr/ietsnieuws
 creators:
 - Lukas Hulsbergen
 - Victor de Boer
-tags: []
 organizations:
 - name: VU University
   url: http://www.vu.nl
