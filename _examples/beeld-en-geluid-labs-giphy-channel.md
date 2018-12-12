@@ -1,9 +1,9 @@
 ---
 title: Beeld en Geluid Labs Giphy channel
+permalink: "/example/78ddb3d2-186d-11e7-acb1-0050569ef392"
 tags:
 - GIFs
 example_id: 78ddb3d2-186d-11e7-acb1-0050569ef392
-permalink: "/example/78ddb3d2-186d-11e7-acb1-0050569ef392"
 menu: examples
 website_url: https://giphy.com/benglabs
 thumb_image: "/uploads/Giphy.png"

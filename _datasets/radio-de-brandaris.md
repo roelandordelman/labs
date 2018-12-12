@@ -1,7 +1,7 @@
 ---
 title: Radio De Brandaris
-dataset_id: e4fde4ac-2be6-11e6-a743-005056a71e3a
 permalink: "/dataset/e4fde4ac-2be6-11e6-a743-005056a71e3a"
+dataset_id: e4fde4ac-2be6-11e6-a743-005056a71e3a
 website_url: https://soundcloud.com/beeldengeluid/sets/radio-de-brandaris
 description: Collection of radio broadcasts by Radio De Brandaris
 project_id: f0adb896-217d-11e5-b980-005056a71e3a

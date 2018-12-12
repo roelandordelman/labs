@@ -1,11 +1,11 @@
 ---
 title: Nightingale & Canary
+permalink: "/example/372811a0-9e8c-11e5-a2a1-005056a71e3a"
 tags:
 - bird songs
 - Europeana
 - sound sculpture
 example_id: 372811a0-9e8c-11e5-a2a1-005056a71e3a
-permalink: "/example/372811a0-9e8c-11e5-a2a1-005056a71e3a"
 menu: examples
 website_url: https://vimeo.com/103364847
 info_url: http://www.beeldengeluid.nl/en/blogs/research-amp-development-en/201409/creating-inspirational-video-archival-bird-songs

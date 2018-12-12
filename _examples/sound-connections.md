@@ -1,7 +1,7 @@
 ---
 title: Sound Connections
-example_id: d897ee3e-a323-11e5-9e6c-005056a71e3a
 permalink: "/example/d897ee3e-a323-11e5-9e6c-005056a71e3a"
+example_id: d897ee3e-a323-11e5-9e6c-005056a71e3a
 menu: examples
 website_url: https://www.historypin.org/en/explore/sound-connections
 info_url: https://www.historypin.org/en/explore/sound-connections/geo/51.916308,5.291266,5/bounds/39.502965,-6.354242,61.647501,16.936774/project/about

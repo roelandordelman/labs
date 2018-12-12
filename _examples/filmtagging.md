@@ -1,7 +1,7 @@
 ---
 title: Filmtagging
-example_id: 35cb11d0-2d7b-11e6-87b0-005056a71e3a
 permalink: "/example/35cb11d0-2d7b-11e6-87b0-005056a71e3a"
+example_id: 35cb11d0-2d7b-11e6-87b0-005056a71e3a
 menu: examples
 website_url: http://astacia.eculture.labs.vu.nl/
 thumb_image: "/uploads/filmtagging.png"

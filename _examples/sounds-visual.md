@@ -1,7 +1,7 @@
 ---
 title: Sounds Visual
-example_id: 6fde58be-a310-11e5-9e6c-005056a71e3a
 permalink: "/example/6fde58be-a310-11e5-9e6c-005056a71e3a"
+example_id: 6fde58be-a310-11e5-9e6c-005056a71e3a
 menu: examples
 website_url: http://sndrv.nl/soundsvisual/
 thumb_image: "/uploads/Soundsvisual_poster.png"

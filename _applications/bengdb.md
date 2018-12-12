@@ -1,9 +1,9 @@
 ---
 title: BengDB
+permalink: "/application/90e196ba-217f-11e5-b980-005056a71e3a"
 tags:
 - Open data
 application_id: 90e196ba-217f-11e5-b980-005056a71e3a
-permalink: "/application/90e196ba-217f-11e5-b980-005056a71e3a"
 thumb_image: "/uploads/Schermafbeelding_2015-07-03_om_14.22.47.png"
 poster_image: "/uploads/Schermafbeelding_2015-07-03_om_14.22.47.png"
 description: A visual encyclopedia of Dutch TV history combining multiple open data

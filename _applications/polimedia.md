@@ -1,5 +1,6 @@
 ---
 title: PoliMedia
+permalink: "/application/dbd0f116-edb3-11e4-8099-005056a71e3a"
 tags:
 - LOD
 - Semantic Web
@@ -7,7 +8,6 @@ tags:
 - Government
 - Political Debates
 application_id: dbd0f116-edb3-11e4-8099-005056a71e3a
-permalink: "/application/dbd0f116-edb3-11e4-8099-005056a71e3a"
 website_url: http://polimedia.nl
 thumb_image: "/uploads/polimedia_wide.png"
 poster_image: "/uploads/polimedia_poster.png"
