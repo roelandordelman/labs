@@ -2,7 +2,7 @@
 title: Transnational Radio Encounters
 tags:
 - radio
-layout: project
+slug: deb93ff6-fcfb-11e6-bc09-0050569ef392
 menu: projects
 website_url: http://www.transnationalradio.org/
 thumb_image: "/uploads/radio_garden.png"
@@ -26,13 +26,12 @@ partners:
 - European Broadcasting Union
 - Deutschlandradio Kultur
 - Athena Media
-predecessors: 
 contactpersons:
 - organization: Netherlands Institute for Sound and Vision
   name: Bas Agterberg
   email: bagterberg@beeldengeluid.nl
-publications: 
-blogposts: 
+predecessors: 
+layout: project
 ---
 
 TRE aims at establishing a new transnational agenda in radio research. Moving through and beyond national and comparative paradigms in order to investigate radio's transnational structures and forms, TRE places radio research within contemporary discussions about migration, cultural identities, encounters and memories by generating new knowledge about the meaning of radio and listening in the age of globalisation and digitisation.
