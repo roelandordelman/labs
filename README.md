@@ -1,4 +1,4 @@
-# LABS Sound and Vision [![Build Status](https://travis-ci.org/bloemendalprijs/bloemendalprijs.github.io.svg?branch=master)](https://travis-ci.org/bloemendalprijs/bloemendalprijs.github.io)
+# LABS Sound and Vision
 
 This is the code repository for the website http://labs.beeldengeluid.nl
 
