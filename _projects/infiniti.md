@@ -5,7 +5,7 @@ tags:
 - ASR
 - Content Enrichments
 - COMMIT
-layout: project
+slug: dbd2a100-edb3-11e4-8099-005056a71e3a
 menu: projects
 website_url: http://project-infiniti.nl/
 thumb_image: "/uploads/RadioPlus_Context_Browser_Poster.png"
@@ -33,7 +33,6 @@ partners:
 - Textkernel
 - ThirdSight
 - WCC
-predecessors: 
 contactpersons:
 - organization: Netherlands Institute for Sound and Vision
   name: Roeland Ordelman
@@ -41,7 +40,8 @@ contactpersons:
 publications:
 - title: INFINITI (Information Retrieval for Information Services)
   url: http://www.commit-nl.nl/projects/information-retrieval-for-information-services
-blogposts: 
+predecessors: 
+layout: project
 ---
 
 Project Infiniti develops and enables the exploitation of open source and open standards tools to support semantic search. We develop retrieval models, algorithms and implementations that combine information retrieval and information extraction technology to provide genuine information access.
