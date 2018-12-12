@@ -1,6 +1,6 @@
 ---
 title: Projects
-position: 1
+position: 2
 layout: projects
 menu: projects
 ---

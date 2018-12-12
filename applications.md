@@ -1,6 +1,6 @@
 ---
 title: Applications
-position: 9
+position: 1
 menu: home
 submenu: applications
 subtitle: Go ahead and try out our applications
