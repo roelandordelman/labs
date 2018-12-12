@@ -1,6 +1,6 @@
 ---
 title: About
-position: 8
+position: 5
 layout: page
 menu: about
 subtitle: About us
