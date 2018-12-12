@@ -3,8 +3,7 @@ title: Open Images API
 tags:
 - Open Video
 - Reuse
-layout: api
-menu: 
+slug: dbd1c7ee-edb3-11e4-8099-005056a71e3a
 website_url: http://www.openimages.eu/api
 thumb_image: "/uploads/openimages_poster.png"
 description: The API enables harvesting all metadata and links to the content
@@ -16,6 +15,7 @@ contactpersons:
 - organization: Nederlands Instituut voor Beeld en Geluid
   name: Maarten Brinkerink
   email: mbrinkerink@beeldengeluid.nl
+layout: api
 ---
 
 Open Images is an open media platform that offers online access to audiovisual archive material to stimulate creative reuse. All media items and their descriptions (metadata) are also accessible via an Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH) API. This allows third parties to access Open Images in a structured way.
