@@ -6,6 +6,7 @@ tags:
 - Content Enrichments
 - Radio stories
 project_id: dbd312fc-edb3-11e4-8099-005056a71e3a
+permalink: "/project/dbd312fc-edb3-11e4-8099-005056a71e3a"
 menu: projects
 website_url: http://www.nadebevrijding.nl/
 thumb_image: "/uploads/vidlink_poster.png"

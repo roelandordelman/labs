@@ -30,6 +30,7 @@ defaults:
   values:
     layout: api
     api_id: 
+    permalink: 
     menu: 
     title: 
     website_url: 
@@ -48,6 +49,7 @@ defaults:
   values:
     layout: application
     application_id: 
+    permalink: 
     menu: 
     title: 
     website_url: 
@@ -77,6 +79,7 @@ defaults:
   values:
     layout: dataset
     dataset_id: 
+    permalink: 
     menu: 
     title: 
     website_url: 
@@ -95,6 +98,7 @@ defaults:
   values:
     layout: example
     example_id: 
+    permalink: 
     menu: 
     title: 
     website_url: 
@@ -120,6 +124,7 @@ defaults:
   values:
     layout: project
     project_id: 
+    permalink: 
     menu: 
     title: 
     website_url: 

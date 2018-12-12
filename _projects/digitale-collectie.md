@@ -4,6 +4,7 @@ tags:
 - Aggregator
 - Digitisation
 project_id: dbd33368-edb3-11e4-8099-005056a71e3a
+permalink: "/project/dbd33368-edb3-11e4-8099-005056a71e3a"
 menu: projects
 website_url: http://www.digitalecollectie.nl/
 thumb_image: "/uploads/digitalecollectie_poster.png"

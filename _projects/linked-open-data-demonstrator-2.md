@@ -4,6 +4,7 @@ tags:
 - Vocabularies
 - Alignment
 project_id: 06e627fc-1a70-11e5-811b-005056a71e3a
+permalink: "/project/06e627fc-1a70-11e5-811b-005056a71e3a"
 menu: projects
 thumb_image: "/uploads/avresearcherxl_poster.png"
 description: Developing an openly available Thesaurus alignment service for Dutch
