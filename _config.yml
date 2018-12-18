@@ -146,7 +146,7 @@ defaults:
 email: rd@beeldengeluid.nl
 description: showcases tools, demos and prototypes developed by the R&D department
   of the Netherlands Institute for Sound and Vision
-baseurl:
+baseurl: 
 url: http://labs.beeldengeluid.nl
 twitter_username: benglabs
 github_username: beeldengeluid
