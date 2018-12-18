@@ -39,7 +39,8 @@ Just about any traditional web hosting provider will let you upload files to the
 
 ## Authors
 
-* __Frank Sträter__ - code
+* __Jaap Blom__ - design & development
+* __Frank Sträter__ - data architecture
 
 ## Acknowledgments
 
