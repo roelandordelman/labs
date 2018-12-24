@@ -13,7 +13,7 @@
 						<td style="white-space:nowrap">Related project</td>
 						<td>
 							{% assign projects = site.projects | where:"project_id", page.project_id %}
-							<a id="project" href="{{ projects[0].url | relative_url }}">{{ projects[0].title }}</a>
+							<a id="project" href="{{ projects[0].url }}">{{ projects[0].title }}</a>
 						</td>
 					</tr>
 					{% endif %}
@@ -92,9 +92,15 @@
 			<h4 class="bengfont">{{ page.title | upcase }}</h4>
 			{{ content }}
 			<p class="links">
+				{% if page.website_url %}
 				<i class="fa fa-link"></i> <a href="{{ page.website_url }}">{{ page.website_url }}</a><br/>
+				{% endif %}
+				{% if page.github %}
 				<i class="fa fa-github"></i> <a href="{{ page.github }}">{{ page.github }}</a><br/>
+				{% endif %}
+				{% if projects[0].url %}
 				<i class="fa fa-cogs"></i><a id="project" href="{{ projects[0].url }}">{{ projects[0].title }}</a>
+				{% endif %}
 			</p>
 		</div>
 	</div>
