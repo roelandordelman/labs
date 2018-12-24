@@ -1,6 +1,6 @@
 # LABS Sound and Vision
 
-This is the code repository for the website http://labs.beeldengeluid.nl
+This is the code repository for the website https://labs.beeldengeluid.nl
 
 ## Getting Started
 
@@ -41,6 +41,7 @@ Just about any traditional web hosting provider will let you upload files to the
 
 * __Jaap Blom__ - design & development
 * __Frank Sträter__ - data architecture
+* __Evelien Wolda__ - content
 
 ## Acknowledgments
 
