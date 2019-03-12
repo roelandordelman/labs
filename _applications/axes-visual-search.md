@@ -8,12 +8,10 @@ tags:
 - Video hyperlinking
 - Access models
 application_id: 6ade370a-1b50-11e5-b980-005056a71e3a
-website_url: http://lepelaar.beeldengeluid.nl/axes/home/academia/#/
 thumb_image: "/uploads/AXES_poster.png"
 poster_image: "/uploads/AXES_poster.png"
 description: State-of-the-art Video Search Engine
 project_id: 3a0a9b4c-1b4f-11e5-bf8d-005056a71e3a
-access: Open (only accessible in the Sound and Vision network)
 github: https://github.com/kencoken/axes-lite
 status:
 - Completed
