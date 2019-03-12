@@ -6,14 +6,13 @@ tags:
 - ASR
 - Content Enrichments
 application_id: dbd10fca-edb3-11e4-8099-005056a71e3a
-website_url: http://woordnl.rdlabs.beeldengeluid.nl/woordnl-fc
 thumb_image: "/uploads/woordnlfc_poster.png"
 poster_image: "/uploads/woordnlfc_poster.png"
 description: Contextualize RSS feeds with woord.nl content
 project_id: dbd2a100-edb3-11e4-8099-005056a71e3a
 access: Open
 status:
-- In Development
+- Completed
 themes:
 - Metadata & Context
 contenttypes:
@@ -33,4 +32,4 @@ Three important factors influence the quality of the system:
 1. the size of the underlying database with archive content (in a small database it will be hard to find relevant content for a given news item);2. the type of content in the underlying database (in a collection of in-depth interviews on cultural topics it will be less probable to find content related to a sports news event);
 3. the quality of the linking technology.
 
-The technology is connected to the [Woord.nl](http://www.woord.nl/start.html) platform: a collection of historical and recent radio stories. Partners in our work are media industry representatives: content-owners (VPRO), archives (S&V) and technology providers (Cross-Media Interaction). In this application, one of the main difficulties is to automatically extract those keywords from the news text that have the best chance of finding relevant content in the available database. 
+The technology is connected to the Woord.nl platform: a collection of historical and recent radio stories. Partners in our work are media industry representatives: content-owners (VPRO), archives (S&V) and technology providers (Cross-Media Interaction). In this application, one of the main difficulties is to automatically extract those keywords from the news text that have the best chance of finding relevant content in the available database. 
