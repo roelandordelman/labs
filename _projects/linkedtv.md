@@ -34,11 +34,6 @@ contactpersons:
 - organization: Netherlands Institute for Sound and Vision
   name: Jaap Blom
   email: jblom@beeldengeluid.nl
-blogposts:
-- title: LinkedTV and AXES at IBC 2014
-  url: http://www.beeldengeluid.nl/en/node/9992/
-- title: 'Uit het lab: video hyperlinking (only available in Dutch)'
-  url: http://www.beeldengeluid.nl/node/7329/
 predecessors: 
 layout: project
 ---
