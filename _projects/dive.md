@@ -22,8 +22,8 @@ partners:
 - Frontwise
 contactpersons:
 - organization: Netherlands Institute for Sound and Vision
-  name: joomen@beeldengeluid.nl
-  email: Johan Oomen
+  name: Johan Oomen
+  email: joomen@beeldengeluid.nl
 predecessors:
 - name: AGORA
   url: http://agora.cs.vu.nl
