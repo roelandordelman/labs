@@ -1,9 +1,9 @@
 ---
 title: About
 position: 5
-layout: page
 menu: about
 subtitle: About us
+layout: page
 ---
 
 #### What about LABS?
@@ -27,6 +27,6 @@ _The Research and Development (R&D) department has their finger on the pulse of 
 
 The R&D research agenda focusses on five main themes: Access; Metadata and Context; Users; Humanities; and Preservation.
 
-Read about the activities of Sound and Vision's R&D department on our [blog](http://www.beeldengeluid.nl/en/blogs/Research-%26-Development-EN) or follow us on Twitter via [@benglabs](https://twitter.com/benglabs)
+Read about the activities of Sound and Vision's R&D department on our [blog](https://www.beeldengeluid.nl/kennis/blog) or follow us on Twitter via [@benglabs](https://twitter.com/benglabs)
 
 For more information about Sound and Vision R&D, please contact: [rd@beeldengeluid.nl](mailto:rd@beeldengeluid.nl)
