@@ -21,19 +21,13 @@ partners:
 - Digital Heritage Netherlands
 contactpersons:
 - organization: Netherlands Institute for Sound and Vision
-  name: Pieter Vijn
-  email: pvijn@beeldengeluid.nl
+  name: Dimitra Atsidis
+  email: datsidis@beeldengeluid.nl
 blogposts:
 - title: Nederlands erfgoed gaat digitaal (only available in Dutch)
-  url: http://www.beeldengeluid.nl/node/6526/
+  url: http://pers.beeldengeluid.nl/32821-digitale-collectie-brengt-nederlandse-erfgoedmetadata-samen
 - title: 5 nieuwtjes over de nationale aggregator (only available in Dutch)
-  url: http://www.beeldengeluid.nl/node/9433/
-- title: Nationaal knooppunt voor metadata (only available in Dutch)
-  url: http://www.beeldengeluid.nl/node/5151/
-- title: De grootste gemene deler (only available in Dutch)
-  url: http://www.beeldengeluid.nl/node/7953/
-- title: 'Studiedag: baas over eigen metadata? (only availabe in Dutch)'
-  url: http://www.beeldengeluid.nl/node/5536/
+  url: https://beeldengeluid.nl/kennis/blog/5-nieuwtjes-over-de-nationale-aggregator
 predecessors: 
 layout: project
 ---
