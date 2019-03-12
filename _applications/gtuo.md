@@ -18,10 +18,10 @@ contenttypes:
 - Metadata
 publications:
 - title: Final report GTUO (in Dutch)
-  url: http://viaa.be/assets/files/news/downloads/Eindrapport-GTUO-Taalunie.pdf
+  url: https://viaa.be/files/attachments/.143/Eindrapport_GTUO_Taalunie.pdf
 blogposts:
 - title: Connecting collections across national borders
-  url: http://www.beeldengeluid.nl/en/node/10892/
+  url: https://www.beeldengeluid.nl/en/knowledge/blog/connecting-collections-across-national-borders
 layout: application
 ---
 
