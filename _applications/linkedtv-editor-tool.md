@@ -16,7 +16,7 @@ project_id: dbd261d6-edb3-11e4-8099-005056a71e3a
 access: Open; Authentication needed
 github: https://github.com/beeldengeluid/linkedtv-editortool
 status:
-- In Development
+- Completed
 themes:
 - Metadata & Context
 - Access
@@ -28,11 +28,11 @@ requestauthentication:
   email: jblom@beeldengeluid.nl
 blogposts:
 - title: Smart TV apps at Europeana's Space workshop
-  url: http://www.beeldengeluid.nl/en/blogs/research-amp-development-en/201503/smart-tv-apps-europeana-space-workshop
+  url: https://www.beeldengeluid.nl/en/knowledge/blog/smart-tv-apps-europeana-space-workshop
 - title: LinkedTV's first year concluded
-  url: http://www.beeldengeluid.nl/en/blogs/research-and-development/201302/linkedtvs-first-year-concluded
+  url: https://www.beeldengeluid.nl/en/knowledge/blog/linkedtvs-first-year-concluded
 - title: Archive content and smart TV's
-  url: http://www.beeldengeluid.nl/en/blogs/research-amp-development/201310/archive-content-and-smart-tvs
+  url: https://www.beeldengeluid.nl/en/knowledge/blog/archive-content-and-smart-tvs
 layout: application
 ---
 
