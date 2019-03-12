@@ -3,7 +3,6 @@ title: Iets Nieuws
 permalink: "/example/62e6a992-57f4-11e6-87b0-005056a71e3a"
 example_id: 62e6a992-57f4-11e6-87b0-005056a71e3a
 menu: examples
-website_url: http://tinyurl.com/ietsnieuwsgame
 info_url: http://biktorrr.github.io/ietsnieuws/
 media_url: https://youtu.be/64xi63d9iCc
 thumb_image: "/uploads/IetsNieuws.png"
