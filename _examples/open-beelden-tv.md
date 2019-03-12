@@ -3,7 +3,6 @@ title: Open Beelden TV
 permalink: "/example/4762af58-a319-11e5-9e6c-005056a71e3a"
 example_id: 4762af58-a319-11e5-9e6c-005056a71e3a
 menu: examples
-website_url: http://openbeelden.nl/tv/
 thumb_image: "/uploads/opebveeldentv_poster.png"
 poster_image: "/uploads/opebveeldentv_poster.png"
 description: Interface to browse through the Open Images collection
