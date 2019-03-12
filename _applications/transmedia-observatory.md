@@ -18,7 +18,7 @@ project_id: dbd240e8-edb3-11e4-8099-005056a71e3a
 access: Authentication needed
 status:
 - Completed
-- In Development
+- 
 themes:
 - Humanities
 - Metadata & Context
