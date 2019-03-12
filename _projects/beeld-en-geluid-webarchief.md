@@ -25,7 +25,7 @@ contactpersons:
   email: agoos@beeldengeluid.nl
 blogposts:
 - title: Are you being crawled? Webarchivering bij Beeld en Geluid
-  url: http://www.beeldengeluid.nl/node/10024
+  url: https://www.beeldengeluid.nl/kennis/blog/are-you-being-crawled-webarchivering-bij-beeld-en-geluid
 predecessors:
 - name: LiWA
   url: http://liwa-project.eu/
