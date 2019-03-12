@@ -31,6 +31,6 @@ To contribute to the FLOSS inventory, email [Gregory Markus](mailto:gmarkus@beel
 * [BBC News Labs](http://bbcnewslabs.co.uk/ "BBC News Labs")
 * [British Library Labs](http://labs.bl.uk/ "British Library Labs")
 * [Europeana Labs](http://labs.europeana.eu/ "Europeana Labs")
-* [KBresearch Lab](http://lab.kbresearch.nl/ "KB Labs")
+* [KB Lab](http://lab.kb.nl/ "KB Lab")
 * [VRT](http://innovation.vrt.be/ "VRT")
 * [INA](http://recherche.ina.fr/eng "Institut national de l'audiovisuel (INA)")
