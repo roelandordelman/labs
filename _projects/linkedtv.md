@@ -34,9 +34,6 @@ contactpersons:
 - organization: Netherlands Institute for Sound and Vision
   name: Jaap Blom
   email: jblom@beeldengeluid.nl
-- organization: Netherlands Institute for Sound and Vision
-  name: Lotte Baltussen
-  email: lbbaltussen@beeldengeluid.nl
 blogposts:
 - title: LinkedTV and AXES at IBC 2014
   url: http://www.beeldengeluid.nl/en/node/9992/
