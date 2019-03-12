@@ -24,15 +24,9 @@ partners:
 - University of Amsterdam
 - National Library of the Netherlands
 contactpersons:
-- organization: Netherlands Institute for Sound and Vision
-  name: Eva Baaren
-  email: ebaaren@beeldengeluid.nl
 - organization: Utrecht University
   name: Jasmijn van Gorp
   email: j.vangorp@uu.nl
-blogposts:
-- title: Analysing subtitles and newspaper articles with QuaMeRDES
-  url: http://www.beeldengeluid.nl/en/node/7949/
 predecessors:
 - name: Merdes
   url: 
