@@ -27,17 +27,9 @@ contenttypes:
 - Video
 - Text
 requestauthentication:
-- organization: The Netherlands Institute for Sound and Vision
-  name: Eva Baaren
-  email: ebaaren@beeldengeluid.nl
 - organization: Utrecht University
   name: Jasmijn van Gorp
   email: j.vangorp@uu.nl
-blogposts:
-- title: Trove Transmedia Observatory
-  url: http://www.beeldengeluid.nl/trove-transmedia-observatory
-- title: Transmediale speurtocht
-  url: http://www.beeldengeluid.nl/blogs/research-and-development/201401/transmediale-speurtocht
 layout: application
 ---
 
