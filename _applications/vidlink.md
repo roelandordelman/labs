@@ -14,7 +14,7 @@ description: Interactive documentary explorer
 project_id: dbd312fc-edb3-11e4-8099-005056a71e3a
 access: Open
 status:
-- In Development
+- Completed
 themes:
 - Metadata & Context
 contenttypes:
