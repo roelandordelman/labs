@@ -24,9 +24,6 @@ contenttypes:
 publications:
 - title: Bringing parliamentary debates to the Semantic Web
   url: http://ceur-ws.org/Vol-902/paper_6.pdf
-blogposts:
-- title: Polemici wint internationale wedstrijd Linkedup Challenge
-  url: http://www.beeldengeluid.nl/nieuws/201309/polimedia-wint-internationale-wedstrijd-linkedup-challenge
 layout: application
 ---
 
