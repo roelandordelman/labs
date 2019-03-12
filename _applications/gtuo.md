@@ -9,6 +9,7 @@ thumb_image: "/uploads/GTUO.png"
 poster_image: "/uploads/GTUO.png"
 description: Search and explore connections between two aligned collections
 project_id: 3f0b59a8-57f1-11e6-87b0-005056a71e3a
+github: https://github.com/biktorrr/gtou_taalunie
 status:
 - Completed
 themes:
