@@ -1,9 +1,9 @@
 ---
 title: Links
 position: 7
-layout: page
 menu: links
 subtitle: Links we like
+layout: page
 ---
 
 #### GTAA - Shared Thesaurus for Audiovisual Archives
@@ -12,7 +12,7 @@ Together with other partners from the audiovisual cultural heritage sector, we h
 
 #### FLOSS Inventory
 
-The [FLOSS Inventory](http://bgweb.nl/floss/ "FLOSS Inventory") lists all the Free Libre Open Source Softwares relevant for the GLAM community. It contains:
+The [FLOSS Inventory](https://docs.google.com/spreadsheets/d/1bOoQiXFjGyR3oEubdLdkfCat7V4TsNLnEXGOJWkJ63c/edit?usp=sharing "FLOSS Inventory") lists all the Free Libre Open Source Softwares relevant for the GLAM community. It contains:
 
 1. Applications for accessing, working with or creating content, for example, timelines, interactive maps, tagging games and annotations tools.
 2. Applications for managing metadata, for example, back office tools for mapping or harvesting metadata, for publishing linked data, or for aligning ontologies.
@@ -28,7 +28,7 @@ To contribute to the FLOSS inventory, email [Gregory Markus](mailto:gmarkus@beel
 
 #### Other Labs
 
-* [BBC R&D Labs](http://www.bbc.co.uk/rd/labs "BBC Labs")
+* [BBC News Labs](http://bbcnewslabs.co.uk/ "BBC News Labs")
 * [British Library Labs](http://labs.bl.uk/ "British Library Labs")
 * [Europeana Labs](http://labs.europeana.eu/ "Europeana Labs")
 * [KBresearch Lab](http://lab.kbresearch.nl/ "KB Labs")
