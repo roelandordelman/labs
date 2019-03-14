@@ -1,14 +1,14 @@
 ---
 title: CoMeRDa
 date: 2019-03-14 16:22:00 +01:00
-published: false
 tags:
 - Cross-Collection Search
+- Digital Humanities
 thumb_image: "/uploads/comerda.jpg"
 poster_image: "/uploads/comerda.jpg"
 description: CoMeRDa is an aggregated search system that provides a web-based user
   interface with multiple options for visualizing search results
-code: https://bitbucket.org/ilps/comerda
+project_id: bridge
 status: Completed
 themes:
 - Humanities
@@ -17,6 +17,7 @@ contenttypes:
 - Video
 - Text
 - Images
+code: https://bitbucket.org/ilps/comerda
 ---
 
 CoMeRDa (Contextualized Media Research Data) is an aggregated search system that provides a web-based user interface with multiple options for visualizing search results. CoMeRDa enables search across multiple collections of the Netherlands Institute for Sound and Vision, separately (basic search), simultaneously (combined search) or looking for similar items across collections (similarity search).

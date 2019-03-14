@@ -1,7 +1,6 @@
 ---
 title: Bridge
 date: 2019-03-14 16:47:00 +01:00
-published: false
 tags:
 - Digital Humanities
 - Semantic Web
