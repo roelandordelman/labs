@@ -38,3 +38,5 @@ The application is a search engine for digital humanities that allows researcher
 TROVe was developed by [Utrecht University's Centre for Television in Transition](https://tvit.wp.hum.uu.nl), Intelligent Systems Lab Amsterdam and the Netherlands Institute for Sound and Vision. The partners worked together with Dispectu for the development of the back-end, and with [Frontwise](https://www.frontwise.com) for the design and development of the interface. 
 
 TROVe is only accessable for academic researchers and higher education.
+
+The TROVe tool has been rebuild for the [CLARIAH Media Suite](http://mediasuite.clariah.nl/).
