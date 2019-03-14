@@ -6,8 +6,8 @@ tags:
 - Digital Humanities
 thumb_image: "/uploads/comerda.jpg"
 poster_image: "/uploads/comerda.jpg"
-description: An aggregated search system that provides a web-based user interface
-  with multiple options for visualizing search results
+description: An aggregated search system with multiple options for visualizing search
+  results
 project_id: bridge
 status: Completed
 themes:
