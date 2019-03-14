@@ -25,4 +25,4 @@ CoMeRDa (Contextualized Media Research Data) is an aggregated search system that
 
 It is one of the tools developed during the BRIDGE Project (2009-2014), a collaboration between the Intelligent Systems Lab Amsterdam (ISLA) at the University of Amsterdam (UvA), the Centre for Television in Transition (TViT) at Utrecht University (UU), and the Netherlands Institute for Sound and Vision (Beeld en Geluid). It was part of the NWO-funded CATCH Programme.
 
-The CoMeRDa tool has been rebuild for the CLARIAH Media Suite.
+The CoMeRDa tool rebuild for the [CLARIAH Media Suite](http://mediasuite.clariah.nl/).
