@@ -9,6 +9,7 @@ poster_image: "/uploads/comerda.jpg"
 description: An aggregated search system with multiple options for visualizing search
   results
 project_id: bridge
+github: https://bitbucket.org/ilps/comerda
 status: Completed
 themes:
 - Humanities
