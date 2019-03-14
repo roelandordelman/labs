@@ -6,6 +6,7 @@ tags:
 - Digital Humanities
 - Semantic Web
 - LOD
+project_id: bridge
 menu: projects
 website_url: http://vps46235.public.cloudvps.com/bridge/
 description: Automatically creating meaningful links between dynamically expanding
