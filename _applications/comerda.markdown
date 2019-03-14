@@ -8,7 +8,7 @@ thumb_image: "/uploads/comerda.jpg"
 poster_image: "/uploads/comerda.jpg"
 description: CoMeRDa is an aggregated search system that provides a web-based user
   interface with multiple options for visualizing search results
-github: https://bitbucket.org/ilps/comerda
+code: https://bitbucket.org/ilps/comerda
 status: Completed
 themes:
 - Humanities
