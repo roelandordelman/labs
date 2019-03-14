@@ -39,3 +39,5 @@ The DIVE demonstrator uses semantics from existing collection vocabularies and l
 A subset of [the Netherlands Institute for Sound and Vision](https://www.beeldengeluid.nl/) collection was made available using the OAI-PMH protocol. These are videos of news broadcasters. For these videos descriptive metadata is available including free-text content description.
 
 The [National Library of the Netherlands](https://www.kb.nl/) provides access to the [ANP News Bulletin dataset](http://www.delpher.nl/nl/radiobulletins/). This dataset is made up of digitized typoscripts (radio news scripts, to be read during news broadcasts) from the period 1937-1984. These have been made public through a Web interface and API. The scanned images, OCRed content and descriptive metadata is available. The original data and metadata are available in Dutch.
+
+The DIVE tool has been rebuild for the [CLARIAH Media Suite](http://mediasuite.clariah.nl/).
