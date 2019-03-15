@@ -23,4 +23,4 @@ publications:
 
 In the television series The Mind of the Universe (VPRO, 2017) prominent scientists from all over the world are portrayed. All the raw video material, separate interview items and background information is made searchable in an online environment based on the transcriptions and keywords. The material can also be downloaded under an open license. 
 
-Sound and Vision collaborated with the VPRO on the realization of this online environment.
+Sound and Vision collaborated with the VPRO in the realization of this online environment.
