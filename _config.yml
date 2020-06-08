@@ -14,14 +14,14 @@ collections:
   examples:
     title: Examples
     output: true
-  research:
-    title: Research
-    output: true
   posts:
     title: Posts
     output: true
   projects:
     title: Projects
+    output: true
+  research:
+    title: Research
     output: true
   uploads:
     title: Uploads
