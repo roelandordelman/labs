@@ -1,0 +1,72 @@
+{% include header.html %}
+<br><br><br>
+<div class="container">
+	<div class="row">
+		<div class="col-md-5">
+			<div class="cardimage">
+				<img src="{{ page.poster_image | relative_url }}" alt="" class="img-responsive">
+			</div>
+			<table class="table">
+				<tbody>
+					{% if page.creators[0] != nil %}
+					<tr>
+						<td>Creators</td>
+						<td>{{ page.creators | join:' - ' }}</td>
+					</tr>
+					{% endif %}
+					{% if page.organizations[0].name != nil %}
+					<tr>
+						<td>Organizations</td>
+						<td>
+						{% for org in page.organizations %}
+							<a href="{{ org.url }}">{{ org.name }}</a><br>
+						{% endfor %}
+					</td>
+					</tr>
+					{% endif %}
+					{% if page.used_sources[0].name != nil %}
+					<tr>
+						<td>Used dataset, code, API</td>
+						<td>
+							{% for src in page.used_sources %}
+							<a href="{{ src.url }}">{{ src.name }}</a><br>
+							{% endfor %}
+						</td>
+					</tr>
+					{% endif %}
+					{% if page.related_project != nil %}
+					<tr>
+						<td>Related project</td>
+						<td>{{ page.related_project }}</td>
+					</tr>
+					{% endif %}
+					{% if page.related_event != nil %}
+					<tr>
+						<td>Related event</td>
+						<td>{{ page.related_event }}</td>
+					</tr>
+					{% endif %}
+				</tbody>
+			</table>
+		</div>
+		<div class="col-md-6 col-md-offset-1">
+			<h4 class="bengfont">{{ page.title | upcase }}</h4>
+			{{ page.content }}
+			<p class="links">
+				{% if page.website_url %}
+				<i class="fa fa-link"></i> <a href="{{ page.website_url }}">{{ page.website_url }}</a><br/>
+				{% endif %}
+				{% if page.github %}
+				<i class="fa fa-github"></i> <a href="{{ page.github }}">{{ page.github }}</a><br/>
+				{% endif %}
+				{% if page.info_url %}
+				<i class="fa fa-info"></i> <a href="{{ page.info_url }}">{{ page.info_url }}</a><br/>
+				{% endif %}
+				{% if page.media_url %}
+				<i class="fa fa-video-camera"></i> <a href="{{ page.media_url }}">{{ page.media_url }}</a><br/>
+			{% endif %}
+			</p>
+		</div>
+	</div>
+</div>
+{% include footer.html %}
