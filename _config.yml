@@ -14,6 +14,9 @@ collections:
   examples:
     title: Examples
     output: true
+  research:
+    title: Research
+    output: true
   posts:
     title: Posts
     output: true
@@ -98,6 +101,32 @@ defaults:
   values:
     layout: example
     example_id: 
+    permalink: 
+    menu: 
+    title: 
+    website_url: 
+    info_url: 
+    media_url: 
+    thumb_image: 
+    poster_image: 
+    description: 
+    related_project: 
+    related_event: 
+    github: 
+    creators: []
+    tags: []
+    organizations:
+    - name: 
+      url: 
+    used_sources:
+    - name: 
+      url: 
+- scope:
+    path: ''
+    type: research
+  values:
+    layout: research_project
+    research_id: 
     permalink: 
     menu: 
     title: 
